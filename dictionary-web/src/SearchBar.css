@@ -1,0 +1,154 @@
+/* Container */
+.search-container {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto 30px auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: #fff;
+  overflow: hidden;
+  display: block; /* Add this */
+}
+
+/* Input */
+.search-input {
+  flex: 1;
+  padding: 12px 15px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+/* Button */
+.search-button {
+  padding: 12px 20px;
+  background-color: #1a73e8;
+  color: white;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.search-button:hover {
+  background-color: #155ab6;
+  transform: scale(1.05);
+}
+
+/* Suggestions List */
+.suggestions-list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  max-height: 250px;
+  overflow-y: auto;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-top: none;
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  animation: fadeInList 0.3s ease;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: block !important;
+  color: black !important;
+  position: relative !important;
+  margin-top: 0;
+}
+
+.suggestions-list li {
+  padding: 10px 15px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  transition: background 0.2s ease;
+  outline: none;
+}
+
+.suggestions-list li.active,
+.suggestions-list li:focus {
+  background-color: #e3edfc;
+}
+
+.suggestions-list li:hover {
+  background-color: #f0f4ff;
+}
+
+.suggestion-word {
+  font-weight: 500;
+  color: #333;
+}
+
+.suggestion-pos {
+  font-size: 12px;
+  color: #777;
+}
+
+/* Highlight typed letters */
+.highlight-match {
+  font-weight: 700;
+  color: #1a73e8;
+}
+
+.highlight {
+  color: #333;
+}
+
+/* No results */
+.no-suggestion {
+  padding: 10px 15px;
+  color: #999;
+  text-align: left;
+  font-style: italic;
+  cursor: default;
+}
+
+/* Suggestions fade-in animation */
+@keyframes fadeInList {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Loading overlay */
+.loading-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: #1a73e8;
+  font-size: 16px;
+  z-index: 30;
+  border-radius: 10px;
+}
+
+/* Spinner */
+.spinner {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border: 3px solid #1a73e8;
+  border-top: 3px solid transparent;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+/* Spinner animation */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.search-row {
+  display: flex;
+  align-items: center;
+}

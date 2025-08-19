@@ -1,0 +1,2003 @@
+[
+  {
+    "word": "apple",
+    "pos": "noun",
+    "definition": "A round fruit of a tree of the rose family."
+  },
+  {
+    "word": "apply",
+    "pos": "verb",
+    "definition": "To make a formal request or to put to use."
+  },
+  {
+    "word": "application",
+    "pos": "noun",
+    "definition": "A formal request or an act of putting something to use."
+  },
+  {
+    "word": "ant",
+    "pos": "noun",
+    "definition": "A small insect known for its structured colonies."
+  },
+  {
+    "word": "banana",
+    "pos": "noun",
+    "definition": "An elongated curved fruit with soft pulpy flesh."
+  },
+  {
+    "word": "band",
+    "pos": "noun",
+    "definition": "A group of people who play music together."
+  },
+  { "word": "band", "pos": "verb", "definition": "To unite in a group." },
+  { "word": "bat", "pos": "noun", "definition": "A nocturnal flying mammal." },
+  {
+    "word": "bat",
+    "pos": "verb",
+    "definition": "To hit something with a bat or club."
+  },
+  {
+    "word": "cat",
+    "pos": "noun",
+    "definition": "A small domesticated carnivorous mammal."
+  },
+  {
+    "word": "catch",
+    "pos": "verb",
+    "definition": "To capture or seize, especially after pursuit."
+  },
+  {
+    "word": "dog",
+    "pos": "noun",
+    "definition": "A domesticated carnivorous mammal with a barking sound."
+  },
+  {
+    "word": "dance",
+    "pos": "verb",
+    "definition": "To move rhythmically to music."
+  },
+  {
+    "word": "dance",
+    "pos": "noun",
+    "definition": "A series of movements to music."
+  },
+  {
+    "word": "eagle",
+    "pos": "noun",
+    "definition": "A large bird of prey with a massive hooked bill."
+  },
+  { "word": "eat", "pos": "verb", "definition": "To consume food." },
+  {
+    "word": "education",
+    "pos": "noun",
+    "definition": "The process of receiving or giving systematic instruction."
+  },
+  {
+    "word": "fast",
+    "pos": "adjective",
+    "definition": "Moving or capable of moving at high speed."
+  },
+  {
+    "word": "fast",
+    "pos": "adverb",
+    "definition": "Quickly; at high speed."
+  },
+  {
+    "word": "feel",
+    "pos": "verb",
+    "definition": "To experience an emotion or physical sensation."
+  },
+  {
+    "word": "friend",
+    "pos": "noun",
+    "definition": "A person whom one knows and has a bond of mutual affection with."
+  },
+  {
+    "word": "fun",
+    "pos": "noun",
+    "definition": "Enjoyment, amusement, or lighthearted pleasure."
+  },
+  {
+    "word": "funny",
+    "pos": "adjective",
+    "definition": "Causing laughter or amusement."
+  },
+  {
+    "word": "go",
+    "pos": "verb",
+    "definition": "To move from one place to another."
+  },
+  {
+    "word": "good",
+    "pos": "adjective",
+    "definition": "Having the required qualities; satisfactory."
+  },
+  {
+    "word": "great",
+    "pos": "adjective",
+    "definition": "Of an extent, amount, or intensity considerably above average."
+  },
+  {
+    "word": "happy",
+    "pos": "adjective",
+    "definition": "Feeling or showing pleasure or contentment."
+  },
+  {
+    "word": "hat",
+    "pos": "noun",
+    "definition": "A shaped covering for the head."
+  },
+  {
+    "word": "happen",
+    "pos": "verb",
+    "definition": "To take place or occur."
+  },
+  {
+    "word": "ice",
+    "pos": "noun",
+    "definition": "Frozen water."
+  },
+  {
+    "word": "idea",
+    "pos": "noun",
+    "definition": "A thought or suggestion as to a possible course of action."
+  },
+  {
+    "word": "identify",
+    "pos": "verb",
+    "definition": "To recognize or establish as being a particular person or thing."
+  },
+  {
+    "word": "jump",
+    "pos": "verb",
+    "definition": "To push oneself off a surface and into the air by using the muscles in the legs and feet."
+  },
+  {
+    "word": "jump",
+    "pos": "noun",
+    "definition": "An act of jumping from a surface."
+  },
+  {
+    "word": "joy",
+    "pos": "noun",
+    "definition": "A feeling of great pleasure and happiness."
+  },
+  {
+    "word": "key",
+    "pos": "noun",
+    "definition": "A small piece of shaped metal used to open a lock."
+  },
+  {
+    "word": "kind",
+    "pos": "adjective",
+    "definition": "Having or showing a friendly, generous, and considerate nature."
+  },
+  {
+    "word": "know",
+    "pos": "verb",
+    "definition": "To be aware of through observation, inquiry, or information."
+  },
+  {
+    "word": "laugh",
+    "pos": "verb",
+    "definition": "To make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement."
+  },
+  {
+    "word": "laugh",
+    "pos": "noun",
+    "definition": "The act or sound of laughing."
+  },
+  {
+    "word": "learn",
+    "pos": "verb",
+    "definition": "To gain or acquire knowledge of or skill in something."
+  },
+  {
+    "word": "light",
+    "pos": "noun",
+    "definition": "The natural agent that stimulates sight and makes things visible."
+  },
+  {
+    "word": "light",
+    "pos": "adjective",
+    "definition": "Having little weight; not heavy."
+  },
+  {
+    "word": "like",
+    "pos": "verb",
+    "definition": "To find agreeable, enjoyable, or satisfactory."
+  },
+  {
+    "word": "love",
+    "pos": "noun",
+    "definition": "An intense feeling of deep affection."
+  },
+  {
+    "word": "love",
+    "pos": "verb",
+    "definition": "To feel deep affection for someone."
+  },
+  {
+    "word": "make",
+    "pos": "verb",
+    "definition": "To form something by putting parts together."
+  },
+  { "word": "man", "pos": "noun", "definition": "An adult human male." },
+  { "word": "many", "pos": "adjective", "definition": "A large number of." },
+  {
+    "word": "move",
+    "pos": "verb",
+    "definition": "To go in a specified direction or manner."
+  },
+  {
+    "word": "music",
+    "pos": "noun",
+    "definition": "Vocal or instrumental sounds combined to produce harmony and expression of emotion."
+  },
+  {
+    "word": "nature",
+    "pos": "noun",
+    "definition": "The physical world and everything in it, including plants, animals, and landscapes."
+  },
+  {
+    "word": "near",
+    "pos": "adjective",
+    "definition": "Close to someone or something in distance."
+  },
+  {
+    "word": "near",
+    "pos": "adverb",
+    "definition": "At a short distance away."
+  },
+  {
+    "word": "need",
+    "pos": "verb",
+    "definition": "To require something because it is essential or very important."
+  },
+  {
+    "word": "need",
+    "pos": "noun",
+    "definition": "Something that is required or wanted."
+  },
+  {
+    "word": "never",
+    "pos": "adverb",
+    "definition": "At no time in the past or future; not ever."
+  },
+  {
+    "word": "new",
+    "pos": "adjective",
+    "definition": "Not existing before; made, introduced, or discovered recently."
+  },
+  {
+    "word": "news",
+    "pos": "noun",
+    "definition": "Newly received or noteworthy information."
+  },
+  {
+    "word": "next",
+    "pos": "adjective",
+    "definition": "Coming immediately after the present one."
+  },
+  {
+    "word": "nice",
+    "pos": "adjective",
+    "definition": "Pleasant; agreeable; satisfactory."
+  },
+  {
+    "word": "night",
+    "pos": "noun",
+    "definition": "The period of darkness between sunset and sunrise."
+  },
+  {
+    "word": "no",
+    "pos": "adverb",
+    "definition": "Used to give a negative response."
+  },
+  {
+    "word": "noise",
+    "pos": "noun",
+    "definition": "A sound, especially one that is loud or unpleasant."
+  },
+  {
+    "word": "not",
+    "pos": "adverb",
+    "definition": "Used to make a word or statement negative."
+  },
+  {
+    "word": "note",
+    "pos": "noun",
+    "definition": "A brief record of facts, topics, or thoughts written down."
+  },
+  {
+    "word": "note",
+    "pos": "verb",
+    "definition": "To observe carefully; to pay attention to."
+  },
+  { "word": "now", "pos": "adverb", "definition": "At the present moment." },
+  {
+    "word": "number",
+    "pos": "noun",
+    "definition": "A numeral or group of numerals representing a quantity."
+  },
+  {
+    "word": "obey",
+    "pos": "verb",
+    "definition": "To comply with commands, restrictions, or rules."
+  },
+  {
+    "word": "object",
+    "pos": "noun",
+    "definition": "A material thing that can be seen and touched."
+  },
+  {
+    "word": "object",
+    "pos": "verb",
+    "definition": "To express or feel disapproval, dislike, or opposition."
+  },
+  {
+    "word": "observe",
+    "pos": "verb",
+    "definition": "To notice or perceive something and register it as being significant."
+  },
+  {
+    "word": "offer",
+    "pos": "verb",
+    "definition": "To present or proffer something for someone to accept."
+  },
+  {
+    "word": "offer",
+    "pos": "noun",
+    "definition": "A proposal to give or do something."
+  },
+  {
+    "word": "office",
+    "pos": "noun",
+    "definition": "A room or set of rooms where business or professional duties are carried out."
+  },
+  {
+    "word": "often",
+    "pos": "adverb",
+    "definition": "Frequently; many times."
+  },
+  {
+    "word": "old",
+    "pos": "adjective",
+    "definition": "Having lived for a long time; not young."
+  },
+  {
+    "word": "only",
+    "pos": "adjective",
+    "definition": "Sole; single; no others."
+  },
+  {
+    "word": "open",
+    "pos": "verb",
+    "definition": "To move a door, window, or lid so that it is no longer closed."
+  },
+  {
+    "word": "open",
+    "pos": "adjective",
+    "definition": "Not closed or blocked; accessible."
+  },
+  {
+    "word": "opportunity",
+    "pos": "noun",
+    "definition": "A set of circumstances that makes it possible to do something."
+  },
+  {
+    "word": "order",
+    "pos": "noun",
+    "definition": "A request for something to be made, supplied, or served."
+  },
+  {
+    "word": "order",
+    "pos": "verb",
+    "definition": "To request something to be made, supplied, or delivered."
+  },
+  {
+    "word": "organize",
+    "pos": "verb",
+    "definition": "To arrange systematically; to coordinate activities efficiently."
+  },
+  {
+    "word": "other",
+    "pos": "adjective",
+    "definition": "Used to refer to someone or something else."
+  },
+  {
+    "word": "our",
+    "pos": "adjective",
+    "definition": "Belonging to or associated with us."
+  },
+  {
+    "word": "out",
+    "pos": "adverb",
+    "definition": "Moving or appearing to move away from a particular place."
+  },
+  {
+    "word": "outside",
+    "pos": "noun",
+    "definition": "The external side or surface of something."
+  },
+  {
+    "word": "outside",
+    "pos": "adjective",
+    "definition": "Situated on or near the exterior of something."
+  },
+  {
+    "word": "over",
+    "pos": "preposition",
+    "definition": "Extending directly upward from."
+  },
+  {
+    "word": "own",
+    "pos": "verb",
+    "definition": "To have something as property."
+  },
+  {
+    "word": "own",
+    "pos": "adjective",
+    "definition": "Belonging to oneself."
+  },
+  {
+    "word": "page",
+    "pos": "noun",
+    "definition": "One side of a sheet of paper in a book, magazine, or newspaper."
+  },
+  {
+    "word": "paint",
+    "pos": "verb",
+    "definition": "To cover a surface with paint."
+  },
+  {
+    "word": "paint",
+    "pos": "noun",
+    "definition": "A colored substance used for painting surfaces."
+  },
+  {
+    "word": "pair",
+    "pos": "noun",
+    "definition": "Two similar things that are used together."
+  },
+  {
+    "word": "pair",
+    "pos": "verb",
+    "definition": "To combine two things together."
+  },
+  {
+    "word": "paper",
+    "pos": "noun",
+    "definition": "Material manufactured in thin sheets for writing or printing on."
+  },
+  {
+    "word": "part",
+    "pos": "noun",
+    "definition": "A portion or division of a whole."
+  },
+  {
+    "word": "part",
+    "pos": "verb",
+    "definition": "To separate or divide."
+  },
+  {
+    "word": "party",
+    "pos": "noun",
+    "definition": "A social gathering of invited guests."
+  },
+  {
+    "word": "pass",
+    "pos": "verb",
+    "definition": "To move or cause to move in a specified direction."
+  },
+  {
+    "word": "pass",
+    "pos": "noun",
+    "definition": "A successful completion of a test or course."
+  },
+  {
+    "word": "pay",
+    "pos": "verb",
+    "definition": "To give money in exchange for goods or services."
+  },
+  {
+    "word": "peace",
+    "pos": "noun",
+    "definition": "Freedom from disturbance; tranquility."
+  },
+  {
+    "word": "people",
+    "pos": "noun",
+    "definition": "Human beings in general or considered collectively."
+  },
+  {
+    "word": "perform",
+    "pos": "verb",
+    "definition": "To carry out an action or task."
+  },
+  {
+    "word": "person",
+    "pos": "noun",
+    "definition": "A human being regarded as an individual."
+  },
+  {
+    "word": "phone",
+    "pos": "noun",
+    "definition": "A device used to communicate with others over long distances."
+  },
+  {
+    "word": "pick",
+    "pos": "verb",
+    "definition": "To choose or select from a number of options."
+  },
+  {
+    "word": "pick",
+    "pos": "noun",
+    "definition": "A tool used for breaking up hard surfaces."
+  },
+  {
+    "word": "place",
+    "pos": "noun",
+    "definition": "A particular position, point, or area in space."
+  },
+  {
+    "word": "place",
+    "pos": "verb",
+    "definition": "To put in a particular position."
+  },
+  {
+    "word": "plan",
+    "pos": "noun",
+    "definition": "A detailed proposal for doing or achieving something."
+  },
+  {
+    "word": "plan",
+    "pos": "verb",
+    "definition": "To decide on and arrange in advance."
+  },
+  {
+    "word": "play",
+    "pos": "verb",
+    "definition": "To engage in activity for enjoyment or recreation."
+  },
+  {
+    "word": "play",
+    "pos": "noun",
+    "definition": "Activity engaged in for enjoyment and recreation."
+  },
+  {
+    "word": "point",
+    "pos": "noun",
+    "definition": "A particular spot, place, or position in an area."
+  },
+  {
+    "word": "point",
+    "pos": "verb",
+    "definition": "To indicate a direction or location with a finger or object."
+  },
+  {
+    "word": "police",
+    "pos": "noun",
+    "definition": "The civil force responsible for maintaining public order and safety."
+  },
+  {
+    "word": "popular",
+    "pos": "adjective",
+    "definition": "Liked or admired by many people."
+  },
+  {
+    "word": "possible",
+    "pos": "adjective",
+    "definition": "Able to be done or achieved."
+  },
+  {
+    "word": "practice",
+    "pos": "noun",
+    "definition": "The repeated exercise of an activity to improve skill."
+  },
+  {
+    "word": "practice",
+    "pos": "verb",
+    "definition": "To perform an activity repeatedly to improve proficiency."
+  },
+  {
+    "word": "prefer",
+    "pos": "verb",
+    "definition": "To like one thing more than another."
+  },
+  {
+    "word": "prepare",
+    "pos": "verb",
+    "definition": "To make ready or suitable in advance."
+  },
+  {
+    "word": "present",
+    "pos": "noun",
+    "definition": "The period of time now occurring."
+  },
+  {
+    "word": "present",
+    "pos": "adjective",
+    "definition": "Existing or happening now."
+  },
+  {
+    "word": "present",
+    "pos": "verb",
+    "definition": "To give, show, or offer something."
+  },
+  {
+    "word": "press",
+    "pos": "verb",
+    "definition": "To apply pressure to something."
+  },
+  {
+    "word": "press",
+    "pos": "noun",
+    "definition": "Newspapers or journalists collectively."
+  },
+  {
+    "word": "price",
+    "pos": "noun",
+    "definition": "The amount of money expected, required, or given in payment for something."
+  },
+  {
+    "word": "print",
+    "pos": "verb",
+    "definition": "To produce text or images on paper with a machine."
+  },
+  {
+    "word": "print",
+    "pos": "noun",
+    "definition": "Text or images produced on paper."
+  },
+  {
+    "word": "private",
+    "pos": "adjective",
+    "definition": "For the use of a particular person or group; not public."
+  },
+  {
+    "word": "problem",
+    "pos": "noun",
+    "definition": "A matter or situation regarded as unwelcome or harmful and needing to be dealt with."
+  },
+  {
+    "word": "produce",
+    "pos": "verb",
+    "definition": "To make or manufacture from components or raw materials."
+  },
+  {
+    "word": "produce",
+    "pos": "noun",
+    "definition": "Agricultural products, especially fruits and vegetables."
+  },
+  {
+    "word": "program",
+    "pos": "noun",
+    "definition": "A planned series of events, items, or performances."
+  },
+  {
+    "word": "program",
+    "pos": "verb",
+    "definition": "To write a set of instructions for a computer to perform a task."
+  },
+  {
+    "word": "project",
+    "pos": "noun",
+    "definition": "An individual or collaborative enterprise planned to achieve a particular aim."
+  },
+  {
+    "word": "project",
+    "pos": "verb",
+    "definition": "To estimate or forecast something based on present trends."
+  },
+  {
+    "word": "promise",
+    "pos": "noun",
+    "definition": "A declaration that one will do something or that a particular thing will happen."
+  },
+  {
+    "word": "promise",
+    "pos": "verb",
+    "definition": "To assure someone that one will definitely do something or that something will happen."
+  },
+  {
+    "word": "protect",
+    "pos": "verb",
+    "definition": "To keep safe from harm or injury."
+  },
+  {
+    "word": "prove",
+    "pos": "verb",
+    "definition": "To demonstrate the truth or existence of something by evidence or argument."
+  },
+  {
+    "word": "provide",
+    "pos": "verb",
+    "definition": "To make available for use or supply."
+  },
+  {
+    "word": "public",
+    "pos": "adjective",
+    "definition": "Relating to or affecting all the people."
+  },
+  {
+    "word": "pull",
+    "pos": "verb",
+    "definition": "To exert force to move something toward oneself."
+  },
+  {
+    "word": "push",
+    "pos": "verb",
+    "definition": "To exert force on someone or something to move them away."
+  },
+  {
+    "word": "put",
+    "pos": "verb",
+    "definition": "To move or place something in a particular position."
+  },
+  {
+    "word": "quality",
+    "pos": "noun",
+    "definition": "The standard of something as measured against other things of a similar kind."
+  },
+  {
+    "word": "question",
+    "pos": "noun",
+    "definition": "A sentence worded or expressed so as to elicit information."
+  },
+  {
+    "word": "question",
+    "pos": "verb",
+    "definition": "To ask questions or express doubt about something."
+  },
+  {
+    "word": "quick",
+    "pos": "adjective",
+    "definition": "Moving fast or doing something in a short time."
+  },
+  {
+    "word": "quickly",
+    "pos": "adverb",
+    "definition": "At a fast speed; rapidly."
+  },
+  {
+    "word": "rain",
+    "pos": "noun",
+    "definition": "Water that falls from the clouds in drops."
+  },
+  {
+    "word": "rain",
+    "pos": "verb",
+    "definition": "To fall as water from clouds."
+  },
+  {
+    "word": "raise",
+    "pos": "verb",
+    "definition": "To lift or move to a higher position or level."
+  },
+  {
+    "word": "reach",
+    "pos": "verb",
+    "definition": "To arrive at a place or goal."
+  },
+  {
+    "word": "read",
+    "pos": "verb",
+    "definition": "To look at and comprehend the meaning of written or printed matter."
+  },
+  {
+    "word": "ready",
+    "pos": "adjective",
+    "definition": "Prepared mentally or physically for some experience or action."
+  },
+  {
+    "word": "real",
+    "pos": "adjective",
+    "definition": "Actually existing as a thing or occurring in fact."
+  },
+  {
+    "word": "reason",
+    "pos": "noun",
+    "definition": "A cause, explanation, or justification for an action or event."
+  },
+  {
+    "word": "receive",
+    "pos": "verb",
+    "definition": "To be given, presented with, or paid something."
+  },
+  {
+    "word": "record",
+    "pos": "noun",
+    "definition": "A written account of something that has happened."
+  },
+  {
+    "word": "record",
+    "pos": "verb",
+    "definition": "To set down in writing or some other permanent form."
+  },
+  {
+    "word": "reduce",
+    "pos": "verb",
+    "definition": "To make smaller or less in amount, degree, or size."
+  },
+  {
+    "word": "refer",
+    "pos": "verb",
+    "definition": "To direct someone for information or help."
+  },
+  {
+    "word": "reflect",
+    "pos": "verb",
+    "definition": "To throw back light, heat, or sound; to think deeply about something."
+  },
+  {
+    "word": "refuse",
+    "pos": "verb",
+    "definition": "To indicate unwillingness to do something."
+  },
+  {
+    "word": "regard",
+    "pos": "verb",
+    "definition": "To consider or think of someone or something in a specified way."
+  },
+  {
+    "word": "region",
+    "pos": "noun",
+    "definition": "An area or division, especially part of a country or the world."
+  },
+  {
+    "word": "relate",
+    "pos": "verb",
+    "definition": "To make or show a connection between."
+  },
+  {
+    "word": "release",
+    "pos": "verb",
+    "definition": "To allow something to be available or to set free."
+  },
+  {
+    "word": "remain",
+    "pos": "verb",
+    "definition": "To continue in a place, condition, or situation."
+  },
+  {
+    "word": "remember",
+    "pos": "verb",
+    "definition": "To bring to mind an awareness of someone or something from the past."
+  },
+  {
+    "word": "remove",
+    "pos": "verb",
+    "definition": "To take away or off from the position occupied."
+  },
+  {
+    "word": "report",
+    "pos": "noun",
+    "definition": "An account given of a particular matter, especially in writing."
+  },
+  {
+    "word": "report",
+    "pos": "verb",
+    "definition": "To give a spoken or written account of something."
+  },
+  {
+    "word": "represent",
+    "pos": "verb",
+    "definition": "To act or speak on behalf of someone or something."
+  },
+  {
+    "word": "require",
+    "pos": "verb",
+    "definition": "To need something for a particular purpose."
+  },
+  {
+    "word": "rest",
+    "pos": "noun",
+    "definition": "A period of relaxation or sleep."
+  },
+  {
+    "word": "rest",
+    "pos": "verb",
+    "definition": "To cease work or movement in order to relax."
+  },
+  {
+    "word": "result",
+    "pos": "noun",
+    "definition": "The outcome or consequence of an action or event."
+  },
+  {
+    "word": "return",
+    "pos": "verb",
+    "definition": "To go or come back to a place or condition."
+  },
+  {
+    "word": "return",
+    "pos": "noun",
+    "definition": "A coming or going back to a place or state."
+  },
+  {
+    "word": "rise",
+    "pos": "verb",
+    "definition": "To move from a lower position to a higher one."
+  },
+  {
+    "word": "road",
+    "pos": "noun",
+    "definition": "A wide way leading from one place to another."
+  },
+  {
+    "word": "rock",
+    "pos": "noun",
+    "definition": "The solid mineral material forming part of the surface of the earth."
+  },
+  {
+    "word": "rock",
+    "pos": "verb",
+    "definition": "To move gently to and fro or from side to side."
+  },
+  {
+    "word": "role",
+    "pos": "noun",
+    "definition": "The function assumed or part played by a person or thing."
+  },
+  {
+    "word": "room",
+    "pos": "noun",
+    "definition": "A space that can be occupied or where something can be done."
+  },
+  {
+    "word": "run",
+    "pos": "verb",
+    "definition": "To move at a speed faster than a walk."
+  },
+  {
+    "word": "safe",
+    "pos": "adjective",
+    "definition": "Protected from or not exposed to danger or risk."
+  },
+  {
+    "word": "sail",
+    "pos": "verb",
+    "definition": "To travel in a boat or ship."
+  },
+  {
+    "word": "salt",
+    "pos": "noun",
+    "definition": "A white crystalline substance used for seasoning and preserving food."
+  },
+  {
+    "word": "same",
+    "pos": "adjective",
+    "definition": "Identical; not different."
+  },
+  {
+    "word": "say",
+    "pos": "verb",
+    "definition": "To utter words so as to convey information, an opinion, a feeling, or intention."
+  },
+  {
+    "word": "school",
+    "pos": "noun",
+    "definition": "An institution for educating children."
+  },
+  {
+    "word": "science",
+    "pos": "noun",
+    "definition": "The intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world."
+  },
+  {
+    "word": "search",
+    "pos": "verb",
+    "definition": "To look for something carefully and thoroughly."
+  },
+  {
+    "word": "seat",
+    "pos": "noun",
+    "definition": "Something made or used for sitting on."
+  },
+  {
+    "word": "see",
+    "pos": "verb",
+    "definition": "To perceive with the eyes; to look at."
+  },
+  {
+    "word": "seek",
+    "pos": "verb",
+    "definition": "To attempt to find or obtain something."
+  },
+  {
+    "word": "sell",
+    "pos": "verb",
+    "definition": "To give something in exchange for money."
+  },
+  {
+    "word": "send",
+    "pos": "verb",
+    "definition": "To cause to go or be taken to a particular destination."
+  },
+  {
+    "word": "sense",
+    "pos": "noun",
+    "definition": "A faculty by which the body perceives an external stimulus; a feeling or perception."
+  },
+  {
+    "word": "serve",
+    "pos": "verb",
+    "definition": "To perform duties or services for another person or an organization."
+  },
+  {
+    "word": "service",
+    "pos": "noun",
+    "definition": "The action of helping or doing work for someone."
+  },
+  {
+    "word": "set",
+    "pos": "verb",
+    "definition": "To put something in a particular place or position."
+  },
+  {
+    "word": "set",
+    "pos": "noun",
+    "definition": "A group or collection of things that belong together."
+  },
+  {
+    "word": "settle",
+    "pos": "verb",
+    "definition": "To resolve or reach an agreement about an argument or problem."
+  },
+  {
+    "word": "shake",
+    "pos": "verb",
+    "definition": "To move something with quick, short movements from side to side or up and down."
+  },
+  {
+    "word": "shape",
+    "pos": "noun",
+    "definition": "The external form, contours, or outline of someone or something."
+  },
+  {
+    "word": "share",
+    "pos": "verb",
+    "definition": "To have a portion of something with others."
+  },
+  {
+    "word": "share",
+    "pos": "noun",
+    "definition": "A part or portion of a larger amount which is divided among a number of people."
+  },
+  {
+    "word": "show",
+    "pos": "verb",
+    "definition": "To cause or allow something to be visible."
+  },
+  {
+    "word": "show",
+    "pos": "noun",
+    "definition": "A performance or display of something."
+  },
+  {
+    "word": "side",
+    "pos": "noun",
+    "definition": "A position to the left or right of an object, place, or central point."
+  },
+  {
+    "word": "sign",
+    "pos": "noun",
+    "definition": "An object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else."
+  },
+  {
+    "word": "sign",
+    "pos": "verb",
+    "definition": "To write one's signature on a document to indicate agreement."
+  },
+  {
+    "word": "simple",
+    "pos": "adjective",
+    "definition": "Easily understood or done; presenting no difficulty."
+  },
+  {
+    "word": "sing",
+    "pos": "verb",
+    "definition": "To produce musical tones with the voice."
+  },
+  {
+    "word": "situation",
+    "pos": "noun",
+    "definition": "A set of circumstances in which one finds oneself."
+  },
+  {
+    "word": "size",
+    "pos": "noun",
+    "definition": "The physical dimensions, extent, or magnitude of something."
+  },
+  {
+    "word": "skill",
+    "pos": "noun",
+    "definition": "The ability to do something well; expertise."
+  },
+  {
+    "word": "sleep",
+    "pos": "verb",
+    "definition": "To rest with the eyes closed and the body inactive."
+  },
+  {
+    "word": "sleep",
+    "pos": "noun",
+    "definition": "A natural periodic state of rest for the mind and body."
+  },
+  {
+    "word": "slow",
+    "pos": "adjective",
+    "definition": "Not moving or operating quickly."
+  },
+  {
+    "word": "slowly",
+    "pos": "adverb",
+    "definition": "At a slow speed; not quickly."
+  },
+  {
+    "word": "small",
+    "pos": "adjective",
+    "definition": "Of a size that is less than normal or usual."
+  },
+  {
+    "word": "smile",
+    "pos": "verb",
+    "definition": "To form one's features into a pleased, kind, or amused expression."
+  },
+  {
+    "word": "smile",
+    "pos": "noun",
+    "definition": "A pleased, kind, or amused expression formed by curving the corners of the mouth."
+  },
+  {
+    "word": "snow",
+    "pos": "noun",
+    "definition": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes."
+  },
+  {
+    "word": "snow",
+    "pos": "verb",
+    "definition": "To fall as snow."
+  },
+  {
+    "word": "so",
+    "pos": "adverb",
+    "definition": "To such a great extent."
+  },
+  {
+    "word": "society",
+    "pos": "noun",
+    "definition": "The aggregate of people living together in a more or less ordered community."
+  },
+  {
+    "word": "solve",
+    "pos": "verb",
+    "definition": "To find an answer to a problem or question."
+  },
+  {
+    "word": "some",
+    "pos": "adjective",
+    "definition": "An unspecified amount or number of."
+  },
+  {
+    "word": "someone",
+    "pos": "pronoun",
+    "definition": "An unknown or unspecified person."
+  },
+  {
+    "word": "something",
+    "pos": "pronoun",
+    "definition": "An unspecified object or thing."
+  },
+  {
+    "word": "sometimes",
+    "pos": "adverb",
+    "definition": "Occasionally; now and then."
+  },
+  {
+    "word": "sort",
+    "pos": "noun",
+    "definition": "A category of things or people with a common feature."
+  },
+  {
+    "word": "sort",
+    "pos": "verb",
+    "definition": "To arrange systematically in groups or categories."
+  },
+  {
+    "word": "sound",
+    "pos": "noun",
+    "definition": "Vibrations that travel through the air and can be heard when they reach a person or animal's ear."
+  },
+  {
+    "word": "sound",
+    "pos": "verb",
+    "definition": "To emit or cause to emit sound."
+  },
+  {
+    "word": "speak",
+    "pos": "verb",
+    "definition": "To communicate vocally with words."
+  },
+  {
+    "word": "special",
+    "pos": "adjective",
+    "definition": "Better, greater, or otherwise different from what is usual."
+  },
+  {
+    "word": "stand",
+    "pos": "verb",
+    "definition": "To be in an upright position on the feet."
+  },
+  {
+    "word": "start",
+    "pos": "verb",
+    "definition": "To begin or set out on a journey or activity."
+  },
+  {
+    "word": "state",
+    "pos": "noun",
+    "definition": "The particular condition that someone or something is in at a specific time."
+  },
+  {
+    "word": "state",
+    "pos": "verb",
+    "definition": "To express something definitely or clearly in speech or writing."
+  },
+  {
+    "word": "stay",
+    "pos": "verb",
+    "definition": "To remain in the same place."
+  },
+  {
+    "word": "step",
+    "pos": "noun",
+    "definition": "The act or movement of lifting the foot and putting it down in another place."
+  },
+  {
+    "word": "step",
+    "pos": "verb",
+    "definition": "To move by lifting the foot and putting it down in another place."
+  },
+  {
+    "word": "stop",
+    "pos": "verb",
+    "definition": "To cease moving or operating; to come to an end."
+  },
+  {
+    "word": "story",
+    "pos": "noun",
+    "definition": "An account of imaginary or real people and events told for entertainment or instruction."
+  },
+  {
+    "word": "strategy",
+    "pos": "noun",
+    "definition": "A plan of action designed to achieve a long-term or overall aim."
+  },
+  {
+    "word": "street",
+    "pos": "noun",
+    "definition": "A public road in a city or town, typically with houses and buildings along it."
+  },
+  {
+    "word": "strong",
+    "pos": "adjective",
+    "definition": "Having the power to move heavy weights or perform other physically demanding tasks."
+  },
+  {
+    "word": "study",
+    "pos": "verb",
+    "definition": "To devote time and attention to acquiring knowledge."
+  },
+  {
+    "word": "study",
+    "pos": "noun",
+    "definition": "The devotion of time and attention to acquiring knowledge."
+  },
+  {
+    "word": "such",
+    "pos": "adjective",
+    "definition": "Of the type previously mentioned or specified."
+  },
+  {
+    "word": "suddenly",
+    "pos": "adverb",
+    "definition": "Quickly and unexpectedly."
+  },
+  {
+    "word": "suggest",
+    "pos": "verb",
+    "definition": "To put forward for consideration."
+  },
+  {
+    "word": "summer",
+    "pos": "noun",
+    "definition": "The warmest season of the year, between spring and autumn."
+  },
+  {
+    "word": "support",
+    "pos": "verb",
+    "definition": "To bear all or part of the weight; to give assistance."
+  },
+  {
+    "word": "support",
+    "pos": "noun",
+    "definition": "Assistance provided to help someone or something."
+  },
+  {
+    "word": "sure",
+    "pos": "adjective",
+    "definition": "Confident in what one thinks or knows; having no doubt."
+  },
+  {
+    "word": "system",
+    "pos": "noun",
+    "definition": "A set of connected things or parts forming a complex whole."
+  },
+  {
+    "word": "take",
+    "pos": "verb",
+    "definition": "To acquire possession, control, or occupancy of something."
+  },
+  {
+    "word": "talk",
+    "pos": "verb",
+    "definition": "To speak in order to give information or express ideas or feelings."
+  },
+  {
+    "word": "talk",
+    "pos": "noun",
+    "definition": "An instance of speaking; a speech or discussion."
+  },
+  {
+    "word": "teach",
+    "pos": "verb",
+    "definition": "To impart knowledge or instruct someone how to do something."
+  },
+  {
+    "word": "team",
+    "pos": "noun",
+    "definition": "A group of players forming one side in a competitive game or sport."
+  },
+  {
+    "word": "tell",
+    "pos": "verb",
+    "definition": "To communicate information, facts, or news to someone."
+  },
+  {
+    "word": "ten",
+    "pos": "number",
+    "definition": "The number equivalent to the product of two and five; 10."
+  },
+  {
+    "word": "term",
+    "pos": "noun",
+    "definition": "A word or phrase used to describe a thing or to express a concept."
+  },
+  {
+    "word": "test",
+    "pos": "noun",
+    "definition": "A procedure intended to establish the quality, performance, or reliability of something."
+  },
+  {
+    "word": "test",
+    "pos": "verb",
+    "definition": "To take measures to check the quality, performance, or reliability of something."
+  },
+  {
+    "word": "than",
+    "pos": "conjunction",
+    "definition": "Used to introduce the second element in a comparison."
+  },
+  {
+    "word": "thank",
+    "pos": "verb",
+    "definition": "To express gratitude to someone."
+  },
+  {
+    "word": "that",
+    "pos": "pronoun",
+    "definition": "Used to identify a specific person or thing observed or heard by the speaker."
+  },
+  {
+    "word": "the",
+    "pos": "article",
+    "definition": "Denoting one or more people or things already mentioned or assumed to be common knowledge."
+  },
+  {
+    "word": "their",
+    "pos": "adjective",
+    "definition": "Belonging to or associated with the people or things previously mentioned."
+  },
+  {
+    "word": "them",
+    "pos": "pronoun",
+    "definition": "Used to refer to two or more people or things previously mentioned."
+  },
+  {
+    "word": "then",
+    "pos": "adverb",
+    "definition": "At that time; at the time in question."
+  },
+  {
+    "word": "there",
+    "pos": "adverb",
+    "definition": "In, at, or to that place or position."
+  },
+  {
+    "word": "these",
+    "pos": "pronoun",
+    "definition": "Plural form of 'this'; used to identify specific things."
+  },
+  {
+    "word": "they",
+    "pos": "pronoun",
+    "definition": "Used to refer to two or more people or things previously mentioned."
+  },
+  {
+    "word": "thing",
+    "pos": "noun",
+    "definition": "An object that one need not, cannot, or does not wish to give a specific name to."
+  },
+  {
+    "word": "think",
+    "pos": "verb",
+    "definition": "To have a particular opinion, belief, or idea about someone or something."
+  },
+  {
+    "word": "third",
+    "pos": "adjective",
+    "definition": "Constituting number three in a sequence; 3rd."
+  },
+  {
+    "word": "this",
+    "pos": "pronoun",
+    "definition": "Used to identify a specific person or thing close at hand or being indicated."
+  },
+  {
+    "word": "those",
+    "pos": "pronoun",
+    "definition": "Plural of 'that'; used to identify people or things farther away."
+  },
+  {
+    "word": "though",
+    "pos": "conjunction",
+    "definition": "Despite the fact that; although."
+  },
+  {
+    "word": "thought",
+    "pos": "noun",
+    "definition": "An idea or opinion produced by thinking or occurring suddenly in the mind."
+  },
+  {
+    "word": "thousand",
+    "pos": "number",
+    "definition": "The number equivalent to the product of a hundred and ten; 1000."
+  },
+  {
+    "word": "three",
+    "pos": "number",
+    "definition": "The number following two; 3."
+  },
+  {
+    "word": "through",
+    "pos": "preposition",
+    "definition": "Moving in one side and out of the other side of something."
+  },
+  {
+    "word": "throw",
+    "pos": "verb",
+    "definition": "To propel something with force through the air by a movement of the arm and hand."
+  },
+  {
+    "word": "time",
+    "pos": "noun",
+    "definition": "The indefinite continued progress of existence and events in the past, present, and future."
+  },
+  {
+    "word": "tiny",
+    "pos": "adjective",
+    "definition": "Very small."
+  },
+  {
+    "word": "to",
+    "pos": "preposition",
+    "definition": "Expressing motion in the direction of a particular location."
+  },
+  {
+    "word": "today",
+    "pos": "noun",
+    "definition": "The present day."
+  },
+  {
+    "word": "together",
+    "pos": "adverb",
+    "definition": "With or in proximity to another person or people."
+  },
+  {
+    "word": "too",
+    "pos": "adverb",
+    "definition": "To a higher degree than is desirable, permissible, or possible; excessively."
+  },
+  {
+    "word": "told",
+    "pos": "verb",
+    "definition": "Past tense of 'tell'; communicated information to someone."
+  },
+  {
+    "word": "tonight",
+    "pos": "noun",
+    "definition": "The period of darkness in the present day; this evening."
+  },
+  {
+    "word": "too",
+    "pos": "adverb",
+    "definition": "Also; in addition."
+  },
+  {
+    "word": "top",
+    "pos": "noun",
+    "definition": "The highest or uppermost point, part, or surface of something."
+  },
+  {
+    "word": "total",
+    "pos": "adjective",
+    "definition": "Comprising the whole number or amount."
+  },
+  {
+    "word": "toward",
+    "pos": "preposition",
+    "definition": "In the direction of."
+  },
+  {
+    "word": "trade",
+    "pos": "noun",
+    "definition": "The action of buying and selling goods and services."
+  },
+  {
+    "word": "train",
+    "pos": "noun",
+    "definition": "A series of connected vehicles traveling on railways."
+  },
+  {
+    "word": "train",
+    "pos": "verb",
+    "definition": "To teach a particular skill or type of behavior through practice and instruction."
+  },
+  {
+    "word": "travel",
+    "pos": "verb",
+    "definition": "To make a journey, typically of some length."
+  },
+  {
+    "word": "tree",
+    "pos": "noun",
+    "definition": "A woody perennial plant, typically having a single stem or trunk and bearing lateral branches."
+  },
+  {
+    "word": "try",
+    "pos": "verb",
+    "definition": "To make an attempt or effort to do something."
+  },
+  {
+    "word": "turn",
+    "pos": "verb",
+    "definition": "To move in a circular direction around an axis or point."
+  },
+  {
+    "word": "turn",
+    "pos": "noun",
+    "definition": "A change of direction or rotation."
+  },
+  {
+    "word": "two",
+    "pos": "number",
+    "definition": "The number following one; 2."
+  },
+  {
+    "word": "type",
+    "pos": "noun",
+    "definition": "A category of people or things having common characteristics."
+  },
+  {
+    "word": "under",
+    "pos": "preposition",
+    "definition": "Directly below."
+  },
+  {
+    "word": "understand",
+    "pos": "verb",
+    "definition": "To grasp the meaning, significance, or nature of something."
+  },
+  {
+    "word": "unit",
+    "pos": "noun",
+    "definition": "An individual thing or person regarded as single and complete."
+  },
+  {
+    "word": "until",
+    "pos": "conjunction",
+    "definition": "Up to the point in time or the event mentioned."
+  },
+  {
+    "word": "up",
+    "pos": "adverb",
+    "definition": "Toward a higher place or position."
+  },
+  {
+    "word": "upon",
+    "pos": "preposition",
+    "definition": "More formal term for 'on', indicating position or contact."
+  },
+  {
+    "word": "use",
+    "pos": "verb",
+    "definition": "To take, hold, or deploy something as a means of accomplishing a purpose."
+  },
+  {
+    "word": "use",
+    "pos": "noun",
+    "definition": "The act of employing something for a purpose."
+  },
+  {
+    "word": "usual",
+    "pos": "adjective",
+    "definition": "Customary; commonly occurring or practiced."
+  },
+  {
+    "word": "value",
+    "pos": "noun",
+    "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something."
+  },
+  {
+    "word": "various",
+    "pos": "adjective",
+    "definition": "Different from one another; of different kinds or sorts."
+  },
+  {
+    "word": "very",
+    "pos": "adverb",
+    "definition": "To a high degree."
+  },
+  {
+    "word": "view",
+    "pos": "noun",
+    "definition": "The ability to see something or to be seen from a particular place."
+  },
+  {
+    "word": "view",
+    "pos": "verb",
+    "definition": "To look at or inspect something."
+  },
+  {
+    "word": "visit",
+    "pos": "verb",
+    "definition": "To go to see and spend time with someone or somewhere."
+  },
+  {
+    "word": "voice",
+    "pos": "noun",
+    "definition": "The sound produced in a person's larynx and uttered through the mouth, as speech or song."
+  },
+  {
+    "word": "wait",
+    "pos": "verb",
+    "definition": "To stay in a place until an expected event happens."
+  },
+  {
+    "word": "walk",
+    "pos": "verb",
+    "definition": "To move at a regular pace by lifting and setting down each foot in turn."
+  },
+  {
+    "word": "wall",
+    "pos": "noun",
+    "definition": "A continuous vertical brick or stone structure that encloses or divides an area of land."
+  },
+  {
+    "word": "want",
+    "pos": "verb",
+    "definition": "To desire something or wish for something to happen."
+  },
+  {
+    "word": "war",
+    "pos": "noun",
+    "definition": "A state of armed conflict between different countries or groups."
+  },
+  {
+    "word": "watch",
+    "pos": "verb",
+    "definition": "To look at or observe attentively over a period of time."
+  },
+  {
+    "word": "watch",
+    "pos": "noun",
+    "definition": "A small timepiece worn typically on a strap on one's wrist."
+  },
+  {
+    "word": "water",
+    "pos": "noun",
+    "definition": "A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain."
+  },
+  {
+    "word": "way",
+    "pos": "noun",
+    "definition": "A method, style, or manner of doing something."
+  },
+  {
+    "word": "we",
+    "pos": "pronoun",
+    "definition": "Used by a speaker to refer to himself or herself and one or more other people considered together."
+  },
+  {
+    "word": "weak",
+    "pos": "adjective",
+    "definition": "Lacking the power to perform physically demanding tasks; not strong."
+  },
+  {
+    "word": "wear",
+    "pos": "verb",
+    "definition": "To have clothing, accessories, or equipment on one's body."
+  },
+  {
+    "word": "weather",
+    "pos": "noun",
+    "definition": "The state of the atmosphere at a place and time, as regards heat, cloudiness, dryness, sunshine, wind, rain, etc."
+  },
+  {
+    "word": "week",
+    "pos": "noun",
+    "definition": "A period of seven days."
+  },
+  {
+    "word": "weight",
+    "pos": "noun",
+    "definition": "The measure of the heaviness of an object."
+  },
+  {
+    "word": "well",
+    "pos": "adverb",
+    "definition": "In a good or satisfactory way."
+  },
+  {
+    "word": "well",
+    "pos": "adjective",
+    "definition": "In good health."
+  },
+  {
+    "word": "west",
+    "pos": "noun",
+    "definition": "The direction toward the point of the horizon where the sun sets at the equinoxes."
+  },
+  {
+    "word": "what",
+    "pos": "pronoun",
+    "definition": "Used to ask for information specifying something."
+  },
+  {
+    "word": "when",
+    "pos": "adverb",
+    "definition": "At what time; at the time that."
+  },
+  {
+    "word": "where",
+    "pos": "adverb",
+    "definition": "In or to what place or position."
+  },
+  {
+    "word": "which",
+    "pos": "pronoun",
+    "definition": "Used to ask for information specifying one or more people or things from a definite set."
+  },
+  {
+    "word": "while",
+    "pos": "conjunction",
+    "definition": "During the time that; at the same time as."
+  },
+  {
+    "word": "white",
+    "pos": "adjective",
+    "definition": "Of the color of milk or fresh snow; the opposite of black."
+  },
+  {
+    "word": "who",
+    "pos": "pronoun",
+    "definition": "Used to introduce a clause giving further information about a person or people previously mentioned."
+  },
+  {
+    "word": "whole",
+    "pos": "adjective",
+    "definition": "All of; entire."
+  },
+  {
+    "word": "why",
+    "pos": "adverb",
+    "definition": "For what reason or purpose."
+  },
+  {
+    "word": "wide",
+    "pos": "adjective",
+    "definition": "Of great or more than average width."
+  },
+  {
+    "word": "wife",
+    "pos": "noun",
+    "definition": "A married woman considered in relation to her spouse."
+  },
+  {
+    "word": "will",
+    "pos": "verb",
+    "definition": "Expressing the future tense; expressing determination or intention."
+  },
+  {
+    "word": "win",
+    "pos": "verb",
+    "definition": "To be successful or victorious in a contest or conflict."
+  },
+  {
+    "word": "wind",
+    "pos": "noun",
+    "definition": "The perceptible natural movement of the air."
+  },
+  {
+    "word": "window",
+    "pos": "noun",
+    "definition": "An opening in the wall or roof of a building fitted with glass to admit light or air."
+  },
+  {
+    "word": "wish",
+    "pos": "verb",
+    "definition": "To feel or express a desire or hope for something."
+  },
+  {
+    "word": "with",
+    "pos": "preposition",
+    "definition": "Accompanied by (another person or thing)."
+  },
+  {
+    "word": "within",
+    "pos": "preposition",
+    "definition": "Inside the range or limits of something."
+  },
+  {
+    "word": "without",
+    "pos": "preposition",
+    "definition": "In the absence of; not having."
+  },
+  {
+    "word": "woman",
+    "pos": "noun",
+    "definition": "An adult human female."
+  },
+  {
+    "word": "word",
+    "pos": "noun",
+    "definition": "A single distinct meaningful element of speech or writing."
+  },
+  {
+    "word": "work",
+    "pos": "verb",
+    "definition": "To be engaged in physical or mental activity to achieve a purpose or result."
+  },
+  {
+    "word": "work",
+    "pos": "noun",
+    "definition": "Activity involving mental or physical effort done in order to achieve a result."
+  },
+  {
+    "word": "world",
+    "pos": "noun",
+    "definition": "The earth, together with all of its countries, peoples, and natural features."
+  },
+  {
+    "word": "worry",
+    "pos": "verb",
+    "definition": "To feel or cause to feel anxious or concerned."
+  },
+  {
+    "word": "write",
+    "pos": "verb",
+    "definition": "To mark letters, words, or symbols on a surface with a pen, pencil, or other instrument."
+  },
+  {
+    "word": "writer",
+    "pos": "noun",
+    "definition": "A person who writes books, articles, or other texts."
+  },
+  {
+    "word": "wrong",
+    "pos": "adjective",
+    "definition": "Not correct or true; incorrect."
+  },
+  {
+    "word": "yard",
+    "pos": "noun",
+    "definition": "A unit of linear measure equal to 3 feet (0.9144 meters) or a piece of enclosed ground."
+  },
+  {
+    "word": "year",
+    "pos": "noun",
+    "definition": "The period of 365 or 366 days starting from the first of January."
+  },
+  {
+    "word": "yes",
+    "pos": "exclamation",
+    "definition": "Used to give an affirmative response."
+  },
+  {
+    "word": "yesterday",
+    "pos": "noun",
+    "definition": "The day before today."
+  },
+  {
+    "word": "you",
+    "pos": "pronoun",
+    "definition": "Used to refer to the person or people that the speaker is addressing."
+  },
+  {
+    "word": "young",
+    "pos": "adjective",
+    "definition": "Having lived or existed for only a short time; not old."
+  },
+  {
+    "word": "your",
+    "pos": "adjective",
+    "definition": "Belonging to or associated with the person or people that the speaker is addressing."
+  },
+  {
+    "word": "yourself",
+    "pos": "pronoun",
+    "definition": "Used to refer to the person being addressed as the object of a verb or preposition when they are also the subject."
+  },
+  {
+    "word": "zero",
+    "pos": "noun",
+    "definition": "The numerical symbol 0; representing no quantity or null value."
+  },
+  {
+    "word": "zone",
+    "pos": "noun",
+    "definition": "An area or stretch of land having a particular characteristic, purpose, or use."
+  },
+  {
+    "word": "zoo",
+    "pos": "noun",
+    "definition": "A facility in which animals are housed within enclosures, displayed to the public, and in which they may also breed."
+  },
+  {
+    "word": "zoom",
+    "pos": "verb",
+    "definition": "To move quickly or to increase rapidly in size or scope."
+  },
+  {
+    "word": "zeal",
+    "pos": "noun",
+    "definition": "Great energy or enthusiasm in pursuit of a cause or objective."
+  },
+  {
+    "word": "zigzag",
+    "pos": "noun",
+    "definition": "A line or course having abrupt alternate right and left turns."
+  },
+  {
+    "word": "zip",
+    "pos": "verb",
+    "definition": "To fasten with a zipper; to move quickly."
+  },
+  {
+    "word": "zinc",
+    "pos": "noun",
+    "definition": "A chemical element (Zn) used as a protective coating for iron or steel."
+  },
+  {
+    "word": "zone out",
+    "pos": "phrasal verb",
+    "definition": "To become inattentive or lose focus temporarily."
+  },
+  {
+    "word": "zephyr",
+    "pos": "noun",
+    "definition": "A soft gentle breeze."
+  }
+]

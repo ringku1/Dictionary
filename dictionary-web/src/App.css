@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 30px 20px;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #1a73e8;
+  margin-bottom: 30px;
+  font-size: 36px;
+  font-weight: 700;
+}
