@@ -62,7 +62,7 @@ function App() {
       >
         {theme === "dark" ? "🌞" : "🌙"}
       </button>
-      <h1>Dictionary</h1>
+      <h1>BM Dictionary</h1>
       <SearchBar onSelectWord={handleSelectWord} />
       <WordDetail wordObj={selectedWord} onClose={handleCloseDetail} />
       <footer className="app-footer">
@@ -70,16 +70,20 @@ function App() {
           <div className="footer-section about-app">
             <h3>About This Dictionary App</h3>
             <p>
-              This app provides quick word lookups, part of speech, and
-              definitions using a clean, responsive interface. Built with React,
-              it features live suggestions, keyboard navigation, and dark mode
+              This is a simple dictionary app of Bishnupriya Manipuri Language
+              to English Language. This app provides quick word lookups, part of
+              speech, and definitions using a clean, responsive interface.It
+              features live suggestions, keyboard navigation, and dark mode
               support.
             </p>
           </div>
           <div className="footer-divider"></div>
           <div className="footer-section about-me">
             <h3>About Me</h3>
-            <p>Hi, I'm Ringku. I'm just an Engineer!</p>
+            <p>
+              Hi, I'm Ringku. I'm just an Engineer! I'm just curious about my
+              Bishnupriya Manipuri literature.
+            </p>
           </div>
           <div className="footer-divider"></div>
           <div className="footer-section contact-info">

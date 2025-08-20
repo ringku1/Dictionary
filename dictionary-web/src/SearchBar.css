@@ -185,6 +185,7 @@
   font-size: 16px;
   display: flex;
   align-items: center;
+  white-space: pre; /* preserve spaces exactly as in the string */
 }
 [data-theme="dark"] .suggestion-word {
   color: #8ab4f8;
