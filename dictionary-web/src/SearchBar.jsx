@@ -116,22 +116,7 @@ const SearchBar = ({ onSelectWord }) => {
     );
   };
 
-  // Click outside to close suggestions
-  useEffect(() => {
-    const handleClickOutside = (e) => {
-      if (
-        suggestionRef.current &&
-        !suggestionRef.current.contains(e.target) &&
-        inputRef.current &&
-        !inputRef.current.contains(e.target)
-      ) {
-        setShowSuggestions(false);
-        setActiveIdx(-1);
-      }
-    };
-    document.addEventListener("mousedown", handleClickOutside);
-    return () => document.removeEventListener("mousedown", handleClickOutside);
-  }, []);
+  // Click outside handler removed so suggestions stay visible
 
   return (
     <div className="search-container">
