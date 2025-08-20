@@ -280,8 +280,533 @@
     "definition": "অকনা Aknä - Meeting (N.).মে. ওকনপা।"
   },
   {
-    "word": "অকনা",
+    "word": "অকলাক",
     "pos": "noun",
-    "definition": "অকনা Aknä - Meeting (N.).মে. ওকনপা।"
+    "definition": "অকলাক Aklāk - A wrapper for babies (N.). মে. অকপা = to receive + লাকপা = to bind"
+  },
+  {
+    "word": "Aklāk",
+    "pos": "noun",
+    "definition": "অকলাক Aklāk - A wrapper for babies (N.). মে. অকপা = to receive + লাকপা = to bind"
+  },
+  {
+    "word": "অকলৌকরে",
+    "pos": "adverb",
+    "definition": "অকলৌকরে Aklaukare - Excessively (Adv.). মে. ওকপা = Sufficient + লৌপা = to receive + বি.ম. করে।"
+  },
+  {
+    "word": "Aklaukare",
+    "pos": "adverb",
+    "definition": "অকলৌকরে Aklaukare - Excessively (Adv.). মে. ওকপা = Sufficient + লৌপা = to receive + বি.ম. করে।"
+  },
+  {
+    "word": "অক্ষর",
+    "pos": "noun",
+    "definition": "অক্ষর Akkhar - Letter (N.). সং. Ts. akşara."
+  },
+  {
+    "word": "Akkhar",
+    "pos": "noun",
+    "definition": "অক্ষর Akkhar - Letter (N.). সং. Ts. akşara."
+  },
+  {
+    "word": "অগণ্য",
+    "pos": "adjective",
+    "definition": "অগণ্য Aganya - Uncountable, many (Adj.). Ts. aganya."
+  },
+  {
+    "word": "Aganya",
+    "pos": "adjective",
+    "definition": "অগণ্য Aganya - Uncountable, many (Adj.). Ts. aganya."
+  },
+  {
+    "word": "অগতি",
+    "pos": "adjective",
+    "definition": "অগতি Agati - Helpless (Adj.), helplessness. Ts."
+  },
+  {
+    "word": "Agati",
+    "pos": "adjective",
+    "definition": "অগতি Agati - Helpless (Adj.), helplessness. Ts."
+  },
+  {
+    "word": "অগাধ",
+    "pos": "adjective",
+    "definition": "অগাধ Agådh - Bottomless, much (Adj.). Ts."
+  },
+  {
+    "word": "Agådh",
+    "pos": "adjective",
+    "definition": "অগাধ Agådh - Bottomless, much (Adj.). Ts."
+  },
+  {
+    "word": "অগোচর",
+    "pos": "adjective",
+    "definition": "অগোচর Agocar - Invisible (Adj.). Ts."
+  },
+  {
+    "word": "Agocar",
+    "pos": "adjective",
+    "definition": "অগোচর Agocar - Invisible (Adj.). Ts."
+  },
+  {
+    "word": "অগ্রাহ্য",
+    "pos": "adjective",
+    "definition": "অগ্রাহ্য Agrājya - Unacceptable (Adj.). Ts."
+  },
+  {
+    "word": "Agrājya",
+    "pos": "adjective",
+    "definition": "অগ্রাহ্য Agrājya - Unacceptable (Adj.). Ts."
+  },
+  {
+    "word": "অঘোর",
+    "pos": "adjective",
+    "definition": "অঘোর Aghor - Terrific (Adj.). 2. অghora."
+  },
+  {
+    "word": "Aghor",
+    "pos": "adjective",
+    "definition": "অঘোর Aghor - Terrific (Adj.). 2. অghora."
+  },
+  {
+    "word": "অঘ্রাণ",
+    "pos": "noun",
+    "definition": "অঘ্রাণ Aghrān - An Indian month. সং. অগ্রহায়ণ Agrahāyana."
+  },
+  {
+    "word": "Aghrān",
+    "pos": "noun",
+    "definition": "অঘ্রাণ Aghrān - An Indian month. সং. অগ্রহায়ণ Agrahāyana."
+  },
+  {
+    "word": "অ'ঙ",
+    "pos": "adjective",
+    "definition": "অ'ঙ A'n - Cheap (Adj.). মে. হোঙপা Mt. honpã."
+  },
+  {
+    "word": "A'n",
+    "pos": "adjective",
+    "definition": "অ'ঙ A'n - Cheap (Adj.). মে. হোঙপা Mt. honpã."
+  },
+  {
+    "word": "অ'ঙপা",
+    "pos": "adjective",
+    "definition": "অ'ঙপা A'npā - Cheap (Adj.). V. above."
+  },
+  {
+    "word": "A'npā",
+    "pos": "adjective",
+    "definition": "অ'ঙপা A'npā - Cheap (Adj.). V. above."
+  },
+  {
+    "word": "অঙ্কত",
+    "pos": "-",
+    "definition": "অঙ্কত (মা.) Ankot - V. আঙ্কট änkat."
+  },
+  {
+    "word": "Ankot",
+    "pos": "-",
+    "definition": "অঙ্কত (মা.) Ankot - V. আঙ্কট änkat."
+  },
+  {
+    "word": "অঙ্কুর",
+    "pos": "noun",
+    "definition": "অঙ্কুর Ankur - Sprout (N.). Ts."
+  },
+  {
+    "word": "Ankur",
+    "pos": "noun",
+    "definition": "অঙ্কুর Ankur - Sprout (N.). Ts."
+  },
+  {
+    "word": "অঙ্কুর",
+    "pos": "noun",
+    "definition": "অঙ্কুর Ankur - Vanity (N.). V. above (Semantic change)"
+  },
+  {
+    "word": "Ankur",
+    "pos": "noun",
+    "definition": "অঙ্কুর Ankur - Vanity (N.). V. above (Semantic change)"
+  },
+  {
+    "word": "অঙ্গ",
+    "pos": "noun",
+    "definition": "অঙ্গ A'nga - Body, limb (N.). সং."
+  },
+  {
+    "word": "A'nga",
+    "pos": "noun",
+    "definition": "অঙ্গ A'nga - Body, limb (N.). সং."
+  },
+  {
+    "word": "অ'ঙতা",
+    "pos": "noun",
+    "definition": "অ'ঙতা An'tă - Nature, appearance(N) মে. ওঙতা।-লাকতা laktā. = Nature, gesture."
+  },
+  {
+    "word": "An'tă",
+    "pos": "noun",
+    "definition": "অ'ঙতা An'tă - Nature, appearance(N) মে. ওঙতা।-লাকতা laktā. = Nature, gesture."
+  },
+  {
+    "word": "অঙথিল",
+    "pos": "adjective",
+    "definition": "অঙথিল Anthil - Filled, conjested (Adj.). মে. থোঙ + থিনপা।"
+  },
+  {
+    "word": "Anthil",
+    "pos": "adjective",
+    "definition": "অঙথিল Anthil - Filled, conjested (Adj.). মে. থোঙ + থিনপা।"
+  },
+  {
+    "word": "অ'ঙনাথেঙনি",
+    "pos": "adverb",
+    "definition": "অ'ঙনাথেঙনি Annā thenni - Exchange (Adv.). সং. মে. ওন্নতৈনপা।"
+  },
+  {
+    "word": "Annā thenni",
+    "pos": "adverb",
+    "definition": "অ'ঙনাথেঙনি Annā thenni - Exchange (Adv.). সং. মে. ওন্নতৈনপা।"
+  },
+  {
+    "word": "অঙলাক",
+    "pos": "-",
+    "definition": "অঙলাক Anlak - V. অকলাক"
+  },
+  {
+    "word": "Anlak",
+    "pos": "-",
+    "definition": "অঙলাক Anlak - V. অকলাক"
+  },
+  {
+    "word": "অংশ",
+    "pos": "noun",
+    "definition": "অংশ Añsa - Part, share (N.). সং."
+  },
+  {
+    "word": "Añsa",
+    "pos": "noun",
+    "definition": "অংশ Añsa - Part, share (N.). সং."
+  },
+  {
+    "word": "অংশীদার",
+    "pos": "noun",
+    "definition": "অংশীদার Ansidār - Partner (N.). সং. অংশী + পা suf. - দার।"
+  },
+  {
+    "word": "Ansidār",
+    "pos": "noun",
+    "definition": "অংশীদার Ansidār - Partner (N.). সং. অংশী + পা suf. - দার।"
+  },
+  {
+    "word": "অচিন",
+    "pos": "adjective",
+    "definition": "অচিন Acin - Unknown (Adj.). 2. অ + চিন।"
+  },
+  {
+    "word": "Acin",
+    "pos": "adjective",
+    "definition": "অচিন Acin - Unknown (Adj.). 2. অ + চিন।"
+  },
+  {
+    "word": "অচিনা",
+    "pos": "adjective",
+    "definition": "অচিনা Acinā - Unknown (Adj.). অচিন + -আ।"
+  },
+  {
+    "word": "Acinā",
+    "pos": "adjective",
+    "definition": "অচিনা Acinā - Unknown (Adj.). অচিন + -আ।"
+  },
+  {
+    "word": "অচু",
+    "pos": "-",
+    "definition": "অচু (মা.) - V. অসু।"
+  },
+  {
+    "word": "(মা.)",
+    "pos": "-",
+    "definition": "অচু (মা.) - V. অসু।"
+  },
+  {
+    "word": "অচেতন",
+    "pos": "adjective",
+    "definition": "অচেতন Acetan - Unconscious (Adj.). সং."
+  },
+  {
+    "word": "Acetan",
+    "pos": "adjective",
+    "definition": "অচেতন Acetan - Unconscious (Adj.). সং."
+  },
+  {
+    "word": "অছ",
+    "pos": "verb",
+    "definition": "অছ Ach - To be, to happen (V.). সং. অচ্ছ।"
+  },
+  {
+    "word": "Ach",
+    "pos": "verb",
+    "definition": "অছ Ach - To be, to happen (V.). সং. অচ্ছ।"
+  },
+  {
+    "word": "অজম",
+    "pos": "adjective",
+    "definition": "অজম Ajam - Filled up, conjested (Adj.). 2. অ + পাজম।"
+  },
+  {
+    "word": "Ajam",
+    "pos": "adjective",
+    "definition": "অজম Ajam - Filled up, conjested (Adj.). 2. অ + পাজম।"
+  },
+  {
+    "word": "অজা",
+    "pos": "noun",
+    "definition": "অজা Ajā - Teacher, Sir (N.). সং, উপাধ্যায়।"
+  },
+  {
+    "word": "Ajā",
+    "pos": "noun",
+    "definition": "অজা Ajā - Teacher, Sir (N.). সং, উপাধ্যায়।"
+  },
+  {
+    "word": "অ'জা",
+    "pos": "adjective",
+    "definition": "অ'জা A'jā - Flat and heavy (Adj.). Ar. ঔজা।"
+  },
+  {
+    "word": "A'jā",
+    "pos": "adjective",
+    "definition": "অ'জা A'jā - Flat and heavy (Adj.). Ar. ঔজা।"
+  },
+  {
+    "word": "অজাগর",
+    "pos": "noun",
+    "definition": "অজাগর Ajägar - Python (N.). সং. অজগর।"
+  },
+  {
+    "word": "Ajägar",
+    "pos": "noun",
+    "definition": "অজাগর Ajägar - Python (N.). সং. অজগর।"
+  },
+  {
+    "word": "অজানা",
+    "pos": "adjective",
+    "definition": "অজানা Ajānā - Unknown (Adj.). 2. অ + জানা।"
+  },
+  {
+    "word": "Ajānā",
+    "pos": "adjective",
+    "definition": "অজানা Ajānā - Unknown (Adj.). 2. অ + জানা।"
+  },
+  {
+    "word": "অজারেল",
+    "pos": "noun",
+    "definition": "অজারেল Ajārel - 1. Great teachers 2. Teachers (N.). অজা + -লেল/-রেল।"
+  },
+  {
+    "word": "Ajārel",
+    "pos": "noun",
+    "definition": "অজারেল Ajārel - 1. Great teachers 2. Teachers (N.). অজা + -লেল/-রেল।"
+  },
+  {
+    "word": "অজুহাত",
+    "pos": "noun",
+    "definition": "অজুহাত Ajuhãt - Plea (N.). পা. রজুহাত।"
+  },
+  {
+    "word": "Ajuhãt",
+    "pos": "noun",
+    "definition": "অজুহাত Ajuhãt - Plea (N.). পা. রজুহাত।"
+  },
+  {
+    "word": "অজ্ঞন",
+    "pos": "noun",
+    "definition": "অজ্ঞন Aggãn - Offering of gods (N.). সং.।"
+  },
+  {
+    "word": "Aggãn",
+    "pos": "noun",
+    "definition": "অজ্ঞন Aggãn - Offering of gods (N.). সং.।"
+  },
+  {
+    "word": "অঞ্জলি",
+    "pos": "adjective",
+    "definition": "অঞ্জলি Añjali - Offering. Cf. Gods (Adj.). সং.।"
+  },
+  {
+    "word": "Añjali",
+    "pos": "adjective",
+    "definition": "অঞ্জলি Añjali - Offering. Cf. Gods (Adj.). সং.।"
+  },
+  {
+    "word": "অঞ্জলি",
+    "pos": "-",
+    "definition": "অঞ্জলি Añjuli - Corrupt form of above."
+  },
+  {
+    "word": "Añjuli",
+    "pos": "-",
+    "definition": "অঞ্জলি Añjuli - Corrupt form of above."
+  },
+  {
+    "word": "অট",
+    "pos": "noun",
+    "definition": "অট At 1. - Lip (N.). সং. ওষ্ঠ।"
+  },
+  {
+    "word": "At",
+    "pos": "noun",
+    "definition": "অট At 1. - Lip (N.). সং. ওষ্ঠ।"
+  },
+  {
+    "word": "অট",
+    "pos": "noun",
+    "definition": "অট At 2. - Japa flower (N.). সং. ওড্।"
+  },
+  {
+    "word": "At",
+    "pos": "noun",
+    "definition": "অট At 2. - Japa flower (N.). সং. ওড্।"
+  },
+  {
+    "word": "অটমুড়া",
+    "pos": "adjective",
+    "definition": "অটমুড়া Atmură - Speechless (Adj.). 1. অট + মুড়া।"
+  },
+  {
+    "word": "Atmură",
+    "pos": "adjective",
+    "definition": "অটমুড়া Atmură - Speechless (Adj.). 1. অট + মুড়া।"
+  },
+  {
+    "word": "অটি",
+    "pos": "-",
+    "definition": "অটি Ati - A suffix in pleonastic sense, e.g., কড়ি-অটি।"
+  },
+  {
+    "word": "Ati",
+    "pos": "-",
+    "definition": "অটি Ati - A suffix in pleonastic sense, e.g., কড়ি-অটি।"
+  },
+  {
+    "word": "অ'টিয়া",
+    "pos": "noun",
+    "definition": "অ'টিয়া A'tiyā - One having a big lip (N.). সং. * ওষ্ঠিক।"
+  },
+  {
+    "word": "A'tiyā",
+    "pos": "noun",
+    "definition": "অ'টিয়া A'tiyā - One having a big lip (N.). সং. * ওষ্ঠিক।"
+  },
+  {
+    "word": "অত্-",
+    "pos": "-",
+    "definition": "অত্- (মা.) At - V. উঠ।"
+  },
+  {
+    "word": "At",
+    "pos": "-",
+    "definition": "অত্- (মা.) At - V. উঠ।"
+  },
+  {
+    "word": "অত্",
+    "pos": "noun",
+    "definition": "অত্ At - Boundary (N.). Ar. হদ্দ।"
+  },
+  {
+    "word": "At",
+    "pos": "noun",
+    "definition": "অত্ At - Boundary (N.). Ar. হদ্দ।"
+  },
+  {
+    "word": "অতো",
+    "pos": "adverb",
+    "definition": "অতো Ato - So much (Adv.). সং. এতাবৎ।"
+  },
+  {
+    "word": "Ato",
+    "pos": "adverb",
+    "definition": "অতো Ato - So much (Adv.). সং. এতাবৎ।"
+  },
+  {
+    "word": "অতএব",
+    "pos": "adverb",
+    "definition": "অতএব Ataeba - Therefore. সং."
+  },
+  {
+    "word": "Ataeba",
+    "pos": "adverb",
+    "definition": "অতএব Ataeba - Therefore. সং."
+  },
+  {
+    "word": "অতা",
+    "pos": "verb",
+    "definition": "অতা Atā (মা.) - To raise (V.). Caus. of অত্-।"
+  },
+  {
+    "word": "Atā",
+    "pos": "verb",
+    "definition": "অতা Atā (মা.) - To raise (V.). Caus. of অত্-।"
+  },
+  {
+    "word": "অতি",
+    "pos": "adverb",
+    "definition": "অতি Ati - Much (Adv.). সং."
+  },
+  {
+    "word": "Ati",
+    "pos": "adverb",
+    "definition": "অতি Ati - Much (Adv.). সং."
+  },
+  {
+    "word": "অতিত",
+    "pos": "noun",
+    "definition": "অতিত Atit - Guest (N.). সং. অতিথি।"
+  },
+  {
+    "word": "Atit",
+    "pos": "noun",
+    "definition": "অতিত Atit - Guest (N.). সং. অতিথি।"
+  },
+  {
+    "word": "অত্তামান",
+    "pos": "noun",
+    "definition": "অত্তামান (মা.) Attāmān - So much. অত + তা + সং. মান।"
+  },
+  {
+    "word": "Attāmān",
+    "pos": "noun",
+    "definition": "অত্তামান (মা.) Attāmān - So much. অত + তা + সং. মান।"
+  },
+  {
+    "word": "অত্তামায়",
+    "pos": "-",
+    "definition": "অত্তামায় (মা.) Attāmāy - V. below."
+  },
+  {
+    "word": "Attāmāy",
+    "pos": "-",
+    "definition": "অত্তামায় (মা.) Attāmāy - V. below."
+  },
+  {
+    "word": "অত্তামাহি",
+    "pos": "noun",
+    "definition": "অত্তামাহি (মা.) Attāmāhi - So much. অত + তা + মাহি।"
+  },
+  {
+    "word": "Attāmāhi",
+    "pos": "noun",
+    "definition": "অত্তামাহি (মা.) Attāmāhi - So much. অত + তা + মাহি।"
+  },
+  {
+    "word": "অত্তামিন",
+    "pos": "-",
+    "definition": "অত্তামিন (মা.) Attāmin - V. অত্তামান।"
+  },
+  {
+    "word": "Attāmin",
+    "pos": "-",
+    "definition": "অত্তামিন (মা.) Attāmin - V. অত্তামান।"
   }
 ]
