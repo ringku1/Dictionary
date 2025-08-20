@@ -1,3 +1,12 @@
+// React Dictionary App
+// Features:
+// - Theme toggle (light/dark) with persistence
+// - Responsive layout
+// - Search bar with live suggestions (up to 10), keyboard navigation, and highlight
+// - Suggestions remain visible when clicking outside
+// - Word detail panel with animation
+// - Modern UI and accessibility
+// Main components: App, SearchBar, WordDetail
 import React, { useState, useEffect } from "react";
 import SearchBar from "./SearchBar";
 import WordDetail from "./WordDetail";

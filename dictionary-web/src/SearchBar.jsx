@@ -1,3 +1,13 @@
+// SearchBar Component
+// Features:
+// - Live suggestions (up to 10) as you type
+// - Keyboard navigation (arrow keys, enter, escape)
+// - Suggestions remain visible when clicking outside
+// - Highlighting of matched text
+// - Loading spinner while fetching words
+// - Accessibility with ARIA attributes
+// - Calls onSelectWord when a word is selected
+// - Modern, theme-aware UI
 import React, { useState, useEffect, useRef } from "react";
 import "./SearchBar.css";
 
