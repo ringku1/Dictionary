@@ -1168,5 +1168,165 @@
   "word": "Antarjāmī",
   "pos": "adjective",
   "definition": "অন্তর্যামী Antarjāmī - Indwelling (Adj.) সং।"
+},
+{
+  "word": "অস্তি",
+  "pos": "-",
+  "definition": "অস্তি Anti - A suffix added to roots to form present participles. সং. অন্থ+ইক, e.g. বলন্তি।"
+},
+{
+  "word": "Anti",
+  "pos": "-",
+  "definition": "অস্তি Anti - A suffix added to roots to form present participles. সং. অন্থ+ইক, e.g. বলন্তি।"
+},
+{
+  "word": "অস্তিম",
+  "pos": "-",
+  "definition": "অস্তিম Antim - Last, সং. - কাল = Last moment."
+},
+{
+  "word": "Antim",
+  "pos": "-",
+  "definition": "অস্তিম Antim - Last, সং. - কাল = Last moment."
+},
+{
+  "word": "অন্তু",
+  "pos": "noun",
+  "definition": "অন্তু (মা.) Antu - Vanity (N.). A corrupt form of অঙ্কুর।"
+},
+{
+  "word": "Antu",
+  "pos": "noun",
+  "definition": "অন্তু (মা.) Antu - Vanity (N.). A corrupt form of অঙ্কুর।"
+},
+{
+  "word": "অন্থক",
+  "pos": "adjective",
+  "definition": "অন্থক Anthak - Queer (Adj.) মে. ওনথোকপা। -অয়া, -করে = Amazingly, Queerly."
+},
+{
+  "word": "Anthak",
+  "pos": "adjective",
+  "definition": "অন্থক Anthak - Queer (Adj.) মে. ওনথোকপা। -অয়া, -করে = Amazingly, Queerly."
+},
+{
+  "word": "অস্থকপা",
+  "pos": "adjective",
+  "definition": "অস্থকপা Anthakpā - Queer, amazing. V. above."
+},
+{
+  "word": "Anthakpā",
+  "pos": "adjective",
+  "definition": "অস্থকপা Anthakpā - Queer, amazing. V. above."
+},
+{
+  "word": "অন্দর",
+  "pos": "noun",
+  "definition": "অন্দর Andar - Inner apartment (N.) আ.। - মহল = harem"
+},
+{
+  "word": "Andar",
+  "pos": "noun",
+  "definition": "অন্দর Andar - Inner apartment (N.) আ.। - মহল = harem"
+},
+{
+  "word": "অন্দি",
+  "pos": "-",
+  "definition": "অন্দি Andi - Temper, ill-humour, heart সং, অন্তর+ *হৃদিক, cont."
+},
+{
+  "word": "Andi",
+  "pos": "-",
+  "definition": "অন্দি Andi - Temper, ill-humour, heart সং, অন্তর+ *হৃদিক, cont."
+},
+{
+  "word": "অন্ধ",
+  "pos": "adjective",
+  "definition": "অন্ধ Andha - Blind, utterly ignorant (Adj.) সং.। "
+},
+{
+  "word": "Andha",
+  "pos": "adjective",
+  "definition": "অন্ধ Andha - Blind, utterly ignorant (Adj.) সং.। "
+},
+{
+  "word": "অন্ধকার",
+  "pos": "noun",
+  "definition": "অন্ধকার Andhakār - Darkness (N.) সং।"
+},
+{
+  "word": "Andhakār",
+  "pos": "noun",
+  "definition": "অন্ধকার Andhakār - Darkness (N.) সং।"
+},
+{
+  "word": "অন্নাতেন্নি",
+  "pos": "-",
+  "definition": "অন্নাতেন্নি Annātenni - V. অংনা-থেংনি।"
+},
+{
+  "word": "Annātenni",
+  "pos": "-",
+  "definition": "অন্নাতেন্নি Annātenni - V. অংনা-থেংনি।"
+},
+{
+  "word": "অন্যান্য",
+  "pos": "noun",
+  "definition": "অন্যান্য Anyānya - Others (N.). সং.।"
+},
+{
+  "word": "Anyānya",
+  "pos": "noun",
+  "definition": "অন্যান্য Anyānya - Others (N.). সং.।"
+},
+{
+  "word": "অন্যায়",
+  "pos": "noun",
+  "definition": "অন্যায় Anyāy - Injustice (N.). সং.।"
+},
+{
+  "word": "Anyāy",
+  "pos": "noun",
+  "definition": "অন্যায় Anyāy - Injustice (N.). সং.।"
+},
+{
+  "word": "অপ",
+  "pos": "noun",
+  "definition": "অপ Ap - Muddy place (N.). Onom."
+},
+{
+  "word": "Ap",
+  "pos": "noun",
+  "definition": "অপ Ap - Muddy place (N.). Onom."
+},
+{
+  "word": "অপত",
+  "pos": "noun",
+  "definition": "অপত Apat - Muddy place (N.) সং. অবট।"
+},
+{
+  "word": "Apat",
+  "pos": "noun",
+  "definition": "অপত Apat - Muddy place (N.) সং. অবট।"
+},
+{
+  "word": "অপদস্ত",
+  "pos": "adjective",
+  "definition": "অপদস্ত Apadasta - Insulted (Adj.) সং. অপধ্বস্ত+ reviled, cursed."
+},
+{
+  "word": "Apadasta",
+  "pos": "adjective",
+  "definition": "অপদস্ত Apadasta - Insulted (Adj.) সং. অপধ্বস্ত+ reviled, cursed."
+},
+{
+  "word": "অপব্যয়",
+  "pos": "noun",
+  "definition": "অপব্যয় Apabyay - Wrongful spending (N.) সং.।"
+},
+{
+  "word": "Apabyay",
+  "pos": "noun",
+  "definition": "অপব্যয় Apabyay - Wrongful spending (N.) সং.।"
 }
 ]
