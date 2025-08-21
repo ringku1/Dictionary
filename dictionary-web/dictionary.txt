@@ -808,5 +808,185 @@
     "word": "Attāmin",
     "pos": "-",
     "definition": "অত্তামিন (মা.) Attāmin - V. অত্তামান।"
+  },
+  {
+    "word": "অত্তি",
+    "pos": "-",
+    "definition": "অত্তি Atti - V.আত্তি।"
+  },
+  {
+    "word": "Atti",
+    "pos": "-",
+    "definition": "অত্তি Atti - V.আত্তি।"
+  },
+  {
+    "word": "অত্যন্ত",
+    "pos": "adjective",
+    "definition": "অত্যন্ত Atyanta - Very much (Adj.)."
+  },
+  {
+    "word": "Atyanta",
+    "pos": "adjective",
+    "definition": "অত্যন্ত Atyanta - Very much (Adj.)."
+  },
+  {
+    "word": "অত্যাচার",
+    "pos": "noun",
+    "definition": "অত্যাচার Atyācār - Oppression, evil conduct (N.). সং।"
+  },
+  {
+    "word": "Atyācār",
+    "pos": "noun",
+    "definition": "অত্যাচার Atyācār - Oppression, evil conduct (N.). সং।"
+  },
+  {
+    "word": "অথচ",
+    "pos": "conjunction",
+    "definition": "অথচ Athaca - Yet (Conj.). সং।"
+  },
+  {
+    "word": "Athaca",
+    "pos": "conjunction",
+    "definition": "অথচ Athaca - Yet (Conj.). সং।"
+  },
+  {
+    "word": "অদল-বদল",
+    "pos": "adverb",
+    "definition": "অদল-বদল Adal-Badal - Exchange, interchange (Adv.). আ. অদ্ল+বদল্।"
+  },
+  {
+    "word": "Adal-Badal",
+    "pos": "adverb",
+    "definition": "অদল-বদল Adal-Badal - Exchange, interchange (Adv.). আ. অদ্ল+বদল্।"
+  },
+  {
+    "word": "অদৃষ্ট",
+    "pos": "noun",
+    "definition": "অদৃষ্ট Adrista - Fate (N.). সং।"
+  },
+  {
+    "word": "Adrista",
+    "pos": "noun",
+    "definition": "অদৃষ্ট Adrista - Fate (N.). সং।"
+  },
+  {
+    "word": "অ'দ্দ",
+    "pos": "noun",
+    "definition": "অ'দ্দ Adda - Boundary, Strength (N.). আ.হদ্দ।"
+  },
+  {
+    "word": "Adda",
+    "pos": "noun",
+    "definition": "অ'দ্দ Adda - Boundary, Strength (N.). আ.হদ্দ।"
+  },
+  {
+    "word": "অদ্ধ",
+    "pos": "noun",
+    "definition": "অদ্ধ Addha - Boundary, Strength (N.). আ.হদ্দ।"
+  },
+  {
+    "word": "Addha",
+    "pos": "noun",
+    "definition": "অদ্ধ Addha - Boundary, Strength (N.). আ.হদ্দ।"
+  },
+  {
+    "word": "অদ্য",
+    "pos": "adjective",
+    "definition": "অদ্য Adya - Now, Today (Adj.). সং. অদ্য।"
+  },
+  {
+    "word": "Adya",
+    "pos": "adjective",
+    "definition": "অদ্য Adya - Now, Today (Adj.). সং. অদ্য।"
+  },
+  {
+    "word": "অদ্যাপিও",
+    "pos": "adjective",
+    "definition": "অদ্যাপিও Adyāpio - Even now (Adj.). সং. অদ্যাপি+বি.ম.ও।"
+  },
+  {
+    "word": "Adyāpio",
+    "pos": "adjective",
+    "definition": "অদ্যাপিও Adyāpio - Even now (Adj.). সং. অদ্যাপি+বি.ম.ও।"
+  },
+  {
+    "word": "অদ্যাবধি",
+    "pos": "adjective",
+    "definition": "অদ্যাবধি Adyābadhi - Up till now (Adj.). সং।"
+  },
+  {
+    "word": "Adyābadhi",
+    "pos": "adjective",
+    "definition": "অদ্যাবধি Adyābadhi - Up till now (Adj.). সং।"
+  },
+  {
+    "word": "অধিবেশন",
+    "pos": "noun",
+    "definition": "অধিবেশন Adhibeśan - Conference (N.). সং।"
+  },
+  {
+    "word": "Adhibeśan",
+    "pos": "noun",
+    "definition": "অধিবেশন Adhibeśan - Conference (N.). সং।"
+  },
+  {
+    "word": "অধীন",
+    "pos": "adjective",
+    "definition": "অধীন Adhīn - Subordinate, Under jurisdiction (Adj.). সং।"
+  },
+  {
+    "word": "Adhīn",
+    "pos": "adjective",
+    "definition": "অধীন Adhīn - Subordinate, Under jurisdiction (Adj.). সং।"
+  },
+  {
+    "word": "অধ্যায়",
+    "pos": "noun",
+    "definition": "অধ্যায় Adhyāy - Chapter (N.). সং।"
+  },
+  {
+    "word": "Adhyāy",
+    "pos": "noun",
+    "definition": "অধ্যায় Adhyāy - Chapter (N.). সং।"
+  },
+  {
+    "word": "-অন",
+    "pos": "-",
+    "definition": "-অন -An - A suffix added to roots to form verbal nouns, e.g., মরণ, পড়ন etc."
+  },
+  {
+    "word": "-An",
+    "pos": "-",
+    "definition": "-অন -An - A suffix added to roots to form verbal nouns, e.g., মরণ, পড়ন etc."
+  },
+  {
+    "word": "অনা",
+    "pos": "verb",
+    "definition": "অনা Anā - To melt (V.). সং. * উষ্ণাপয় (Denom. from উষ্ণ=hot; cf. E.B. উনা-।)"
+  },
+  {
+    "word": "Anā",
+    "pos": "verb",
+    "definition": "অনা Anā - To melt (V.). সং. * উষ্ণাপয় (Denom. from উষ্ণ=hot; cf. E.B. উনা-।)"
+  },
+  {
+    "word": "অ'না",
+    "pos": "-",
+    "definition": "অ'না Anā - Happening, being, অ'- + না।"
+  },
+  {
+    "word": "Anä",
+    "pos": "-",
+    "definition": "অ'না Anā - Happening, being, অ'- + না।"
+  },
+  {
+    "word": "অনাচার",
+    "pos": "adjective/noun",
+    "definition": "অনাচার Anācār - Dirty (Adj/N.). সং।"
+  },
+  {
+    "word": "Anācār",
+    "pos": "adjective/noun",
+    "definition": "অনাচার Anācār - Dirty (Adj/N.). সং।"
   }
 ]
