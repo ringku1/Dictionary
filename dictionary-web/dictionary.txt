@@ -1508,5 +1508,1196 @@
 "word": "Abahelā",
 "pos": "noun",
 "definition": "অবহেলা Abahelā - Negligence (N.) সং.。"
-}
+},
+{
+  "word": "অবাক",
+  "pos": "adjective",
+  "definition": "অবাক Abāk - Speechless, astonished (Adj.). সং."
+},
+{
+  "word": "Abāk",
+  "pos": "adjective",
+  "definition": "অবাক Abāk - Speechless, astonished (Adj.). সং."
+},
+{
+  "word": "অবায়",
+  "pos": "-",
+  "definition": "অবায় Abäy - V. হবাই।"
+},
+{
+  "word": "Abäy",
+  "pos": "-",
+  "definition": "অবায় Abäy - V. হবাই।"
+},
+{
+  "word": "অবিকল",
+  "pos": "adjective",
+  "definition": "অবিকল Abikal - Exact (Adj.) সং."
+},
+{
+  "word": "Abikal",
+  "pos": "adjective",
+  "definition": "অবিকল Abikal - Exact (Adj.) সং."
+},
+{
+  "word": "অবিশ্বাস",
+  "pos": "noun",
+  "definition": "অবিশ্বাস Abiśvās - Distrust (N.) সং."
+},
+{
+  "word": "Abiśvās",
+  "pos": "noun",
+  "definition": "অবিশ্বাস Abiśvās - Distrust (N.) সং."
+},
+{
+  "word": "অবুঝ",
+  "pos": "adjective",
+  "definition": "অবুঝ Abujh - Foolish, unreasonable (Adj.) সং. অবোধ or অবোধ্য।"
+},
+{
+  "word": "Abujh",
+  "pos": "adjective",
+  "definition": "অবুঝ Abujh - Foolish, unreasonable (Adj.) সং. অবোধ or অবোধ্য।"
+},
+{
+  "word": "অবেয়ো",
+  "pos": "-",
+  "definition": "অবেয়ো Abeyo - V. হবাই, অবায়।"
+},
+{
+  "word": "Abeyo",
+  "pos": "-",
+  "definition": "অবেয়ো Abeyo - V. হবাই, অবায়।"
+},
+{
+  "word": "অবসর",
+  "pos": "noun",
+  "definition": "অবসर Absar - Leisure (N.) সং."
+},
+{
+  "word": "Absar",
+  "pos": "noun",
+  "definition": "অবসর Absar - Leisure (N.) সং."
+},
+{
+  "word": "অভদ্র",
+  "pos": "adjective",
+  "definition": "অভদ্র Abhadra - Discourteous, unmannerly (Adj.) সং."
+},
+{
+  "word": "Abhadra",
+  "pos": "adjective",
+  "definition": "অভদ্র Abhadra - Discourteous, unmannerly (Adj.) সং."
+},
+{
+  "word": "অভাগা",
+  "pos": "adjective",
+  "definition": "অভাগা Abhägå - Unfortunate (Adj.) সং. 'অভাগ্যক।"
+},
+{
+  "word": "Abhägå",
+  "pos": "adjective",
+  "definition": "অভাগা Abhägå - Unfortunate (Adj.) সং. 'অভাগ্যক।"
+},
+{
+  "word": "অভাগী",
+  "pos": "adjective",
+  "definition": "অভাগী Abhägi - Unfortunate (Adj.) সং."
+},
+{
+  "word": "Abhägi",
+  "pos": "adjective",
+  "definition": "অভাগী Abhägi - Unfortunate (Adj.) সং."
+},
+{
+  "word": "অভাব",
+  "pos": "noun",
+  "definition": "অভাব Abhāb - Want, need (N.) সং."
+},
+{
+  "word": "Abhāb",
+  "pos": "noun",
+  "definition": "অভাব Abhāb - Want, need (N.) সং."
+},
+{
+  "word": "অভিধান",
+  "pos": "noun",
+  "definition": "অভিধান Abhidhăn - Dictionary (N.) সং."
+},
+{
+  "word": "Abhidhăn",
+  "pos": "noun",
+  "definition": "অভিধান Abhidhăn - Dictionary (N.) সং."
+},
+{
+  "word": "অভিনন্দন",
+  "pos": "noun",
+  "definition": "অভিনন্দন Abhinandan - Congratulation (N.) সং."
+},
+{
+  "word": "Abhinandan",
+  "pos": "noun",
+  "definition": "অভিনন্দন Abhinandan - Congratulation (N.) সং."
+},
+{
+  "word": "অভিভাবক",
+  "pos": "noun",
+  "definition": "অভিভাবক Abhibhābak - Guardian (N.) সং."
+},
+{
+  "word": "Abhibhābak",
+  "pos": "noun",
+  "definition": "অভিভাবক Abhibhābak - Guardian (N.) সং."
+},
+{
+  "word": "অভিষেক",
+  "pos": "noun",
+  "definition": "অভিষেক Abhişek - Installation, coronation (N.) সং."
+},
+{
+  "word": "Abhişek",
+  "pos": "noun",
+  "definition": "অভিষেক Abhişek - Installation, coronation (N.) সং."
+},
+{
+  "word": "অভিসার",
+  "pos": "noun",
+  "definition": "অভিসার Abhisār - Journey for meeting a lover or beloved (N.) সং."
+},
+{
+  "word": "Abhisār",
+  "pos": "noun",
+  "definition": "অভিসার Abhisār - Journey for meeting a lover or beloved (N.) সং."
+},
+{
+  "word": "অভ্যাস",
+  "pos": "noun",
+  "definition": "অভ্যাস Abhyās - Practice (N.) সং."
+},
+{
+  "word": "Abhyās",
+  "pos": "noun",
+  "definition": "অভ্যাস Abhyās - Practice (N.) সং."
+},
+{
+  "word": "অম",
+  "pos": "noun",
+  "definition": "অম Am - Detention (of something coming out) (N.) মে. য়োমপা। দানি= Detaining such a thing."
+},
+{
+  "word": "Am",
+  "pos": "noun",
+  "definition": "অম Am - Detention (of something coming out) (N.) মে. য়োমপا। দানি= Detaining such a thing."
+},
+{
+  "word": "অম",
+  "pos": "-",
+  "definition": "অম Am - A word denoting the sound of a crowd or water-current (Onom.) Onom."
+},
+{
+  "word": "Am",
+  "pos": "-",
+  "definition": "অম Am - A word denoting the sound of a crowd or water-current (Onom.) Onom."
+},
+{
+  "word": "অমঙ্গল",
+  "pos": "adjective",
+  "definition": "অমঙ্গল Amangal - Unholy, evil (Adj.) সং.।"
+},
+{
+  "word": "Amangal",
+  "pos": "adjective",
+  "definition": "অমঙ্গল Amangal - Unholy, evil (Adj.) সং.।"
+},
+{
+  "word": "অমর",
+  "pos": "adjective",
+  "definition": "অমর Amar - Deathless (Adj.) সং.।"
+},
+{
+  "word": "Amar",
+  "pos": "adjective",
+  "definition": "অমর Amar - Deathless (Adj.) সং.।"
+},
+{
+  "word": "অমবাসি",
+  "pos": "noun",
+  "definition": "অমবাসি Ambāsi - Three consecutive days of আষাঢ় for Hindu widows to keep fast in (N.) সং. অম্বুবাচী।"
+},
+{
+  "word": "Ambāsi",
+  "pos": "noun",
+  "definition": "অমবাসi Ambāsi - Three consecutive days of আষাঢ় for Hindu widows to keep fast in (N.) সং. অম্বুবাচী।"
+},
+{
+  "word": "অমরাপুর",
+  "pos": "noun",
+  "definition": "অমরাপুর Amarapur - The land of the gods (N.) সং.।"
+},
+{
+  "word": "Amarapur",
+  "pos": "noun",
+  "definition": "অমরাপুর Amarapur - The land of the gods (N.) সং.।"
+},
+{
+  "word": "অমাটিক",
+  "pos": "-",
+  "definition": "অমাটিক Amātik - So much (Adv.) অ+মাটিক।"
+},
+{
+  "word": "Amātik",
+  "pos": "-",
+  "definition": "অমাটিক Amātik - So much (Adv.) অ+মাটিক。"
+},
+{
+  "word": "অমান্য",
+  "pos": "noun",
+  "definition": "অমান্য Amänya - Dishonour (N.) সং.।"
+},
+{
+  "word": "Amänya",
+  "pos": "noun",
+  "definition": "অমান্য Amänya - Dishonour (N.) সং.।"
+},
+{
+  "word": "অমিল",
+  "pos": "noun",
+  "definition": "অমিল Amil - Discord, dissimilarity (N.) অ+মিল।"
+},
+{
+  "word": "Amil",
+  "pos": "noun",
+  "definition": "অমিল Amil - Discord, dissimilarity (N.) অ+মিল。"
+},
+{
+  "word": "অমুক",
+  "pos": "noun",
+  "definition": "অমুক Amuk - An unnamed person or thing or place (N.) সং.।"
+},
+{
+  "word": "Amuk",
+  "pos": "noun",
+  "definition": "অমুক Amuk - An unnamed person or thing or place (N.) সং.。"
+},
+{
+  "word": "অমূল্য",
+  "pos": "adjective",
+  "definition": "অমূল্য Amülya - Invaluable (Adj.) সং.।"
+},
+{
+  "word": "Amülya",
+  "pos": "adjective",
+  "definition": "অমূল্য Amülya - Invaluable (Adj.) সং.。"
+},
+{
+  "word": "অম্বল",
+  "pos": "-",
+  "definition": "অম্বল Ambal - V. আম্বল।"
+},
+{
+  "word": "Ambal",
+  "pos": "-",
+  "definition": "অম্বল Ambal - V. আম্বল。"
+},
+{
+  "word": "অম্বা",
+  "pos": "-",
+  "definition": "অম্বা Ambā - A suffix added to nouns or adjs. to indicate 'relation' (Suffix) V. কয়াম্বা।"
+},
+{
+  "word": "Ambā",
+  "pos": "-",
+  "definition": "অম্বা Ambā - A suffix added to nouns or adjs. to indicate 'relation' (Suffix) V. কয়াম্বা。"
+},
+{
+  "word": "অম্বির্ত",
+  "pos": "noun",
+  "definition": "অম্বির্ত Ambirta - Nector (N.) সং, অমৃত।"
+},
+{
+  "word": "Ambirta",
+  "pos": "noun",
+  "definition": "অম্বির্ত Ambirta - Nector (N.) সং, অমৃত。"
+},
+{
+  "word": "অযথা",
+  "pos": "adjective",
+  "definition": "অযথা Ajatha - Unnecessary (Adj.) সং.।"
+},
+{
+  "word": "Ajatha",
+  "pos": "adjective",
+  "definition": "অযথা Ajatha - Unnecessary (Adj.) সং.。"
+},
+{
+  "word": "অযোগ্য",
+  "pos": "adjective",
+  "definition": "অযোগ্য Ajogya - Unfit (Adj.) সং.।"
+},
+{
+  "word": "Ajogya",
+  "pos": "adjective",
+  "definition": "অযোগ্য Ajogya - Unfit (Adj.) সং.。"
+},
+{
+  "word": "অযৌক্তিক",
+  "pos": "adjective",
+  "definition": "অযৌক্তিক Ajauktik - Unreasonable (Adj.) সং.。"
+},
+{
+  "word": "Ajauktik",
+  "pos": "adjective",
+  "definition": "অযৌক্তিক Ajauktik - Unreasonable (Adj.) সং.。"
+},
+{
+  "word": "অয়াম",
+  "pos": "adjective",
+  "definition": "অয়াম Ayäm - Restless (Adj.) মে. অয়ামপা - চিংথি = restless/restlessness."
+},
+{
+  "word": "Ayäm",
+  "pos": "adjective",
+  "definition": "অয়াম Ayäm - Restless (Adj.) মে. অয়ামপa - চিংথি = restless/restlessness."
+},
+{
+  "word": "অয়ামপা",
+  "pos": "-",
+  "definition": "অয়ামপা Ayāmpā - Restless (Adj.) V. above."
+},
+{
+  "word": "Ayāmpā",
+  "pos": "-",
+  "definition": "অয়ামপা Ayāmpā - Restless (Adj.) V. above."
+},
+{
+  "word": "অ'র",
+  "pos": "noun",
+  "definition": "অ'র A'r - Mud (N.) সং. সর।"
+},
+{
+  "word": "A'r",
+  "pos": "noun",
+  "definition": "অ'র A'r - Mud (N.) সং. সর。"
+},
+{
+  "word": "-অর",
+  "pos": "-",
+  "definition": "-অর Ar - Genitive case-ending (Suffix) সং. কর or কার, কার্য্য।"
+},
+{
+  "word": "Ar",
+  "pos": "-",
+  "definition": "-অর Ar - Genitive case-ending (Suffix) সং. কর or কার, কার্য্য。"
+},
+{
+  "word": "অরং বরং",
+  "pos": "-",
+  "definition": "অরং বরং Aran baran - V. অকরং-বকরং।"
+},
+{
+  "word": "Aran baran",
+  "pos": "-",
+  "definition": "অরং বরং Aran baran - V. অকরং-বকরং।"
+},
+{
+  "word": "অরা",
+  "pos": "verb",
+  "definition": "অরা Arā - To rehearse, to think (V.) সং. অবর্তয় (বৃৎ)।"
+},
+{
+  "word": "Arā",
+  "pos": "verb",
+  "definition": "অরা Arā - To rehearse, to think (V.) সং. অবর্তয় (বৃৎ)।"
+},
+{
+  "word": "অরাজক",
+  "pos": "adjective",
+  "definition": "অরাজক Arājak - Lawless (Adj.) সং.।"
+},
+{
+  "word": "Arājak",
+  "pos": "adjective",
+  "definition": "অরাজক Arājak - Lawless (Adj.) সং.।"
+},
+{
+  "word": "অরানি",
+  "pos": "noun",
+  "definition": "অরানি Arāni - Rehearsing, thinking (N.) অরা- + -আনি।"
+},
+{
+  "word": "Arāni",
+  "pos": "noun",
+  "definition": "অরানি Arāni - Rehearsing, thinking (N.) অরা- + -আনি।"
+},
+{
+  "word": "অ'রিঙ",
+  "pos": "noun",
+  "definition": "অ'রিঙ A'rin - Deer (N.) সং, হরিণ।"
+},
+{
+  "word": "A'rin",
+  "pos": "noun",
+  "definition": "অ'রিঙ A'rin - Deer (N.) সং, হরিণ।"
+},
+{
+  "word": "অরিচ",
+  "pos": "noun",
+  "definition": "অরিচ Aric - Piles (N.) সং. অর্শ।"
+},
+{
+  "word": "Aric",
+  "pos": "noun",
+  "definition": "অরিচ Aric - Piles (N.) সং. অর্শ।"
+},
+{
+  "word": "অরেইপা",
+  "pos": "verb",
+  "definition": "অরেইপা Areipā - Imagined (V.) অরা- + -এইপা।"
+},
+{
+  "word": "Areipā",
+  "pos": "verb",
+  "definition": "অরেইপa Areipā - Imagined (V.) অরা- + -এইপা।"
+},
+{
+  "word": "অর্ডারি",
+  "pos": "adjective",
+  "definition": "অর্ডারি Arderi - Ordered (Adj.) Eng. order + -।"
+},
+{
+  "word": "Arderi",
+  "pos": "adjective",
+  "definition": "অর্ডারি Arderi - Ordered (Adj.) Eng. order + -।"
+},
+{
+  "word": "অর্থ",
+  "pos": "noun",
+  "definition": "অর্থ Artha - Meaning (N.) সং.।"
+},
+{
+  "word": "Artha",
+  "pos": "noun",
+  "definition": "অর্থ Artha - Meaning (N.) সং.।"
+},
+{
+  "word": "অর্ধাঙ্গ",
+  "pos": "noun",
+  "definition": "অর্ধাঙ্গ Ardhäńga - Paralysis (N.) সং.।"
+},
+{
+  "word": "Ardhäńga",
+  "pos": "noun",
+  "definition": "অর্ধাঙ্গ Ardhäńga - Paralysis (N.) সং.।"
+},
+{
+  "word": "অর্ধেক",
+  "pos": "noun",
+  "definition": "অর্ধেক Ardhek - Half (N.) সং. অর্ধ + এক।"
+},
+{
+  "word": "Ardhek",
+  "pos": "noun",
+  "definition": "অর্ধেক Ardhek - Half (N.) সং. অর্ধ + এক।"
+},
+{
+  "word": "অর্শ",
+  "pos": "noun",
+  "definition": "অর্শ Arsa - Piles (N.) সং.।"
+},
+{
+  "word": "Arsa",
+  "pos": "noun",
+  "definition": "অর্শ Arsa - Piles (N.) সং.।"
+},
+{
+  "word": "অল",
+  "pos": "noun",
+  "definition": "অল Al - Arum companulatum (N.) সং. ওম্ব।"
+},
+{
+  "word": "Al",
+  "pos": "noun",
+  "definition": "অল Al - Arum companulatum (N.) সং. ওম্ব।"
+},
+{
+  "word": "-অল",
+  "pos": "-",
+  "definition": "-অল Al - A suffix added to words of relationship to indicate a plural sense (Suffix) V. নাতিঅল (নাতিয়ল)।"
+},
+{
+  "word": "Al",
+  "pos": "-",
+  "definition": "-অল Al - A suffix added to words of relationship to indicate a plural sense (Suffix) V. নাতিঅল (নাতিয়ল)।"
+},
+{
+  "word": "অ'ল",
+  "pos": "verb",
+  "definition": "অ'ল A'l - (1) Become, changed (V.), (2) The act of changing or becoming (N.) মে. ওনপা।"
+},
+{
+  "word": "A'l",
+  "pos": "verb",
+  "definition": "অ'ল A'l - (1) Become, changed (V.), (2) The act of changing or becoming (N.) মে. ওনপা।"
+},
+{
+  "word": "অ'লনি",
+  "pos": "noun",
+  "definition": "অ'লনি A'lani - অ'ল + -অনি।"
+},
+{
+  "word": "A'lani",
+  "pos": "noun",
+  "definition": "অ'লনি A'lani - অ'ল + -অনি।"
+},
+{
+  "word": "অলক্ষ্মী",
+  "pos": "adjective",
+  "definition": "অলক্ষ্মী Alakkhi - Fortuneless, Unfortunate (Adj.) সং.।"
+},
+{
+  "word": "Alakkhi",
+  "pos": "adjective",
+  "definition": "অলক্ষ্মী Alakkhi - Fortuneless, Unfortunate (Adj.) সং.।"
+},
+{
+  "word": "অ'লঙ",
+  "pos": "noun",
+  "definition": "অ'লঙ A'lan - Splinter (N.) সং. শূল্য + -অঙ।"
+},
+{
+  "word": "A'lan",
+  "pos": "noun",
+  "definition": "অ'লঙ A'lan - Splinter (N.) সং. শূল্য + -অঙ।"
+},
+{
+  "word": "অলঙ্কার",
+  "pos": "noun",
+  "definition": "অলঙ্কার A'ankar - Ornament (N.) সং.।"
+},
+{
+  "word": "A'ankar",
+  "pos": "noun",
+  "definition": "অলঙ্কার A'ankar - Ornament (N.) সং.।"
+},
+{
+  "word": "অলাঙ",
+  "pos": "noun",
+  "definition": "অলাঙ A'lān - Warmth, anxiety (N.) Mt. ওলাঙপা।"
+},
+{
+  "word": "A'lān",
+  "pos": "noun",
+  "definition": "অলাঙ A'lān - Warmth, anxiety (N.) Mt. ওলাঙপা।"
+},
+{
+  "word": "অলটাঙ",
+  "pos": "noun",
+  "definition": "অলটাঙ Altan - A stick hung from the neck of an animal (N.) সং. ঘণ্টা + -অঙ।"
+},
+{
+  "word": "Altan",
+  "pos": "noun",
+  "definition": "অলটাঙ Altan - A stick hung from the neck of an animal (N.) সং. ঘণ্টa + -অঙ।"
+},
+{
+  "word": "অ'লঠা",
+  "pos": "-",
+  "definition": "অ'লঠা A'lthā - V. কলঠা।"
+},
+{
+  "word": "A'lthā",
+  "pos": "-",
+  "definition": "অ'লঠা A'lthā - V. কলঠা।"
+},
+{
+  "word": "অলদিয়া",
+  "pos": "adjective",
+  "definition": "অলদিয়া Aldiyā - Yellowish (Adj.) সং. *হলদ্দিক।"
+},
+{
+  "word": "Aldiyā",
+  "pos": "adjective",
+  "definition": "অলদিয়া Aldiyā - Yellowish (Adj.) সং. *হলদ্দিক।"
+},
+{
+  "word": "অলমি",
+  "pos": "noun",
+  "definition": "অলমi Almi - Jaundice (N.) সং. হলদ্দি + *মুখিক।"
+},
+{
+  "word": "Almi",
+  "pos": "noun",
+  "definition": "অলমি Almi - Jaundice (N.) সং. হলদ্দি + *মুখিক।"
+},
+{
+  "word": "অষ্টি",
+  "pos": "noun",
+  "definition": "অষ্টি Asti - A piece of bone taken from the forehead at the time of cremation (N.) সং. অস্থি। চন্দন = ceremony of sanctifying the অষ্টি।"
+},
+{
+  "word": "Asti",
+  "pos": "noun",
+  "definition": "অষ্টি Asti - A piece of bone taken from the forehead at the time of cremation (N.) সং. অস্থি। চন্দন = ceremony of sanctifying the অষ্টি।"
+},
+{
+  "word": "অসংখ্য",
+  "pos": "adjective",
+  "definition": "অসংখ্য Asańkhya - Innumerable (Adj.) সং.।"
+},
+{
+  "word": "Asańkhya",
+  "pos": "adjective",
+  "definition": "অসংখ্য Asańkhya - Innumerable (Adj.) সং.।"
+},
+{
+  "word": "অসভ্য",
+  "pos": "adjective",
+  "definition": "অসভ্য Asabhya - Uncivilised (Adj.) সং.।"
+},
+{
+  "word": "Asabhya",
+  "pos": "adjective",
+  "definition": "অসভ্য Asabhya - Uncivilised (Adj.) সং.।"
+},
+{
+  "word": "অসময়",
+  "pos": "noun",
+  "definition": "অসময় Asamay - Untime (N.) সং.।"
+},
+{
+  "word": "Asamay",
+  "pos": "noun",
+  "definition": "অসময় Asamay - Untime (N.) সং.。"
+},
+{
+  "word": "অসম্পূর্ণ",
+  "pos": "adjective",
+  "definition": "অসম্পূর্ণ Asampūrņa - Incomplete (Adj.) সং.।"
+},
+{
+  "word": "Asampūrņa",
+  "pos": "adjective",
+  "definition": "অসম্পূর্ণ Asampūrņa - Incomplete (Adj.) সং.。"
+},
+{
+  "word": "অসম্ভব",
+  "pos": "adjective",
+  "definition": "অসম্ভব Asambhab - Impossible (Adj.) সং.।"
+},
+{
+  "word": "Asambhab",
+  "pos": "adjective",
+  "definition": "অসম্ভব Asambhab - Impossible (Adj.) সং.。"
+},
+{
+  "word": "অসহ্য",
+  "pos": "adjective",
+  "definition": "অসহ্য Asajya - Intolerable (Adj.) সং.।"
+},
+{
+  "word": "Asajya",
+  "pos": "adjective",
+  "definition": "অসহ্য Asajya - Intolerable (Adj.) সং.。"
+},
+{
+  "word": "অসাধ্য",
+  "pos": "adjective",
+  "definition": "অসাধ্য Asādhya - Incapable of being done (Adj.) সং.。"
+},
+{
+  "word": "Asādhya",
+  "pos": "adjective",
+  "definition": "অসাধ্য Asādhya - Incapable of being done (Adj.) সং.。"
+},
+{
+  "word": "অসার",
+  "pos": "adjective",
+  "definition": "অসার Asär - Unsubstantial (Adj.) সং.。"
+},
+{
+  "word": "Asär",
+  "pos": "adjective",
+  "definition": "অসার Asär - Unsubstantial (Adj.) সং.。"
+},
+{
+  "word": "অসি",
+  "pos": "noun",
+  "definition": "অসি Asi - Sword (N.) সং.。"
+},
+{
+  "word": "Asi",
+  "pos": "noun",
+  "definition": "অসি Asi - Sword (N.) সং.。"
+},
+{
+  "word": "অসু",
+  "pos": "noun",
+  "definition": "অসু Asu - An instrument for fishing (N.) ?"
+},
+{
+  "word": "Asu",
+  "pos": "noun",
+  "definition": "অসু Asu - An instrument for fishing (N.) ?"
+},
+{
+  "word": "অসুখ",
+  "pos": "noun",
+  "definition": "অসুখ Asukh - Illness (N.) সং.。"
+},
+{
+  "word": "Asukh",
+  "pos": "noun",
+  "definition": "অসুখ Asukh - Illness (N.) সং.。"
+},
+{
+  "word": "অসুবিধা",
+  "pos": "noun",
+  "definition": "অসুবিধা Asubidhā - Inconvenience (N.) সং.।"
+},
+{
+  "word": "Asubidhā",
+  "pos": "noun",
+  "definition": "অসুবিধা Asubidhā - Inconvenience (N.) সং.。"
+},
+{
+  "word": "অসুর",
+  "pos": "noun",
+  "definition": "অসুর Asur - Demon (N.) সং.।"
+},
+{
+  "word": "Asur",
+  "pos": "noun",
+  "definition": "অসুর Asur - Demon (N.) সং.।"
+},
+{
+  "word": "অহিংসা",
+  "pos": "noun",
+  "definition": "অহিংসা Ahiñsă - Non-violence (N.) সং.।"
+},
+{
+  "word": "Ahiñsă",
+  "pos": "noun",
+  "definition": "অহিংসা Ahiñsă - Non-violence (N.) সং.।"
+},
+{
+  "word": "অহো",
+  "pos": "-",
+  "definition": "অহo Aho - A word for expressing sorrow or sympathy (Intj.) সং.।"
+},
+{
+  "word": "Aho",
+  "pos": "-",
+  "definition": "অহo Aho - A word for expressing sorrow or sympathy (Intj.) সং.。"
+},
+{
+  "word": "আ",
+  "pos": "-",
+  "definition": "আ Ã - A pleonastic prefix (Prefix) মে. অ, e.g. আকুপ্পা।"
+},
+{
+  "word": "Ã",
+  "pos": "-",
+  "definition": "আ Ã - A pleonastic prefix (Prefix) মে. অ, e.g. আকুপ্পা。"
+},
+{
+  "word": "আ",
+  "pos": "-",
+  "definition": "আ A - A negative prefix (Prefix) সং, অ, e.g. আকাটা।"
+},
+{
+  "word": "A",
+  "pos": "prefix",
+  "definition": "আ A - A negative prefix (Prefix) সং, অ, e.g. আকাটা。"
+},
+{
+  "word": "আ",
+  "pos": "verb",
+  "definition": "আ A - To come (V.) সং, আয়া।"
+},
+{
+  "word": "A",
+  "pos": "verb",
+  "definition": "আ A - To come (V.) সং, আয়া。"
+},
+{
+  "word": "-আ",
+  "pos": "-",
+  "definition": "-আ A - A suffix added to roots to form past participles (Suffix) সং. অক, তক, e.g. রাধা = cooked."
+},
+{
+  "word": "A",
+  "pos": "-",
+  "definition": "-আ A - A suffix added to roots to form past participles (Suffix) সং. অক, তক, e.g. রাধা = cooked."
+},
+{
+  "word": "-(আ)",
+  "pos": "-",
+  "definition": "-(আ) A - Contracted form of ইয়া (Suffix) e.g. মুকা = মুকেয়া।"
+},
+{
+  "word": "A",
+  "pos": "-",
+  "definition": "-(আ) A - Contracted form of ইয়া (Suffix) e.g. মুকা = মুকেয়া。"
+},
+{
+  "word": "-(আ)",
+  "pos": "-",
+  "definition": "-(আ) A - A suffix added to roots to form verbal nouns (Suffix) e.g. কাদা = Weeping."
+},
+{
+  "word": "A",
+  "pos": "-",
+  "definition": "-(আ) A - A suffix added to roots to form verbal nouns (Suffix) e.g. কাদa = Weeping."
+},
+{
+  "word": "-(আ)",
+  "pos": "-",
+  "definition": "-(আ) A - A pleonastic suffix (Suffix) সং. ক, e.g. চরা, পাগালা।"
+},
+{
+  "word": "A",
+  "pos": "-",
+  "definition": "-(আ) A - A pleonastic suffix (Suffix) সং. ক, e.g. চরা, পাগালা。"
+},
+{
+  "word": "-আ",
+  "pos": "-",
+  "definition": "-আ A - A suffix indicating the sense of 'having', 'relating to', 'looking like' etc. (Suffix) সং. অক, e.g. পানিয়া, ফিরফিরা।"
+},
+{
+  "word": "A",
+  "pos": "-",
+  "definition": "-আ A - A suffix indicating the sense of 'having', 'relating to', 'looking like' etc. (Suffix) সং. অক, e.g. পানিয়া, ফিরফিরা。"
+},
+{
+  "word": "-আ",
+  "pos": "-",
+  "definition": "-আ A - A suffix used to form causatives (Suffix) সং. আপয়।"
+},
+{
+  "word": "A",
+  "pos": "-",
+  "definition": "-আ A - A suffix used to form causatives (Suffix) সং. আপয়。"
+},
+{
+  "word": "-আ",
+  "pos": "-",
+  "definition": "-আ A - Contracted form of -আনা-আনি (Suffix) e.g. খা = খানা, খানি।"
+},
+{
+  "word": "A",
+  "pos": "-",
+  "definition": "-আ A - Contracted form of -আনা-আনি (Suffix) e.g. খা = খানা, খানি。"
+},
+{
+  "word": "-আ",
+  "pos": "-",
+  "definition": "-আ À - A suffix used to form denominatives.সং.আপয়. e.g. আকছিয়া।"
+},
+{
+  "word": "À",
+  "pos": "-",
+  "definition": "-আ À - A suffix used to form denominatives.সং.আপয়. e.g. আকছিয়া।"
+},
+{
+  "word": "আই",
+  "pos": "noun",
+  "definition": "আই Ai - Great grand mother (N.) সং. আর্যিকা।"
+},
+{
+  "word": "Ai",
+  "pos": "noun",
+  "definition": "আই Ai - Great grand mother (N.) সং. আর্যিকা।"
+},
+{
+  "word": "আই-আপদ",
+  "pos": "noun",
+  "definition": "আই-আপদ Ai-āpad - Mishap (N.) First el. echo-word, sec. el. সং.।"
+},
+{
+  "word": "Ai-āpad",
+  "pos": "noun",
+  "definition": "আই-আপদ Ai-āpad - Mishap (N.) First el. echo-word, sec. el. সং.।"
+},
+{
+  "word": "আইঙ",
+  "pos": "-",
+  "definition": "আইঙ Ain - V. আঙেই।"
+},
+{
+  "word": "Ain",
+  "pos": "-",
+  "definition": "আইঙ Ain - V. আঙেই।"
+},
+{
+  "word": "আইঙপা",
+  "pos": "adjective",
+  "definition": "আইঙপa Ainpā - Cold, unboiled (Adj.) মে.।"
+},
+{
+  "word": "Ainpā",
+  "pos": "adjective",
+  "definition": "আইঙপা Ainpā - Cold, unboiled (Adj.) মে.।"
+},
+{
+  "word": "আইদা",
+  "pos": "noun",
+  "definition": "আইদা Aidā - A chopper having legs (N.) V. আই+দা।"
+},
+{
+  "word": "Aidā",
+  "pos": "noun",
+  "definition": "আইদa Aidā - A chopper having legs (N.) V. আই+দা।"
+},
+{
+  "word": "আইন",
+  "pos": "noun",
+  "definition": "আইন Ain - Law, regulation (N.) পা. আঈন। - কানুন = rules and regulations."
+},
+{
+  "word": "Ain",
+  "pos": "noun",
+  "definition": "আইন Ain - Law, regulation (N.) পা. আঈন। - কানুন = rules and regulations."
+},
+{
+  "word": "আইব",
+  "pos": "verb",
+  "definition": "আইব Aiba - Coming (V.) আ- + probable future - ইব।"
+},
+{
+  "word": "Aiba",
+  "pos": "verb",
+  "definition": "আইব Aiba - Coming (V.) আ- + probable future - ইব।"
+},
+{
+  "word": "আইয়া",
+  "pos": "-",
+  "definition": "আইয়া Aiyā - A suf. indicating nature or relation সং. *আপিক, e.g. ধলায়া।"
+},
+{
+  "word": "Aiyā",
+  "pos": "-",
+  "definition": "আইয়া Aiyā - A suf. indicating nature or relation সং. *আপিক, e.g. ধলায়a।"
+},
+{
+  "word": "আইর",
+  "pos": "noun",
+  "definition": "আইর Air - A kind of fish (N.)"
+},
+{
+  "word": "Air",
+  "pos": "noun",
+  "definition": "আইর Air - A kind of fish (N.)"
+},
+{
+  "word": "-আইল",
+  "pos": "-",
+  "definition": "-আইল Ail - A suf. forming past participles সং. - আপ+ইল, e.g. উড়াইল, গড়াইল।"
+},
+{
+  "word": "Ail",
+  "pos": "-",
+  "definition": "-আইল Ail - A suf. forming past participles সং. - আপ+ইল, e.g. উড়াইল, গড়াইল।"
+},
+{
+  "word": "আইস-বইস",
+  "pos": "noun",
+  "definition": "আইস-বইস Aisa baisa - Courtesy (lit. come and sit) (N.) সং. আবিশ-উপবিশ।"
+},
+{
+  "word": "Aisa baisa",
+  "pos": "noun",
+  "definition": "আইস-বইস Aisa baisa - Courtesy (lit. come and sit) (N.) সং. আবিশ-উপবিশ।"
+},
+{
+  "word": "আউ",
+  "pos": "-",
+  "definition": "আউ Au - V. আউশ।"
+},
+{
+  "word": "Au",
+  "pos": "-",
+  "definition": "আউ Au - V. আউশ।"
+},
+{
+  "word": "আউ",
+  "pos": "adjective",
+  "definition": "আউ Au - Tasteful (Adj.) মে. অহাউ, cf. সং. স্বাদু। - আঠুম = Sweets."
+},
+{
+  "word": "Au",
+  "pos": "adjective",
+  "definition": "আউ Au - Tasteful (Adj.) মে. অহাউ, cf. সং. স্বাদু। - আঠুম = Sweets."
+},
+{
+  "word": "আউকাল",
+  "pos": "noun",
+  "definition": "আউকাল Aukāl - Disturbance, trouble (N.) সং. *অসুখাল, পা, কাউৱাল = hue and cry."
+},
+{
+  "word": "Aukāl",
+  "pos": "noun",
+  "definition": "আউকাল Aukāl - Disturbance, trouble (N.) সং. *অসুখাল, পা, কাউৱাল = hue and cry."
+},
+{
+  "word": "আউকালি",
+  "pos": "-",
+  "definition": "আউকালি Aukāli - V. above. আউকাল +"
+},
+{
+  "word": "Aukāli",
+  "pos": "-",
+  "definition": "আউকালি Aukāli - V. above. আউকাল +"
+},
+{
+  "word": "আউটা",
+  "pos": "noun",
+  "definition": "আউটা Autā - Area, confinement (N.) সং. আবর্তক।"
+},
+{
+  "word": "Autā",
+  "pos": "noun",
+  "definition": "আউটা Autā - Area, confinement (N.) সং. আবর্তক।"
+},
+{
+  "word": "আ'উর",
+  "pos": "noun",
+  "definition": "আ'উর A'ür - Lake (N.) সং. সাগর।"
+},
+{
+  "word": "A'ür",
+  "pos": "noun",
+  "definition": "আ'উর A'ür - Lake (N.) সং. সাগর।"
+},
+{
+  "word": "আ'উরি",
+  "pos": "noun",
+  "definition": "আ'উরি A'uri - Time when animals are set free (N.) আ'উর + -ই।"
+},
+{
+  "word": "A'uri",
+  "pos": "noun",
+  "definition": "আ'উরি A'uri - Time when animals are set free (N.) আ'উর + -ই।"
+},
+{
+  "word": "আউড়",
+  "pos": "noun",
+  "definition": "আউড় Aur - Concealment, shelter (N.) সং. আবর্ত।"
+},
+{
+  "word": "Aur",
+  "pos": "noun",
+  "definition": "আউড় Aur - Concealment, shelter (N.) সং. আবর্ত।"
+},
+{
+  "word": "আউল-জাউল",
+  "pos": "adjective/noun",
+  "definition": "আউল-জাউল Aul jâul - (1) Restless, worried; (2) Restlessness (Adj./N.) সং. আকুল, sec. el. echo-word."
+},
+{
+  "word": "Aul jâul",
+  "pos": "adjective/noun",
+  "definition": "আউল-জাউল Aul jâul - (1) Restless, worried; (2) Restlessness (Adj./N.) সং. আকুল, sec. el. echo-word."
+},
+{
+  "word": "আউলা-জাউলা",
+  "pos": "adjective",
+  "definition": "আউলা-জাউলা Aula jaulā - Dishevelled and untidy (Adj.) সং. *আকুলক, sec. el. echo-word।"
+},
+{
+  "word": "Aula jaulā",
+  "pos": "adjective",
+  "definition": "আউলা-জাউলা Aula jaulā - Dishevelled and untidy (Adj.) সং. *আকুলক, sec. el. echo-word।"
+},
+{
+  "word": "আউশ",
+  "pos": "noun",
+  "definition": "আউশ Aus - Early paddy (N.) সং. অশূক (lit. without awn)।"
+},
+{
+  "word": "Aus",
+  "pos": "noun",
+  "definition": "আউশ Aus - Early paddy (N.) সং. অশূক (lit. without awn)।"
+},
+{
+  "word": "আওলা",
+  "pos": "adjective",
+  "definition": "আওলা Aulā - Disordered, dishevelled (Adj.) সং. আকুল, Syl. Beng. আউলা।"
+},
+{
+  "word": "Aulā",
+  "pos": "adjective",
+  "definition": "আওলা Aulā - Disordered, dishevelled (Adj.) সং. আকুল, Syl. Beng. আউলা।"
+},
+{
+  "word": "আক",
+  "pos": "adjective",
+  "definition": "আক Ak - One (Adj.) সং. এক।"
+},
+{
+  "word": "Ak",
+  "pos": "adjective",
+  "definition": "আক Ak - One (Adj.) সং. এক।"
+},
+{
+  "word": "আক",
+  "pos": "noun",
+  "definition": "আক Ak - Gap (N.) সং. অঙ্ক, cf. ফাক।"
+},
+{
+  "word": "Ak",
+  "pos": "noun",
+  "definition": "আক Ak - Gap (N.) সং. অঙ্ক, cf. ফাক।"
+},
+{
+  "word": "আ'ক",
+  "pos": "adjective",
+  "definition": "আ'ক Ak - excess (Adj.) মে. হকপা।"
+},
+{
+  "word": "Ak",
+  "pos": "adjective",
+  "definition": "আ'ক Ak - excess (Adj.) মে. হকপা।"
+},
+{
+  "word": "আকন",
+  "pos": "noun",
+  "definition": "আকন Akan - Sun-plant (N.) সং. আকন্দ।"
+},
+{
+  "word": "Akan",
+  "pos": "noun",
+  "definition": "আকন Akan - Sun-plant (N.) সং. আকন্দ।"
+},
+{
+  "word": "আকর্ষণ",
+  "pos": "noun",
+  "definition": "আকর্ষণ Akarşaņ - Attraction (N.) সং.।"
+},
+{
+  "word": "Akarşaņ",
+  "pos": "noun",
+  "definition": "আকর্ষণ Akarşaņ - Attraction (N.) সং.।"
+},
+{
+  "word": "আকা-আকুম",
+  "pos": "adjective",
+  "definition": "আকা-আকুম Ākā-ākum - Gaining in both ways (Adj.) মে. অকা-অকৃম।"
+},
+{
+  "word": "Ākā-ākum",
+  "pos": "adjective",
+  "definition": "আকা-আকুম Ākā-ākum - Gaining in both ways (Adj.) মে. অকা-অকৃম।"
+},
+{
+  "word": "আকা-আমেত",
+  "pos": "noun",
+  "definition": "আকা-আমেত Akā-āmet - A dry kneaded preparation (N.) মে. অকাঙপা+অমেতপা।"
+},
+{
+  "word": "Akā-āmet",
+  "pos": "noun",
+  "definition": "আকা-আমেত Akā-āmet - A dry kneaded preparation (N.) মে. অকাঙপা+অমেতপা।"
+},
+
 ]
