@@ -988,5 +988,185 @@
     "word": "Anācār",
     "pos": "adjective/noun",
     "definition": "অনাচার Anācār - Dirty (Adj/N.). সং।"
-  }
+  },
+{
+  "word": "অনাহক",
+  "pos": "adjective",
+  "definition": "অনাহক Anāhak - Fruitless (Adj.) সং, অন+অ (double negative) + Per.হক।"
+},
+{
+  "word": "Anāhak",
+  "pos": "adjective",
+  "definition": "অনাহক Anāhak - Fruitless (Adj.) সং, অন+অ (double negative) + Per.হক।"
+},
+{
+  "word": "অ'নি",
+  "pos": "noun",
+  "definition": "অ'নি A'ni - Happening, being (N.) অ'-+-নি।"
+},
+{
+  "word": "A'ni",
+  "pos": "noun",
+  "definition": "অ'নি A'ni - Happening, being (N.) অ'-+-নি।"
+},
+{
+  "word": "-অনি",
+  "pos": "-",
+  "definition": "-অনি - ani - A suffix added to roots in agentive, instrumental or pleonastic sense. সং. অন+ইক, e.g. হরনি, ধরনি etc.।"
+},
+{
+  "word": "-ani",
+  "pos": "-",
+  "definition": "-অনি - ani - A suffix added to roots in agentive, instrumental or pleonastic sense. সং. অন+ইক, e.g. হরনি, ধরনি etc.।"
+},
+{
+  "word": "অনিবার্য্য",
+  "pos": "adjective",
+  "definition": "অনিবার্য্য Anibārjā - Unavoidable (Adj.). সং।"
+},
+{
+  "word": "Anibārjā",
+  "pos": "adjective",
+  "definition": "অনিবার্য্য Anibārjā - Unavoidable (Adj.). সং।"
+},
+{
+  "word": "অনিষ্ট",
+  "pos": "noun",
+  "definition": "অনিষ্ট Anişta - Harm (N.) সং।"
+},
+{
+  "word": "Anişta",
+  "pos": "noun",
+  "definition": "অনিষ্ট Anişta - Harm (N.) সং।"
+},
+{
+  "word": "অনুগত",
+  "pos": "adjective",
+  "definition": "অনুগত Anugata - Subordinate, docile (Adj.) সং।"
+},
+{
+  "word": "Anugata",
+  "pos": "adjective",
+  "definition": "অনুগত Anugata - Subordinate, docile (Adj.) সং।"
+},
+{
+  "word": "অনুপান",
+  "pos": "noun",
+  "definition": "অনুপান Anupān - Anything to be taken with a medicine (N.) সং।"
+},
+{
+  "word": "Anupān",
+  "pos": "noun",
+  "definition": "অনুপান Anupān - Anything to be taken with a medicine (N.) সং।"
+},
+{
+  "word": "অনুবাদ",
+  "pos": "noun",
+  "definition": "অনুবাদ Anubād - Translation (N.) সং।"
+},
+{
+  "word": "Anubād",
+  "pos": "noun",
+  "definition": "অনুবাদ Anubād - Translation (N.) সং।"
+},
+{
+  "word": "অনুমান",
+  "pos": "noun",
+  "definition": "অনুমান Anumān - Inference, probability (N.) সং।"
+},
+{
+  "word": "Anumān",
+  "pos": "noun",
+  "definition": "অনুমান Anumān - Inference, probability (N.) সং।"
+},
+{
+  "word": "অনুরাগ",
+  "pos": "noun",
+  "definition": "অনুরাগ Anurāg - Affection, attraction (N.) সং।"
+},
+{
+  "word": "Anurāg",
+  "pos": "noun",
+  "definition": "অনুরাগ Anurāg - Affection, attraction (N.) সং।"
+},
+{
+  "word": "অনুরোধ",
+  "pos": "noun",
+  "definition": "অনুরোধ Anurodh - Request (N.) সং।"
+},
+{
+  "word": "Anurodh",
+  "pos": "noun",
+  "definition": "অনুরোধ Anurodh - Request (N.) সং।"
+},
+{
+  "word": "অনেক",
+  "pos": "adjective",
+  "definition": "অনেক Anek - Many (Adj.) সং।"
+},
+{
+  "word": "Anek",
+  "pos": "adjective",
+  "definition": "অনেক Anek - Many (Adj.) সং।"
+},
+{
+  "word": "অন্ত",
+  "pos": "noun",
+  "definition": "অন্ত Anta - Limit, end (N.) সং।"
+},
+{
+  "word": "Anta",
+  "pos": "noun",
+  "definition": "অন্ত Anta - Limit, end (N.) সং।"
+},
+{
+  "word": "অন্ততঃ",
+  "pos": "adjective",
+  "definition": "অন্ততঃ Antatah - At least (Adj.) সং।"
+},
+{
+  "word": "Antatah",
+  "pos": "adjective",
+  "definition": "অন্ততঃ Antatah - At least (Adj.) সং।"
+},
+{
+  "word": "অন্তর",
+  "pos": "noun",
+  "definition": "অন্তর Antar - Heart (N.) সং।"
+},
+{
+  "word": "Antar",
+  "pos": "noun",
+  "definition": "অন্তর Antar - Heart (N.) সং।"
+},
+{
+  "word": "অন্তরঙ্গ",
+  "pos": "adjective",
+  "definition": "অন্তরঙ্গ Antaranga - Intimate (Adj.) সং।"
+},
+{
+  "word": "Antaranga",
+  "pos": "adjective",
+  "definition": "অন্তরঙ্গ Antaranga - Intimate (Adj.) সং।"
+},
+{
+  "word": "অন্তর্ধান",
+  "pos": "noun",
+  "definition": "অন্তর্ধান Antardhān - Disappearance (N.) সং।"
+},
+{
+  "word": "Antardhān",
+  "pos": "noun",
+  "definition": "অন্তর্ধান Antardhān - Disappearance (N.) সং।"
+},
+{
+  "word": "অন্তর্যামী",
+  "pos": "adjective",
+  "definition": "অন্তর্যামী Antarjāmī - Indwelling (Adj.) সং।"
+},
+{
+  "word": "Antarjāmī",
+  "pos": "adjective",
+  "definition": "অন্তর্যামী Antarjāmī - Indwelling (Adj.) সং।"
+}
 ]
