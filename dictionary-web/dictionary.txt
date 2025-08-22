@@ -2699,5 +2699,335 @@
   "pos": "noun",
   "definition": "আকা-আমেত Akā-āmet - A dry kneaded preparation (N.) মে. অকাঙপা+অমেতপা।"
 },
+{
+  "word": "আকাঙক্ষা",
+  "pos": "noun",
+  "definition": "আকাঙক্ষা Akāńkhā - Desire (N.) সং.।"
+},
+{
+  "word": "Akāńkhā",
+  "pos": "noun",
+  "definition": "আকাঙক্ষা Akāńkhā - Desire (N.) সং.।"
+},
+{
+  "word": "আকাচুবাকাচু",
+  "pos": "adjective",
+  "definition": "আকাচুবাকাচু Akācu-bākācu - 1. Imperfect; 2. Imperfectly (Adj.) সং. *অকর্তৃক/*অকৃত্তুক; sec. el. echo-word."
+},
+{
+  "word": "Akācu-bākācu",
+  "pos": "adjective",
+  "definition": "আকাচুবাকাচু Akācu-bākācu - 1. Imperfect; 2. Imperfectly (Adj.) সং. *অকর্তৃক/*অকৃত্তুক; sec. el. echo-word."
+},
+{
+  "word": "আকাচৌ-বাকাচৌ",
+  "pos": "-",
+  "definition": "আকাচৌ-বাকাচৌ Akācau-bākācau - V. above."
+},
+{
+  "word": "Akācau-bākācau",
+  "pos": "-",
+  "definition": "আকাচৌ-বাকাচৌ Akācau-bākācau - V. above."
+},
+{
+  "word": "আকাটা",
+  "pos": "adjective",
+  "definition": "আকাটা Akātā - Uncut, not fine, unpolished (Adj.) সং *অকৃত্তক।"
+},
+{
+  "word": "Akātā",
+  "pos": "adjective",
+  "definition": "আকাটা Akātā - Uncut, not fine, unpolished (Adj.) সং *অকৃত্তক।"
+},
+{
+  "word": "আকাটা-বাকাটা",
+  "pos": "adjective",
+  "definition": "আকাটা-বাকাটা Ākätā-bākāţā - V. above; sec. el. echo-word."
+},
+{
+  "word": "Ākätā-bākāţā",
+  "pos": "adjective",
+  "definition": "আকাটা-বাকাটা Ākätā-bākāţā - V. above; sec. el. echo-word."
+},
+{
+  "word": "আকান্থি",
+  "pos": "adverb",
+  "definition": "আকান্থি Akânthi - Too much (Adv.) মে. অকনপা+থিপা।"
+},
+{
+  "word": "Akânthi",
+  "pos": "adverb",
+  "definition": "আকান্থি Akânthi - Too much (Adv.) মে. অকনপা+থিপা।"
+},
+{
+  "word": "আকান্দি",
+  "pos": "-",
+  "definition": "আকান্দি Akändi - V. above."
+},
+{
+  "word": "Akändi",
+  "pos": "-",
+  "definition": "আকান্দি Akändi - V. above."
+},
+{
+  "word": "আকাবাকা",
+  "pos": "adjective",
+  "definition": "আকাবাকা Akābākā - Zigzag (Adj.) সং. *অঙ্কক + *বঙ্কক।"
+},
+{
+  "word": "Akābākā",
+  "pos": "adjective",
+  "definition": "আকাবাকা Akābākā - Zigzag (Adj.) সং. *অঙ্কক + *বঙ্কক।"
+},
+{
+  "word": "আকাম্পা",
+  "pos": "adjective",
+  "definition": "আকাম্পা Akāmpā - Obscene (Adj.) মে. অকামপা।"
+},
+{
+  "word": "Akāmpā",
+  "pos": "adjective",
+  "definition": "আকাম্পা Akāmpā - Obscene (Adj.) মে. অকামপা।"
+},
+{
+  "word": "আকাল",
+  "pos": "noun",
+  "definition": "আকাল Akāl - Hard times, famine (N.) সং. অকাল."
+},
+{
+  "word": "Akāl",
+  "pos": "noun",
+  "definition": "আকাল Akāl - Hard times, famine (N.) সং. অকাল."
+},
+{
+  "word": "আকালদি",
+  "pos": "-",
+  "definition": "আকালদি Akāldi - V. আকান্থি।"
+},
+{
+  "word": "Akāldi",
+  "pos": "-",
+  "definition": "আকালদি Akāldi - V. আকান্থি।"
+},
+{
+  "word": "আকালপা",
+  "pos": "adjective",
+  "definition": "আকালপা Akālpā - Protector, strong (Adj.) মে. অকনপা।"
+},
+{
+  "word": "Akālpā",
+  "pos": "adjective",
+  "definition": "আকালপা Akālpā - Protector, strong (Adj.) মe. অকনপা।"
+},
+{
+  "word": "আকাশ",
+  "pos": "noun",
+  "definition": "আকাশ Akas - Sky (N.) সং."
+},
+{
+  "word": "Akas",
+  "pos": "noun",
+  "definition": "আকাশ Akas - Sky (N.) সং."
+},
+{
+  "word": "আকুটালি",
+  "pos": "noun",
+  "definition": "আকুটালি Akutāli - Infantile insistence, troubles, disturbance (N.) সং. *অক্ষুত্তপালিক (fr. ক্ষুদ), syl. Beng আখুটা।"
+},
+{
+  "word": "Akutāli",
+  "pos": "noun",
+  "definition": "আকুটালি Akutāli - Infantile insistence, troubles, disturbance (N.) সং. *অক্ষুত্তপালিক (fr. ক্ষুদ), syl. Beng আখুটা।"
+},
+{
+  "word": "আকুপাতি",
+  "pos": "noun",
+  "definition": "আকুপাতি Akupāti - Fine and minor works (N.) মে. অকূপ + অতেক।"
+},
+{
+  "word": "Akupāti",
+  "pos": "noun",
+  "definition": "আকুপাতি Akupāti - Fine and minor works (N.) মে. অকূপ + অতেক।"
+},
+{
+  "word": "আকুপ্পা",
+  "pos": "adjective",
+  "definition": "আকুপ্পা Akuppä - Fine, small (Adj.) মে. অকৃপ্পা।"
+},
+{
+  "word": "Akuppä",
+  "pos": "adjective",
+  "definition": "আকুপ্পা Akuppä - Fine, small (Adj.) মে. অকৃপ্পা।"
+},
+{
+  "word": "আকুপ্পী",
+  "pos": "adjective",
+  "definition": "আকুপ্পী Akuppi - Fem. fr. above."
+},
+{
+  "word": "Akuppi",
+  "pos": "adjective",
+  "definition": "আকুপ্পী Akuppi - Fem. fr. above."
+},
+{
+  "word": "আকুবালা",
+  "pos": "adverb",
+  "definition": "আকুবালা Akubālā - At one time, for ever (Adv.) সং. এক+বেলা।"
+},
+{
+  "word": "Akubālā",
+  "pos": "adverb",
+  "definition": "আকুবালা Akubālā - At one time, for ever (Adv.) সং. এক+বেলা।"
+},
+{
+  "word": "আকুরা",
+  "pos": "noun",
+  "definition": "আকুরা Akurä - A small reservoir of paddy (N.) সং. *আকুণ্ডক।"
+},
+{
+  "word": "Akurä",
+  "pos": "noun",
+  "definition": "আকুরা Akurä - A small reservoir of paddy (N.) সং. *আকুণ্ডক।"
+},
+{
+  "word": "আকেৎপা",
+  "pos": "noun",
+  "definition": "আকেৎপা Aketpā - Opportunity (N.) মে. অকেৎপা।"
+},
+{
+  "word": "Aketpā",
+  "pos": "noun",
+  "definition": "আকেৎপা Aketpā - Opportunity (N.) মে. অকেৎপা।"
+},
+{
+  "word": "আকোকপ",
+  "pos": "adjective",
+  "definition": "আকোকপ Akokpā - True, clean (Adj.) মে. অকোকপা।"
+},
+{
+  "word": "Akokpā",
+  "pos": "adjective",
+  "definition": "আকোকপ Akokpā - True, clean (Adj.) মে. অকোকপা।"
+},
+{
+  "word": "আক্কল",
+  "pos": "noun",
+  "definition": "আক্কল Akkal - Intelligence, sense (N.) আ. আক্ ল্।"
+},
+{
+  "word": "Akkal",
+  "pos": "noun",
+  "definition": "আক্কল Akkal - Intelligence, sense (N.) আ. আক্ ল্।"
+},
+{
+  "word": "আকখুবা",
+  "pos": "-",
+  "definition": "আকখুবা Akkhubä - V. আহৌবা।"
+},
+{
+  "word": "Akkhubä",
+  "pos": "-",
+  "definition": "আকখুবা Akkhubä - V. আহৌবা।"
+},
+{
+  "word": "আকখুরুম",
+  "pos": "-",
+  "definition": "আকখুরুম Akkurum - V. আকফুরুঙ।"
+},
+{
+  "word": "Akkurum",
+  "pos": "-",
+  "definition": "আকখুরুম Akkurum - V. আকফুরুঙ।"
+},
+{
+  "word": "আকখুলা",
+  "pos": "adjective",
+  "definition": "আকখুলা Akkhula - Alone (Adj.) সং. *একলক।"
+},
+{
+  "word": "Akkhula",
+  "pos": "adjective",
+  "definition": "আকখুলা Akkhula - Alone (Adj.) সং. *একলক।"
+},
+{
+  "word": "আকখুলী",
+  "pos": "adjective",
+  "definition": "আকখুলী Akkhuli - Fem. fr. above."
+},
+{
+  "word": "Akkhuli",
+  "pos": "adjective",
+  "definition": "আকখুলী Akkhuli - Fem. fr. above."
+},
+{
+  "word": "আ(ক)গর-বা(ক)গর",
+  "pos": "noun",
+  "definition": "আ(ক)গর-বা(ক)গর A(k)gar - bä(k)gar - A kind of play for children (N.) V. আক and বাঘ + ghar."
+},
+{
+  "word": "A(k)gar - bä(k)gar",
+  "pos": "noun",
+  "definition": "আ(ক)গর-বা(ক)গর A(k)gar - bä(k)gar - A kind of play for children (N.) V. আক and বাঘ + ghar."
+},
+{
+  "word": "আ'কছি",
+  "pos": "noun",
+  "definition": "আ'কছি Akchi - Sneeze (N.) Onom; সং. হঞ্জি, হঞ্জিকা।"
+},
+{
+  "word": "Akchi",
+  "pos": "noun",
+  "definition": "আ'কছি Akchi - Sneeze (N.) Onom; সং. হঞ্জি, হঞ্জিকা।"
+},
+{
+  "word": "আ'কছিয়া",
+  "pos": "verb",
+  "definition": "আ'কছিয়া Akchiyā - To sneeze (V.) Denom. fr. above."
+},
+{
+  "word": "Akchiyā",
+  "pos": "verb",
+  "definition": "আ'কছিয়া Akchiyā - To sneeze (V.) Denom. fr. above."
+},
+{
+  "word": "অ'কছিয়ানি",
+  "pos": "noun",
+  "definition": "অ'কছিয়ানি Akchiyāni - Sneezing (N.) আ'কছিয়া + -আনি।"
+},
+{
+  "word": "Akchiyāni",
+  "pos": "noun",
+  "definition": "অ'কছিয়ানি Akchiyāni - Sneezing (N.) আ'কছিয়া + -আনি।"
+},
+{
+  "word": "আকতা",
+  "pos": "adjective",
+  "definition": "আকতা Aktà - One thing (Adj.) আক+তা।"
+},
+{
+  "word": "Aktà",
+  "pos": "adjective",
+  "definition": "আকতা Aktà - One thing (Adj.) আক+তা।"
+},
+{
+  "word": "আকতা",
+  "pos": "adjective",
+  "definition": "আকতা Àktā - United, simultaneous (Adj.) V. above or সং.*একত্রক।"
+},
+{
+  "word": "Àktā",
+  "pos": "adjective",
+  "definition": "আকতা Àktā - United, simultaneous (Adj.) V. above or সং.*একত্রক।"
+},
+{
+  "word": "আকতা",
+  "pos": "adverb",
+  "definition": "আকতা Aktā - Suddenly (Adv.) সং. *আতঙ্কক; Syl. Beng আতকা।"
+},
+{
+  "word": "Aktā",
+  "pos": "adverb",
+  "definition": "আকতা Aktā - Suddenly (Adv.) সং. *আতঙ্কক; Syl. Beng আতকা।"
+},
 
 ]
