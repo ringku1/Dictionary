@@ -4208,5 +4208,946 @@
     "word": "Ajāli",
     "pos": "noun",
     "definition": "আজালি Ajāli - A kind of louse growing on animal's skin (N.)"
-  }
+  },
+{
+  "word": "আজি",
+  "pos": "adverb",
+  "definition": "আজি Aji - Today (Adv.) সং, *অদ্যিক।"
+},
+{
+  "word": "Aji",
+  "pos": "adverb",
+  "definition": "আজি Aji - Today (Adv.) সং, *অদ্যিক।"
+},
+{
+  "word": "আজিকার",
+  "pos": "adjective",
+  "definition": "আজিকার A'jikår - Of today, pertaining to today (Adj.) আজি + -কা।"
+},
+{
+  "word": "A'jikår",
+  "pos": "adjective",
+  "definition": "আজিকার A'jikår - Of today, pertaining to today (Adj.) আজি + -কা।"
+},
+{
+  "word": "আ'জিরাইত",
+  "pos": "adjective",
+  "definition": "আ'জিরাইত A'jiräit - Overpowered by a supernatural agency (Adj.) f. হাজিব + সং. *বৃত্তিক; Syl. Beng. হাজিরা।"
+},
+{
+  "word": "A'jiräit",
+  "pos": "adjective",
+  "definition": "আ'জিরাইত A'jiräit - Overpowered by a supernatural agency (Adj.) f. হাজিব + সং. *বৃত্তিক; Syl. Beng. হাজিরা।"
+},
+{
+  "word": "আজীবন",
+  "pos": "adjective",
+  "definition": "আজীবন A'jiban - Lifelong (Adj.) সং.।"
+},
+{
+  "word": "A'jiban",
+  "pos": "adjective",
+  "definition": "আজীবন A'jiban - Lifelong (Adj.) সং.।"
+},
+{
+  "word": "আজেবাজে",
+  "pos": "adjective",
+  "definition": "আজেবাজে Ajebāje - Useless, meaningless (Adj.) পা. আজ + বা'জে।"
+},
+{
+  "word": "Ajebāje",
+  "pos": "adjective",
+  "definition": "আজেবাজে Ajebāje - Useless, meaningless (Adj.) পা. আজ + বা'জে।"
+},
+{
+  "word": "আজগুবি",
+  "pos": "adjective",
+  "definition": "আজগুবি A'jgubi - Fantastic (Adj.) পা. আজ-ঘাইব।"
+},
+{
+  "word": "A'jgubi",
+  "pos": "adjective",
+  "definition": "আজগুবি A'jgubi - Fantastic (Adj.) পা. আজ-ঘাইব।"
+},
+{
+  "word": "আঞ্চিল",
+  "pos": "noun",
+  "definition": "আঞ্চিল Ancil - Return (N.) মে. হঞ্চিনপা। - আলথক = backward and forward; - বিধা (মা.) = a method of sewing"
+},
+{
+  "word": "Ancil",
+  "pos": "noun",
+  "definition": "আঞ্চিল Ancil - Return (N.) মে. হঞ্চিনপা। - আলথক = backward and forward; - বিধা (মা.) = a method of sewing"
+},
+{
+  "word": "আঞ্জি",
+  "pos": "noun",
+  "definition": "আঞ্জি Añji - Coil (N.) সং. আকুঞ্চিত।"
+},
+{
+  "word": "Añji",
+  "pos": "noun",
+  "definition": "আঞ্জি Añji - Coil (N.) সং. আকুঞ্চিত।"
+},
+{
+  "word": "আট",
+  "pos": "adjective",
+  "definition": "আট At - Eight (Adj.) সং, অষ্ট।"
+},
+{
+  "word": "At",
+  "pos": "adjective",
+  "definition": "আট At - Eight (Adj.) সং, অষ্ট।"
+},
+{
+  "word": "আট",
+  "pos": "adjective",
+  "definition": "আট At - Seriously ill (Adj.) সং. আর্ত।"
+},
+{
+  "word": "At",
+  "pos": "adjective",
+  "definition": "আট At - Seriously ill (Adj.) সং. আর্ত।"
+},
+{
+  "word": "আ'ট",
+  "pos": "noun",
+  "definition": "আ'ট A't - Market (N.) সং. হট্ট।"
+},
+{
+  "word": "A't",
+  "pos": "noun",
+  "definition": "আ'ট A't - Market (N.) সং. হট্ট।"
+},
+{
+  "word": "আট",
+  "pos": "verb",
+  "definition": "আট At - To hold to capacity (V.) সং. ঋতায়-।"
+},
+{
+  "word": "At",
+  "pos": "verb",
+  "definition": "আট At - To hold to capacity (V.) সং. ঋতায়-।"
+},
+{
+  "word": "আট",
+  "pos": "verb",
+  "definition": "আট At - To be tight (V.) সং. অট্ট (overmeasure) = denom. সং. আর্ত।"
+},
+{
+  "word": "At",
+  "pos": "verb",
+  "definition": "আট At - To be tight (V.) সং. অট্ট (overmeasure) = denom. সং. আর্ত।"
+},
+{
+  "word": "আট",
+  "pos": "verb",
+  "definition": "আট At - To walk (V.) সং. অঠ।"
+},
+{
+  "word": "At",
+  "pos": "verb",
+  "definition": "আট At - To walk (V.) সং. অঠ।"
+},
+{
+  "word": "আটক",
+  "pos": "noun",
+  "definition": "আটক Atak - Confinement, obstruction (N.) আট- + -অক। -পিটক (echo-word) = Want, need, calculating"
+},
+{
+  "word": "Atak",
+  "pos": "noun",
+  "definition": "আটক Atak - Confinement, obstruction (N.) আট- + -অক। -পিটক (echo-word) = Want, need, calculating"
+},
+{
+  "word": "আটন",
+  "pos": "noun",
+  "definition": "আটন Atan - Tightening (N.) আট- + -অন। -পিটন (echo-word) = Want, calculating"
+},
+{
+  "word": "Atan",
+  "pos": "noun",
+  "definition": "আটন Atan - Tightening (N.) আট- + -অন। -পিটন (echo-word) = Want, calculating"
+},
+{
+  "word": "আ'টন",
+  "pos": "noun",
+  "definition": "আ'টন A'tan - Walking (N.) আ'ট- + -অন।"
+},
+{
+  "word": "A'tan",
+  "pos": "noun",
+  "definition": "আ'টন A'tan - Walking (N.) আ'ট- + -অন।"
+},
+{
+  "word": "আটা",
+  "pos": "noun",
+  "definition": "আটা Atā - Flour (N.) সং. *অট্টক।"
+},
+{
+  "word": "Atā",
+  "pos": "noun",
+  "definition": "আটা Atā - Flour (N.) সং. *অট্টক।"
+},
+{
+  "word": "আটা",
+  "pos": "noun",
+  "definition": "আটা Atā - Laziness (N.) আ'ট- + আ। -ত থানা = Staying in laziness."
+},
+{
+  "word": "Atā",
+  "pos": "noun",
+  "definition": "আটা Atā - Laziness (N.) আ'ট- + আ। -ত থানা = Staying in laziness."
+},
+{
+  "word": "আটা",
+  "pos": "noun",
+  "definition": "আটা Atä - Tightness, firmness (N.) V. above."
+},
+{
+  "word": "Atä",
+  "pos": "noun",
+  "definition": "আটা Atä - Tightness, firmness (N.) V. above."
+},
+{
+  "word": "আটা",
+  "pos": "verb",
+  "definition": "আটা Ātā - To tighten (V.) caus. of আট-। -পিটা, -পিটি (echo-word) = congestion, tightness।"
+},
+{
+  "word": "Ātā",
+  "pos": "verb",
+  "definition": "আটা Ātā - To tighten (V.) caus. of আট-। -পিটা, -পিটি (echo-word) = congestion, tightness।"
+},
+{
+  "word": "আ'টা",
+  "pos": "noun",
+  "definition": "আ'টা A'tā - Walk (N.) আট- + -আ।"
+},
+{
+  "word": "A'tā",
+  "pos": "noun",
+  "definition": "আ'টা A'tā - Walk (N.) আট- + -আ।"
+},
+{
+  "word": "আটা",
+  "pos": "verb",
+  "definition": "আটা Ā'tā - To cause to move, to count (V.) Caus. of আ'ট-।"
+},
+{
+  "word": "Ā'tā",
+  "pos": "verb",
+  "definition": "আটা Ā'tā - To cause to move, to count (V.) Caus. of আ'ট-।"
+},
+{
+  "word": "আ'টানি",
+  "pos": "noun",
+  "definition": "আ'টানি A'täni - 1. Causing to move; 2. Walking (N.) 1. আ'টা- + -আনি, 2. আ'ট- + -আনি।"
+},
+{
+  "word": "A'täni",
+  "pos": "noun",
+  "definition": "আ'টানি A'täni - 1. Causing to move; 2. Walking (N.) 1. আ'টা- + -আনি, 2. আ'ট- + -আনি।"
+},
+{
+  "word": "আটানি",
+  "pos": "noun",
+  "definition": "আটানি Atäni - 1. Being tight, being held to capacity; 2. Tightening (N.) 1. আট- + -আনি; 2. আটা- + -আনি।"
+},
+{
+  "word": "Atäni",
+  "pos": "noun",
+  "definition": "আটানি Atäni - 1. Being tight, being held to capacity; 2. Tightening (N.) 1. আট- + -আনি; 2. আটা- + -আনি।"
+},
+{
+  "word": "আটানি",
+  "pos": "noun",
+  "definition": "আটানি Atåni - Being accommodated (N.) 1. আট- + -আনি।"
+},
+{
+  "word": "Atåni",
+  "pos": "noun",
+  "definition": "আটানি Atåni - Being accommodated (N.) 1. আট- + -আনি।"
+},
+{
+  "word": "আ'টি",
+  "pos": "noun",
+  "definition": "আ'টি A'ti - Bundle (N.) সং. *অষ্টিক।"
+},
+{
+  "word": "A'ti",
+  "pos": "noun",
+  "definition": "আ'টি A'ti - Bundle (N.) সং. *অষ্টিক।"
+},
+{
+  "word": "আটিট-পিটিট",
+  "pos": "adjective",
+  "definition": "আটিট-পিটিট Atit-pitit - Congested, overcrowded (Adj.) সং. অট্টিক + অর্তিক + বৃত্ত + echo-word."
+},
+{
+  "word": "Atit-pitit",
+  "pos": "adjective",
+  "definition": "আটিট-পিটিট Atit-pitit - Congested, overcrowded (Adj.) সং. অট্টিক + অর্তিক + বৃত + echo-word."
+},
+{
+  "word": "আটুনি",
+  "pos": "noun",
+  "definition": "আটুনি Atuni - A rope for tightening (N.) আট- + 2. উনি।"
+},
+{
+  "word": "Atuni",
+  "pos": "noun",
+  "definition": "আটুনি Atuni - A rope for tightening (N.) আট- + 2. উনি।"
+},
+{
+  "word": "আ'টুৱা",
+  "pos": "verb",
+  "definition": "আ'টুৱা A'tuwā - To cause to walk (V.) Caus. fr. আট-।"
+},
+{
+  "word": "A'tuwā",
+  "pos": "verb",
+  "definition": "আ'টুৱা A'tuwā - To cause to walk (V.) Caus. fr. আট-।"
+},
+{
+  "word": "আটেল",
+  "pos": "adjective",
+  "definition": "আটেল Atel - 1. Idle; 2. Idleness (Adj.) মে. অতেনপা।"
+},
+{
+  "word": "Atel",
+  "pos": "adjective",
+  "definition": "আটেল Atel - 1. Idle; 2. Idleness (Adj.) মে. অতেনপা।"
+},
+{
+  "word": "আটেলপা",
+  "pos": "adjective",
+  "definition": "আটেলপা A'tţelpă - 1. Idle; 2. Idleness (Adj.) V. above."
+},
+{
+  "word": "A'tţelpă",
+  "pos": "adjective",
+  "definition": "আটেলপা A'tţelpă - 1. Idle; 2. Idleness (Adj.) V. above."
+},
+{
+  "word": "আটেলপী",
+  "pos": "adjective",
+  "definition": "আটেলপী Atelpi - Fem. fr. above (Adj.) মে. অতেনপী।"
+},
+{
+  "word": "Atelpi",
+  "pos": "adjective",
+  "definition": "আটেলপী Atelpi - Fem. fr. above (Adj.) মে. অতেনপী।"
+},
+{
+  "word": "আটক",
+  "pos": "verb",
+  "definition": "আটক Atk - To be obstructed, to be confined (V.) সং *অট্টক or অর্তক, denom."
+},
+{
+  "word": "Atk",
+  "pos": "verb",
+  "definition": "আটক Atk - To be obstructed, to be confined (V.) সং *অট্টক or অর্তক, denom."
+},
+{
+  "word": "আটকা",
+  "pos": "verb",
+  "definition": "আটকা Atkā - To obstruct, to confine (V.) Caus. fr. above."
+},
+{
+  "word": "Atkā",
+  "pos": "verb",
+  "definition": "আটকা Atkā - To obstruct, to confine (V.) Caus. fr. above."
+},
+{
+  "word": "আটকানি",
+  "pos": "noun",
+  "definition": "আটকানি A'tkāni - 1. Being obstructed; 2. Obstructing, Confining (N.) 1. আটক- + -আনি, 2. আটকা- + -আনি।"
+},
+{
+  "word": "A'tkāni",
+  "pos": "noun",
+  "definition": "আটকানি A'tkāni - 1. Being obstructed; 2. Obstructing, Confining (N.) 1. আটক- + -আনি, 2. আটকা- + -আনি।"
+},
+{
+  "word": "আটকুরা",
+  "pos": "-",
+  "definition": "আটকুরা Atkură - V. below."
+},
+{
+  "word": "Atkură",
+  "pos": "-",
+  "definition": "আটকুরা Atkură - V. below."
+},
+{
+  "word": "আটকুরিয়া",
+  "pos": "adjective",
+  "definition": "আটকুরিয়া Atkuriyā - Idle, niggardly (Adj.) সং. অট্ট + *অর্ত, sec. el. *কুষ্ঠিক; cf. E. Beng. আটকুরা = a man who never had an issue."
+},
+{
+  "word": "Atkuriyā",
+  "pos": "adjective",
+  "definition": "আটকুরিয়া Atkuriyā - Idle, niggardly (Adj.) সং. অট্ট + *অর্ত, sec. el. *কুষ্ঠিক; cf. E. Beng. আটকুরা = a man who never had an issue."
+},
+{
+  "word": "আটকুরী",
+  "pos": "adjective",
+  "definition": "আটকুরী A'tkuri - Fem. fr. আটকুরা (Adj.)"
+},
+{
+  "word": "A'tkuri",
+  "pos": "adjective",
+  "definition": "আটকুরী A'tkuri - Fem. fr. আটকুরা (Adj.)"
+},
+{
+  "word": "আটঘাট",
+  "pos": "noun",
+  "definition": "আটঘাট Atghåţ - Eight sides, all sides (N.) আট + ঘাট।"
+},
+{
+  "word": "Atghåţ",
+  "pos": "noun",
+  "definition": "আটঘাট Atghåţ - Eight sides, all sides (N.) আট + ঘাট।"
+},
+{
+  "word": "আট্টিঙ্গা",
+  "pos": "noun",
+  "definition": "আট্টিঙ্গা Attingå - Sky (N.) মে. অতিঙ্গা।"
+},
+{
+  "word": "Attingå",
+  "pos": "noun",
+  "definition": "আট্টিঙ্গা Attingå - Sky (N.) মে. অতিঙ্গা।"
+},
+{
+  "word": "আঠইপা",
+  "pos": "adjective",
+  "definition": "আঠইপা Athaipā - Excess, Superior (Adj.) মে. অথোইপা।"
+},
+{
+  "word": "Athaipā",
+  "pos": "adjective",
+  "definition": "আঠইপা Athaipā - Excess, Superior (Adj.) মে. অথোইপা।"
+},
+{
+  "word": "আঠা",
+  "pos": "adjective",
+  "definition": "আঠা A'tha - Sticky, niggardly (Adj.) সং. *আস্থাক।"
+},
+{
+  "word": "A'tha",
+  "pos": "adjective",
+  "definition": "আঠা A'tha - Sticky, niggardly (Adj.) সং. *আস্থাক।"
+},
+{
+  "word": "আঠার",
+  "pos": "adjective",
+  "definition": "আঠার Athara - Eighteen (Adj.) সং. অষ্টাদশ।"
+},
+{
+  "word": "Athara",
+  "pos": "adjective",
+  "definition": "আঠার Athara - Eighteen (Adj.) সং. অষ্টাদশ।"
+},
+{
+  "word": "আঠালি",
+  "pos": "noun",
+  "definition": "আঠালি A'thali - 1. A kind of sticky soil; 2. A kind of worm growing on animal skin (N.) আঠা + -আলি।"
+},
+{
+  "word": "A'thali",
+  "pos": "noun",
+  "definition": "আঠালি A'thali - 1. A kind of sticky soil; 2. A kind of worm growing on animal skin (N.) আঠা + -আলি।"
+},
+{
+  "word": "আঠি",
+  "pos": "noun",
+  "definition": "আঠি A'thi - Stony seed of fruits (N.) সং, অস্থি।"
+},
+{
+  "word": "A'thi",
+  "pos": "noun",
+  "definition": "আঠি A'thi - Stony seed of fruits (N.) সং, অস্থি।"
+},
+{
+  "word": "আঠিয়া",
+  "pos": "adjective",
+  "definition": "আঠিয়া Athiya - Looking like a seed, short-statured (Adj.) আঠি + -ইয়া।"
+},
+{
+  "word": "Athiya",
+  "pos": "adjective",
+  "definition": "আঠিয়া Athiya - Looking like a seed, short-statured (Adj.) আঠি + -ইয়া।"
+},
+{
+  "word": "আঠিলা",
+  "pos": "adjective",
+  "definition": "আঠিলা A'thila - 1. Having delayed growth, short-statured (Adj.) আঠি + -ইলা।"
+},
+{
+  "word": "A'thila",
+  "pos": "adjective",
+  "definition": "আঠিলা A'thila - 1. Having delayed growth, short-statured (Adj.) আঠি + -ইলা।"
+},
+{
+  "word": "আঠু",
+  "pos": "noun",
+  "definition": "আঠু Athu - Knee (N.) সং. *অঠুক।"
+},
+{
+  "word": "Athu",
+  "pos": "noun",
+  "definition": "আঠু Athu - Knee (N.) সং. *অঠুক।"
+},
+{
+  "word": "আঠুম্পা",
+  "pos": "noun",
+  "definition": "আঠুম্পা Athumpa - Sweet, sweets (N.) মে. অথুম্পা।"
+},
+{
+  "word": "Athumpa",
+  "pos": "noun",
+  "definition": "আঠুম্পা Athumpa - Sweet, sweets (N.) মে. অথুম্পা।"
+},
+{
+  "word": "আডর",
+  "pos": "noun",
+  "definition": "আডর A'dar - Order (N.) Eng."
+},
+{
+  "word": "A'dar",
+  "pos": "noun",
+  "definition": "আডর A'dar - Order (N.) Eng."
+},
+{
+  "word": "আড্ডা",
+  "pos": "noun",
+  "definition": "আড্ডা Adda - A temporary lodging (N.) Desi."
+},
+{
+  "word": "Adda",
+  "pos": "noun",
+  "definition": "আড্ডা Adda - A temporary lodging (N.) Desi."
+},
+{
+  "word": "আণ্ডা",
+  "pos": "noun",
+  "definition": "আণ্ডা Andā - Egg (N.) সং, অণ্ডক।"
+},
+{
+  "word": "Andā",
+  "pos": "noun",
+  "definition": "আণ্ডা Andā - Egg (N.) সং, অণ্ডক।"
+},
+{
+  "word": "আ'ত",
+  "pos": "noun",
+  "definition": "আ'ত A't - Hand, Cubit (N.) সং. হস্ত।"
+},
+{
+  "word": "A't",
+  "pos": "noun",
+  "definition": "আ'ত A't - Hand, Cubit (N.) সং. হস্ত।"
+},
+{
+  "word": "আতপ্পা",
+  "pos": "adjective",
+  "definition": "আতপ্পা A'tappā - Different, special (Adj.) মে. অতোপ্পা।"
+},
+{
+  "word": "A'tappā",
+  "pos": "adjective",
+  "definition": "আতপ্পা A'tappā - Different, special (Adj.) মে. অতোপ্পা।"
+},
+{
+  "word": "আতলপা",
+  "pos": "adjective",
+  "definition": "আতলপা Atälpā - Vile (Adj.) মে. আতোনপা।"
+},
+{
+  "word": "Atälpā",
+  "pos": "adjective",
+  "definition": "আতলপা Atälpā - Vile (Adj.) মে. আতোনপা।"
+},
+{
+  "word": "আ'তা",
+  "pos": "noun",
+  "definition": "আ'তা A'tā - Bundle or handful of seedling (N.) সং. *হস্তক।"
+},
+{
+  "word": "A'tā",
+  "pos": "noun",
+  "definition": "আ'তা A'tā - Bundle or handful of seedling (N.) সং. *হস্তক।"
+},
+{
+  "word": "আ'তা",
+  "pos": "verb",
+  "definition": "আ'তা A'ta - To touch (V.) Denom. fr. আ'ত।"
+},
+{
+  "word": "A'ta",
+  "pos": "verb",
+  "definition": "আ'তা A'ta - To touch (V.) Denom. fr. আ'ত।"
+},
+{
+  "word": "আতা",
+  "pos": "noun",
+  "definition": "আতা A'tå - Custard apple (N.) পো. আতা।"
+},
+{
+  "word": "A'tå",
+  "pos": "noun",
+  "definition": "আতা A'tå - Custard apple (N.) পো. আতা।"
+},
+{
+  "word": "আ'তাআতি",
+  "pos": "noun",
+  "definition": "আ'তাআতি A'tā-āti - Fighting with hands (N.) Recipr. fr. আ'ত।"
+},
+{
+  "word": "A'tā-āti",
+  "pos": "noun",
+  "definition": "আ'তাআতি A'tā-āti - Fighting with hands (N.) Recipr. fr. আ'ত।"
+},
+{
+  "word": "আ'তাই",
+  "pos": "noun",
+  "definition": "আ'তাই A'tãi - The act of handling (N.) -মরা, -মরুরা = One who becomes enfeebled by the very touch, weakling."
+},
+{
+  "word": "A'tãi",
+  "pos": "noun",
+  "definition": "আ'তাই A'tãi - The act of handling (N.) -মরা, -মরুরা = One who becomes enfeebled by the very touch, weakling."
+},
+{
+  "word": "আতাকনা",
+  "pos": "adjective",
+  "definition": "আতাকনা A'tāknā - Exact (Adj.) মে. অতাকনপা = explained. - করে = exactly।"
+},
+{
+  "word": "A'tāknā",
+  "pos": "adjective",
+  "definition": "আতাকনা A'tāknā - Exact (Adj.) মে. অতাকনপা = explained. - করে = exactly।"
+},
+{
+  "word": "আতাঙনা",
+  "pos": "adjective",
+  "definition": "আতাঙনা Ä'táńnā - Exact (Adj.) V. above."
+},
+{
+  "word": "Ä'táńnā",
+  "pos": "adjective",
+  "definition": "আতাঙনা Ä'táńnā - Exact (Adj.) V. above."
+},
+{
+  "word": "আতাঙপا",
+  "pos": "adjective",
+  "definition": "আতাঙপা A'tāńpā - Rare (Adj.) মে. অতাঙপা।"
+},
+{
+  "word": "A'tāńpā",
+  "pos": "adjective",
+  "definition": "আতাঙপা A'tāńpā - Rare (Adj.) মে. অতাঙপা"
+},
+{
+  "word": "আ'তানি",
+  "pos": "noun",
+  "definition": "আ'তানি A'tāni - Handling (N.) আ'তা- + -আনি। -পিতানি = (echo word) = handling"
+},
+{
+  "word": "A'tāni",
+  "pos": "noun",
+  "definition": "আ'তানি A'tāni - Handling (N.) আ'তা- + -আনি। -পিতানি = (echo word) = handling"
+},
+{
+  "word": "আ'তাপিতা",
+  "pos": "-",
+  "definition": "আ'তাপিতা A'tāpitā - V. above."
+},
+{
+  "word": "A'tāpitā",
+  "pos": "-",
+  "definition": "আ'তাপিতা A'tāpitā - V. above."
+},
+{
+  "word": "আতিয়া-গুরু",
+  "pos": "noun",
+  "definition": "আতিয়া-গুরু A'tiyā-guru - A deity (N.) মে. অতিয়া + সং, গুরু।"
+},
+{
+  "word": "A'tiyā-guru",
+  "pos": "noun",
+  "definition": "আতিয়া-গুরু A'tiyā-guru - A deity (N.) মে. অতিয়া + সং, গুরু।"
+},
+{
+  "word": "আ'তিয়ার",
+  "pos": "noun",
+  "definition": "আ'তিয়ার A'tiyär - Implement, instruments (N.) সং, হস্তিকাধার, Beng. হাতিয়ার।"
+},
+{
+  "word": "A'tiyär",
+  "pos": "noun",
+  "definition": "আ'তিয়ার A'tiyär - Implement, instruments (N.) সং, হস্তিকাধার, Beng. হাতিয়ার।"
+},
+{
+  "word": "আ'তুৱা",
+  "pos": "verb",
+  "definition": "আ'তুৱা A'tuwā - Caus. of আ'তা- (V.)"
+},
+{
+  "word": "A'tuwā",
+  "pos": "verb",
+  "definition": "আ'তুৱা A'tuwā - Caus. of আ'তা- (V.)"
+},
+{
+  "word": "আ'তুৱানি",
+  "pos": "noun",
+  "definition": "আ'তুৱানি A'tuwāni - Causing to handle (N.) আ'তুৱা- + -আনি।"
+},
+{
+  "word": "A'tuwāni",
+  "pos": "noun",
+  "definition": "আ'তুৱানি A'tuwāni - Causing to handle (N.) আ'তুৱা- + -আনি।"
+},
+{
+  "word": "আতুর",
+  "pos": "adjective",
+  "definition": "আতুর Atur - Lame, deformed (Adj.) সং. অর্ত, V. below।"
+},
+{
+  "word": "Atur",
+  "pos": "adjective",
+  "definition": "আতুর Atur - Lame, deformed (Adj.) সং. অর্ত, V. below।"
+},
+{
+  "word": "আতুর",
+  "pos": "noun",
+  "definition": "আতুর A'tur - Lying-in-room (N.) সং. অন্তঃ + কুটিক। -হেজি = a bed in a lying-in-room."
+},
+{
+  "word": "A'tur",
+  "pos": "noun",
+  "definition": "আতুর A'tur - Lying-in-room (N.) সং. অন্তঃ + কুটিক। -হেজি = a bed in a lying-in-room."
+},
+{
+  "word": "আতুরি",
+  "pos": "-",
+  "definition": "আতুরি A'turi - V. above."
+},
+{
+  "word": "A'turi",
+  "pos": "-",
+  "definition": "আতুরি A'turi - V. above."
+},
+{
+  "word": "আ'তে আ'তে",
+  "pos": "adverb",
+  "definition": "আ'তে আ'তে A'te-ä'te - Immediately (Adv.) আ'ত + এ (loc.) dupl."
+},
+{
+  "word": "A'te-ä'te",
+  "pos": "adverb",
+  "definition": "আ'তে আ'তে A'te-ä'te - Immediately (Adv.) আ'ত + এ (loc.) dupl."
+},
+{
+  "word": "আত্তমা",
+  "pos": "noun",
+  "definition": "আত্তমা A'ttamā - Soul (N.) সং. আত্মা। -ঈশ্বর = Indwelling God."
+},
+{
+  "word": "A'ttamā",
+  "pos": "noun",
+  "definition": "আত্তমা A'ttamā - Soul (N.) সং. আত্মা। -ঈশ্বর = Indwelling God."
+},
+{
+  "word": "আত্তমাগাঠি",
+  "pos": "noun",
+  "definition": "আত্তমাগাঠি A'ttamāgāţhi - Suicide (N.) আত্মঘাতী।"
+},
+{
+  "word": "A'ttamāgāţhi",
+  "pos": "noun",
+  "definition": "আত্তমাগাঠি A'ttamāgāţhi - Suicide (N.) আত্মঘাতী।"
+},
+{
+  "word": "আত্তর",
+  "pos": "noun",
+  "definition": "আত্তর Attar - Otto, perfume (N.) পা. 'ইতর।"
+},
+{
+  "word": "Attar",
+  "pos": "noun",
+  "definition": "আত্তর Attar - Otto, perfume (N.) পা. 'ইতর।"
+},
+{
+  "word": "আ'ত্তি",
+  "pos": "noun",
+  "definition": "আ'ত্তি A'tti - Elephant (N.) সং, হস্তি।"
+},
+{
+  "word": "A'tti",
+  "pos": "noun",
+  "definition": "আ'ত্তি A'tti - Elephant (N.) সং, হস্তি।"
+},
+{
+  "word": "আ'ত্তুরা",
+  "pos": "noun",
+  "definition": "আ'ত্তুরা A'tturā - Hammer (N.) দেশী।"
+},
+{
+  "word": "A'tturā",
+  "pos": "noun",
+  "definition": "আ'ত্তুরা A'tturā - Hammer (N.) দেশী।"
+},
+{
+  "word": "আত্মতত্ত্ব",
+  "pos": "noun",
+  "definition": "আত্মতত্ত্ব Atmatattva - Knowledge of the self (N.) সং.।"
+},
+{
+  "word": "Atmatattva",
+  "pos": "noun",
+  "definition": "আত্মতত্ত্ব Atmatattva - Knowledge of the self (N.) সং.।"
+},
+{
+  "word": "আত্মদায়",
+  "pos": "adjective",
+  "definition": "আত্মদায় Atmadāy - Dearest (Adj.) সং. আত্মা + দায়।"
+},
+{
+  "word": "Atmadāy",
+  "pos": "adjective",
+  "definition": "আত্মদায় Atmadāy - Dearest (Adj.) সং. আত্মা + দায়।"
+},
+{
+  "word": "আত্মীয়",
+  "pos": "noun",
+  "definition": "আত্মীয় Atmiya - Relative (N.) সং.।"
+},
+{
+  "word": "Atmiya",
+  "pos": "noun",
+  "definition": "আত্মীয় Atmiya - Relative (N.) সং.।"
+},
+{
+  "word": "আত্রা",
+  "pos": "adjective",
+  "definition": "আত্রা Atrā - Separate (Adj.) পা. আতরাফ্।"
+},
+{
+  "word": "Atrā",
+  "pos": "adjective",
+  "definition": "আত্রা Atrā - Separate (Adj.) পা. আতরাফ্।"
+},
+{
+  "word": "আথারে-পাথারে",
+  "pos": "adjective",
+  "definition": "আথারে-পাথারে Åthäre-Pāthäre - 1. Useless; 2. Uselessly (Adj./Adv.) সং, *অস্থলক + পদস্থলক (with adverbial ending)"
+},
+{
+  "word": "Åthäre-Pāthäre",
+  "pos": "adjective",
+  "definition": "আথারে-পাথারে Åthäre-Pāthäre - 1. Useless; 2. Uselessly (Adj./Adv.) সং, *অস্থলক + পদস্থলক (with adverbial ending)"
+},
+{
+  "word": "আথিপা-ফাম",
+  "pos": "noun",
+  "definition": "আথিপা-ফাম thipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
+},
+{
+  "word": "thipā-phâm",
+  "pos": "noun",
+  "definition": "আথিপা-ফাম thipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
+},
+{
+  "word": "আথিলপা",
+  "pos": "noun",
+  "definition": "আথিলপা Athilpā - Rheumatic pain (N.) মে. অথিনপা।"
+},
+{
+  "word": "Athilpā",
+  "pos": "noun",
+  "definition": "আথিলপা Athilpā - Rheumatic pain (N.) মে. অথিনপা।"
+},
+{
+  "word": "আদঙ",
+  "pos": "noun",
+  "definition": "আদঙ Adan - Control (N.) সং, আদমন।"
+},
+{
+  "word": "Adan",
+  "pos": "noun",
+  "definition": "আদঙ Adan - Control (N.) সং, আদমন।"
+},
+{
+  "word": "আদত",
+  "pos": "noun",
+  "definition": "আদত Adat - Nature (N.) আ. আদত।"
+},
+{
+  "word": "Adat",
+  "pos": "noun",
+  "definition": "আদত Adat - Nature (N.) আ. আদত।"
+},
+{
+  "word": "আদব",
+  "pos": "noun",
+  "definition": "আদব Adab - Courtesy, etiquette (N.) পা. আদব।"
+},
+{
+  "word": "Adab",
+  "pos": "noun",
+  "definition": "আদব Adab - Courtesy, etiquette (N.) পা. আদব।"
+},
+{
+  "word": "আদর",
+  "pos": "noun",
+  "definition": "আদর Adar - Affection (N.) সং.।"
+},
+{
+  "word": "Adar",
+  "pos": "noun",
+  "definition": "আদর Adar - Affection (N.) সং.।"
+},
+{
+  "word": "আদর্শ",
+  "pos": "noun",
+  "definition": "আদর্শ Adarsa - Aim (N.) সং,।"
+},
+{
+  "word": "Adarsa",
+  "pos": "noun",
+  "definition": "আদর্শ Adarsa - Aim (N.) সং,।"
+},
+{
+  "word": "আ'দল",
+  "pos": "noun",
+  "definition": "আ'দল A'dal - Half a day (N.) সং, অর্ধ + বেলা।"
+},
+{
+  "word": "A'dal",
+  "pos": "noun",
+  "definition": "আ'দল A'dal - Half a day (N.) সং, অর্ধ + বেলা।"
+},
+{
+  "word": "আদা",
+  "pos": "noun",
+  "definition": "আদা Adā - Ginger (N.) সং. আর্দ্রক।"
+},
+{
+  "word": "Adā",
+  "pos": "noun",
+  "definition": "আদা Adā - Ginger (N.) সং. আর্দ্রক।"
+},
+{
+  "word": "আদাচাটি",
+  "pos": "noun",
+  "definition": "আদাচাটি Adācâți - A coarse mat for sitting (N.) সং. *অর্ধক + *চট্টিক or *চর্তিক, Syl. Beng. আদ্যাচাটি।"
+},
+{
+  "word": "Adācâți",
+  "pos": "noun",
+  "definition": "আদাচাটি Adācâți - A coarse mat for sitting (N.) সং. *অর্ধক + *চট্টিক or *চর্তিক, Syl. Beng. আদ্যাচাটি।"
+},
+
 ]
