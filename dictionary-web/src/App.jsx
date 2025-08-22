@@ -72,7 +72,7 @@ function App() {
             <p>
               This is a simple dictionary app of Bishnupriya Manipuri Language
               to English Language. This app provides quick word lookups, part of
-              speech, and definitions using a clean, responsive interface.It
+              speech, and definitions using a clean, responsive interface. It
               features live suggestions, keyboard navigation, and dark mode
               support.
             </p>

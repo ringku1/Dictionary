@@ -3028,5 +3028,1185 @@
     "word": "Aktā",
     "pos": "adverb",
     "definition": "আকতা Aktā - Suddenly (Adv.) সং. *আতঙ্কক; Syl. Beng আতকা।"
+  },
+  {
+    "word": "আকতিকা",
+    "pos": "adverb",
+    "definition": "আকতিকা Aktikă - By superceding one's words or action (Adv.) সং *অগ্রবর্তিক+কাল।"
+  },
+  {
+    "word": "Aktikă",
+    "pos": "adverb",
+    "definition": "আকতিকা Aktikă - By superceding one's words or action (Adv.) সং *অগ্রবর্তিক+কাল।"
+  },
+  {
+    "word": "আকপাক",
+    "pos": "noun",
+    "definition": "আকপাক Akpåk - Before and behind, careful thought (N.) অগ্র + পশ্চাৎ or পক্ক।"
+  },
+  {
+    "word": "Akpåk",
+    "pos": "noun",
+    "definition": "আকপাক Akpåk - Before and behind, careful thought (N.) অগ্র + পশ্চাৎ or পক্ক।"
+  },
+  {
+    "word": "আকফির",
+    "pos": "adverb",
+    "definition": "আকফির Akphir - Once (Adv.) আক + ফির।"
+  },
+  {
+    "word": "Akphir",
+    "pos": "adverb",
+    "definition": "আকফির Akphir - Once (Adv.) আক + ফির।"
+  },
+  {
+    "word": "আকফিরণ",
+    "pos": "adverb",
+    "definition": "আকফিরণ Äkphiran - One turn (Adv.) আক+ ফিরণ।"
+  },
+  {
+    "word": "Äkphiran",
+    "pos": "adverb",
+    "definition": "আকফিরণ Äkphiran - One turn (Adv.) আক+ ফিরণ।"
+  },
+  {
+    "word": "আকফুরুঙ",
+    "pos": "adverb",
+    "definition": "আকফুরুঙ Akphuruń - Once (Adv.) আক+ফুরুঙ।"
+  },
+  {
+    "word": "Akphuruń",
+    "pos": "adverb",
+    "definition": "আকফুরুঙ Akphuruń - Once (Adv.) আক+ফুরুঙ।"
+  },
+  {
+    "word": "আকমাও",
+    "pos": "adverb",
+    "definition": "আকমাও Ākmão - Once (Adv.) সং. এক+মুখ or বার-অপি।"
+  },
+  {
+    "word": "Ākmão",
+    "pos": "adverb",
+    "definition": "আকমাও Ākmão - Once (Adv.) সং. এক+মুখ or বার-অপি।"
+  },
+  {
+    "word": "আকমু",
+    "pos": "adverb",
+    "definition": "আকমু Akmu - Once (Adv.) সং. এক+মুখ or বার-অপি।"
+  },
+  {
+    "word": "Akmu",
+    "pos": "adverb",
+    "definition": "আকমু Akmu - Once (Adv.) সং. এক+মুখ or বার-অপি।"
+  },
+  {
+    "word": "আকমো",
+    "pos": "adverb",
+    "definition": "আকমো Àkmo - Once (Adv.) সং. এক+মুখ or বার-অপি।"
+  },
+  {
+    "word": "Àkmo",
+    "pos": "adverb",
+    "definition": "আকমো Àkmo - Once (Adv.) সং. এক+মুখ or বার-অপি।"
+  },
+  {
+    "word": "আকমুড়া",
+    "pos": "adjective",
+    "definition": "আকমুড়া Akmurā - 1. Attentive, 2. Attention (Adj./N.) আক + মুড়া।"
+  },
+  {
+    "word": "Akmurā",
+    "pos": "adjective",
+    "definition": "আকমুড়া Akmurā - 1. Attentive, 2. Attention (Adj./N.) আক + মুড়া।"
+  },
+  {
+    "word": "আক্রমণ",
+    "pos": "noun",
+    "definition": "আক্রমণ Akraman - Attack (N.) সং।"
+  },
+  {
+    "word": "Akraman",
+    "pos": "noun",
+    "definition": "আক্রমণ Akraman - Attack (N.) সং।"
+  },
+  {
+    "word": "আক্রোশ",
+    "pos": "noun",
+    "definition": "আক্রোশ Akroś - Malice, grudge (N.) সং.।"
+  },
+  {
+    "word": "Akroś",
+    "pos": "noun",
+    "definition": "আক্রোশ Akroś - Malice, grudge (N.) সং.।"
+  },
+  {
+    "word": "আকলা",
+    "pos": "noun",
+    "definition": "আকলা Āklā - A bow-like cage (N.) সং *বক্রলক।"
+  },
+  {
+    "word": "Āklā",
+    "pos": "noun",
+    "definition": "আকলা Āklā - A bow-like cage (N.) সং *বক্রলক।"
+  },
+  {
+    "word": "আকশর",
+    "pos": "adjective",
+    "definition": "আকশর Aksar - Alone, only lord (Adj.) সং. একেশ্বর।"
+  },
+  {
+    "word": "Aksar",
+    "pos": "adjective",
+    "definition": "আকশর Aksar - Alone, only lord (Adj.) সং. একেশ্বর।"
+  },
+  {
+    "word": "আকসাটে",
+    "pos": "adverb",
+    "definition": "আকসাটে Aksāțe - In a body, at one time (Adv.) সং, এক+সার্থেন।"
+  },
+  {
+    "word": "Aksāțe",
+    "pos": "adverb",
+    "definition": "আকসাটে Aksāțe - In a body, at one time (Adv.) সং, এক+সার্থেন।"
+  },
+  {
+    "word": "আকহবা",
+    "pos": "adverb",
+    "definition": "আকহবা Ākhabā - So much, very (Adv.) সং. এক-শত-বার।"
+  },
+  {
+    "word": "Ākhabā",
+    "pos": "adverb",
+    "definition": "আকহবা Ākhabā - So much, very (Adv.) সং. এক-শত-বার।"
+  },
+  {
+    "word": "আখর",
+    "pos": "noun",
+    "definition": "আখর Akhar - Letter (N.) সং. অক্ষর।"
+  },
+  {
+    "word": "Akhar",
+    "pos": "noun",
+    "definition": "আখর Akhar - Letter (N.) সং. অক্ষর।"
+  },
+  {
+    "word": "আখাড়া",
+    "pos": "noun",
+    "definition": "আখাড়া Akhåra - Temple (N.) সং. অক্ষবাটক; cf. late. Sans. আখেটক।"
+  },
+  {
+    "word": "Akhåra",
+    "pos": "noun",
+    "definition": "আখাড়া Akhåra - Temple (N.) সং. অক্ষবাটক; cf. late. Sans. আখেটক।"
+  },
+  {
+    "word": "আখালা",
+    "pos": "adjective",
+    "definition": "আখালা Akhala - Alone (Adj.) সং একলক। -আকশর= One without a second."
+  },
+  {
+    "word": "Akhala",
+    "pos": "adjective",
+    "definition": "আখালা Akhala - Alone (Adj.) সং একলক। -আকশর= One without a second."
+  },
+  {
+    "word": "আখি",
+    "pos": "noun",
+    "definition": "আখি Akhi - Eye (N.) সং, অক্ষি। - নুৱারা = Ophthalmia."
+  },
+  {
+    "word": "Akhi",
+    "pos": "noun",
+    "definition": "আখি Akhi - Eye (N.) সং, অক্ষি। - নুৱারা = Ophthalmia."
+  },
+  {
+    "word": "আখিয়া",
+    "pos": "-",
+    "definition": "আখিয়া Ākhiyā - V. আহিয়া।"
+  },
+  {
+    "word": "Ākhiyā",
+    "pos": "-",
+    "definition": "আখিয়া Ākhiyā - V. আহিয়া।"
+  },
+  {
+    "word": "আখেইপী",
+    "pos": "noun",
+    "definition": "আখেইপী Akheipi - A measure of drum-music played as an interlude (N.) মে. অখায়পী।"
+  },
+  {
+    "word": "Akheipi",
+    "pos": "noun",
+    "definition": "আখেইপী Akheipi - A measure of drum-music played as an interlude (N.) মে. অখায়পী।"
+  },
+  {
+    "word": "আগ",
+    "pos": "noun",
+    "definition": "আগ Ag - Front, before (N.) Ts. agra. - pic=before and behind coming towards."
+  },
+  {
+    "word": "Ag",
+    "pos": "noun",
+    "definition": "আগ Ag - Front, before (N.) Ts. agra. - pic=before and behind coming towards."
+  },
+  {
+    "word": "আ'গ",
+    "pos": "verb",
+    "definition": "আ'গ A'g - To evaluate one's bowels (V.) cf. syl. Beng. hāgā."
+  },
+  {
+    "word": "A'g",
+    "pos": "verb",
+    "definition": "আ'গ A'g - To evaluate one's bowels (V.) cf. syl. Beng. hāgā."
+  },
+  {
+    "word": "আগম নিগম",
+    "pos": "noun",
+    "definition": "আগম নিগম Agam-nigam - Courtesy (lit. knowledge of sāstras) (N.) সং.।"
+  },
+  {
+    "word": "Agam-nigam",
+    "pos": "noun",
+    "definition": "আগম নিগম Agam-nigam - Courtesy (lit. knowledge of sāstras) (N.) সং.।"
+  },
+  {
+    "word": "আগর",
+    "pos": "noun",
+    "definition": "আগর Agar - An instrument for piercing wood (N.) সং. অর্গল/অর্গড়।"
+  },
+  {
+    "word": "Agar",
+    "pos": "noun",
+    "definition": "আগর Agar - An instrument for piercing wood (N.) সং. অর্গল/অর্গড়।"
+  },
+  {
+    "word": "আগড়ম-বাগড়ম",
+    "pos": "noun",
+    "definition": "আগড়ম-বাগড়ম Agaram-bāgaram - Rubbish, trifling matters (N.) Onom., cf. H. অগড়ম-বগড়ম।"
+  },
+  {
+    "word": "Agaram-bāgaram",
+    "pos": "noun",
+    "definition": "আগড়ম-বাগড়ম Agaram-bāgaram - Rubbish, trifling matters (N.) Onom., cf. H. অগড়ম-বগড়ম।"
+  },
+  {
+    "word": "আগা",
+    "pos": "noun",
+    "definition": "আগা Agā - Tip, top (N.) সং. *অগ্রক। -গুড়ি = top and bottom, every side।"
+  },
+  {
+    "word": "Agā",
+    "pos": "noun",
+    "definition": "আগা Agā - Tip, top (N.) সং. *অগ্রক। -গুড়ি = top and bottom, every side।"
+  },
+  {
+    "word": "আগা",
+    "pos": "-",
+    "definition": "আগা Aga - V. আহা।"
+  },
+  {
+    "word": "Aga",
+    "pos": "-",
+    "definition": "আগা Aga - V. আহা।"
+  },
+  {
+    "word": "আগাতুলি",
+    "pos": "-",
+    "definition": "আগাতুলি Agatuli - V. আহাতুলি।"
+  },
+  {
+    "word": "Agatuli",
+    "pos": "-",
+    "definition": "আগাতুলি Agatuli - V. আহাতুলি।"
+  },
+  {
+    "word": "আ'গা",
+    "pos": "noun",
+    "definition": "আ'গা A'ga - The evacuation of one's bowels (N.) আ'গ + -আ, Syl. Beng. হাগা।"
+  },
+  {
+    "word": "A'ga",
+    "pos": "noun",
+    "definition": "আ'গা A'ga - The evacuation of one's bowels (N.) আ'গ + -আ, Syl. Beng. হাগা।"
+  },
+  {
+    "word": "আ'গানি",
+    "pos": "noun",
+    "definition": "আ'গানি A'gani - Evacuating one's bowels (N.) আ'গ- + -আনি।"
+  },
+  {
+    "word": "A'gani",
+    "pos": "noun",
+    "definition": "আ'গানি A'gani - Evacuating one's bowels (N.) আ'গ- + -আনি।"
+  },
+  {
+    "word": "আ'গা-বলুনি",
+    "pos": "noun",
+    "definition": "আ'গা-বলুনি Aga-Baluni - The last in a row of dancing group (N.) সং. *অগ্রক+বোলনিক, influenced by আ'গা।"
+  },
+  {
+    "word": "Aga-Baluni",
+    "pos": "noun",
+    "definition": "আ'গা-বলুনি Aga-Baluni - The last in a row of dancing group (N.) সং. *অগ্রক+বোলনিক, influenced by আ'গা।"
+  },
+  {
+    "word": "আ'গাবুলুনি",
+    "pos": "-",
+    "definition": "আ'গাবুলুনি Agābuluni - V. above."
+  },
+  {
+    "word": "Agābuluni",
+    "pos": "-",
+    "definition": "আ'গাবুলুনি Agābuluni - V. above."
+  },
+  {
+    "word": "আগারি",
+    "pos": "noun",
+    "definition": "আগারি Agari - Remaining at the top or in the front (N.) সং. *অগ্রবর্তিক/ *অগ্রবত্মিক।"
+  },
+  {
+    "word": "Agari",
+    "pos": "noun",
+    "definition": "আগারি Agari - Remaining at the top or in the front (N.) সং. *অগ্রবর্তিক/ *অগ্রবত্মিক।"
+  },
+  {
+    "word": "আগিলা",
+    "pos": "adjective",
+    "definition": "আগিলা Agila - Advance (Adj.) সং. অগ্রিলক।"
+  },
+  {
+    "word": "Agila",
+    "pos": "adjective",
+    "definition": "আগিলা Agila - Advance (Adj.) সং. অগ্রিলক।"
+  },
+  {
+    "word": "আগুন",
+    "pos": "adjective",
+    "definition": "আগুন Agun - Fiery, very much angry (Adj.) সং. অগ্নি।"
+  },
+  {
+    "word": "Agun",
+    "pos": "adjective",
+    "definition": "আগুন Agun - Fiery, very much angry (Adj.) সং. অগ্নি。"
+  },
+  {
+    "word": "আগুৱা",
+    "pos": "verb",
+    "definition": "আগুৱা Aguwa - To proceed (V.) সং. অগ্রতঃ, denom."
+  },
+  {
+    "word": "Aguwa",
+    "pos": "verb",
+    "definition": "আগুৱা Aguwa - To proceed (V.) সং. অগ্রতঃ, denom."
+  },
+  {
+    "word": "আগুৱান",
+    "pos": "adjective",
+    "definition": "আগুৱান Aguwân - Forward, ahead (Adj.) সং. অগ্রতঃযান।"
+  },
+  {
+    "word": "Aguwân",
+    "pos": "adjective",
+    "definition": "আগুৱান Aguwân - Forward, ahead (Adj.) সং. অগ্রতঃযান。"
+  },
+  {
+    "word": "আগুৱানি",
+    "pos": "noun",
+    "definition": "আগুৱানি Aguwani - Proceeding, leading (N.) আগুৱা- + -আনি।"
+  },
+  {
+    "word": "Aguwani",
+    "pos": "noun",
+    "definition": "আগুৱানি Aguwani - Proceeding, leading (N.) আগুৱা- +  -আনি।"
+  },
+  {
+    "word": "আগুরি",
+    "pos": "adverb",
+    "definition": "আগুরি Aguri - Coming in advance, advance (Adv.) সং *অগ্রকরিক, *অগ্রবর্তিক।"
+  },
+  {
+    "word": "Aguri",
+    "pos": "adverb",
+    "definition": "আগুরি Aguri - Coming in advance, advance (Adv.) সং *অগ্রকরিক,  *অগ্রবর্তিক।"
+  },
+  {
+    "word": "আগে",
+    "pos": "adverb",
+    "definition": "আগে Age - Before, in front (Adv.) আগ+এ (loc.)।"
+  },
+  {
+    "word": "Age",
+    "pos": "adverb",
+    "definition": "আগে Age - Before, in front (Adv.) আগ+এ (loc.)।"
+  },
+  {
+    "word": "আগেকার",
+    "pos": "adjective",
+    "definition": "আগেকার Agekār - Previous, ancient (Adj.) আগে+কার।"
+  },
+  {
+    "word": "Agekār",
+    "pos": "adjective",
+    "definition": "আগেকার Agekār - Previous, ancient (Adj.) আগে+কার।"
+  },
+  {
+    "word": "আগলা",
+    "pos": "adjective",
+    "definition": "আগলা Agla - Separate (Adj.) V. আলগা।"
+  },
+  {
+    "word": "Agla",
+    "pos": "adjective",
+    "definition": "আগলা Agla - Separate (Adj.) V. আলগা।"
+  },
+  {
+    "word": "আঘাট",
+    "pos": "noun",
+    "definition": "আঘাট Aghaţ - Unsuitable place (lit. bad bathing place) (N.) আ+ঘাট।"
+  },
+  {
+    "word": "Aghaţ",
+    "pos": "noun",
+    "definition": "আঘাট Aghaţ - Unsuitable place (lit. bad bathing place) (N.) আ+ঘাট।"
+  },
+  {
+    "word": "আঘাত",
+    "pos": "noun",
+    "definition": "আঘাত Aghat - Blow, stroke (N.) সং.।"
+  },
+  {
+    "word": "Aghat",
+    "pos": "noun",
+    "definition": "আঘাত Aghat - Blow, stroke (N.) সং.।"
+  },
+  {
+    "word": "আঘ্রণ",
+    "pos": "noun",
+    "definition": "আঘ্রণ Aghran - An Indian month (N.) অগ্রহায়ণ।"
+  },
+  {
+    "word": "Aghran",
+    "pos": "noun",
+    "definition": "আঘ্রণ Aghran - An Indian month (N.) অগ্রহায়ণ।"
+  },
+  {
+    "word": "আ'ঙ",
+    "pos": "adjective",
+    "definition": "আ'ঙ A'n - 1. Opened; 2. The act of opening (Adj.) মে. হাঙপা। অর থঙচিল = movable gate; করানি = opening."
+  },
+  {
+    "word": "A'n",
+    "pos": "adjective",
+    "definition": "আ'ঙ A'n - 1. Opened; 2. The act of opening (Adj.) মে. হাঙপা। অর থঙচিল = movable gate; করানি = opening."
+  },
+  {
+    "word": "আ'ঙ",
+    "pos": "noun",
+    "definition": "আ'ঙ A'n - Question (N.) মে. হাঙপা। -করানি = asking."
+  },
+  {
+    "word": "A'n",
+    "pos": "noun",
+    "definition": "আ'ঙ A'n - Question (N.) মে. হাঙপা। -করানি = asking."
+  },
+  {
+    "word": "আ'ঙলাক",
+    "pos": "noun",
+    "definition": "আ'ঙলাক Ä'nläk - Inquiry (N.) মে. হাঙপা+লাকপা।"
+  },
+  {
+    "word": "Ä'nläk",
+    "pos": "noun",
+    "definition": "আ'ঙলাক Ä'nläk - Inquiry (N.) মে. হাঙপা+লাকপা।"
+  },
+  {
+    "word": "আঙা",
+    "pos": "verb",
+    "definition": "আঙা Anä - 1. To be in a position to strike; 2. To prepare (V.) সং. অঙ্গ, denom."
+  },
+  {
+    "word": "Anä",
+    "pos": "verb",
+    "definition": "আঙা Anä - 1. To be in a position to strike; 2. To prepare (V.) সং. অঙ্গ, denom."
+  },
+  {
+    "word": "আঙাঙ",
+    "pos": "noun",
+    "definition": "আঙাঙ Añan - Address to a son-in-law (lit. child) (N.) মে. অঙাঙ।"
+  },
+  {
+    "word": "Añan",
+    "pos": "noun",
+    "definition": "আঙাঙ Añan - Address to a son-in-law (lit. child) (N.) মে. অঙাঙ।"
+  },
+  {
+    "word": "আঙানি",
+    "pos": "noun",
+    "definition": "আঙানি Anani - 1. Being prepared to strike; 2. Being prepared (N.) আঙা + -আনি।"
+  },
+  {
+    "word": "Anani",
+    "pos": "noun",
+    "definition": "আঙানি Anani - 1. Being prepared to strike; 2. Being prepared (N.) আঙা + -আনি।"
+  },
+  {
+    "word": "আঙারা",
+    "pos": "noun",
+    "definition": "আঙারা Anārā - Charcoal (N.) সং. *অঙ্গারক।"
+  },
+  {
+    "word": "Anārā",
+    "pos": "noun",
+    "definition": "আঙারা Anārā - Charcoal (N.) সং. *অঙ্গারক।"
+  },
+  {
+    "word": "আ'ঙালা",
+    "pos": "noun",
+    "definition": "আ'ঙালা A'nãlā - Emblic myrobalan, a kind of fruit (N.) সং, আমলক, 1st syllable influenced by মে. হৈ = fruit."
+  },
+  {
+    "word": "A'nãlā",
+    "pos": "noun",
+    "definition": "আ'ঙালা A'nãlā - Emblic myrobalan, a kind of fruit (N.) সং, আমলক, 1st syllable influenced by মে. হৈ = fruit."
+  },
+  {
+    "word": "আ'ঙালুরি",
+    "pos": "noun",
+    "definition": "আ'ঙালুরি Analuri - A plain lower garment for women (N.) সং. *অঙ্গক + *নড়িক or ডোরিক।"
+  },
+  {
+    "word": "Analuri",
+    "pos": "noun",
+    "definition": "আ'ঙালুরি Analuri - A plain lower garment for women (N.) সং. *অঙ্গক + *নড়িক or ডোরিক।"
+  },
+  {
+    "word": "আঙালপা",
+    "pos": "adjective",
+    "definition": "আঙালপা Analpa - Lighted, enlightened (Adj.) মে. অঙানপা।"
+  },
+  {
+    "word": "Analpa",
+    "pos": "adjective",
+    "definition": "আঙালপা Analpa - Lighted, enlightened (Adj.) মে. অঙানপা।"
+  },
+  {
+    "word": "আঙি",
+    "pos": "-",
+    "definition": "আঙি Ani - V. আঙেই।"
+  },
+  {
+    "word": "Ani",
+    "pos": "-",
+    "definition": "আঙি Ani - V. আঙেই।"
+  },
+  {
+    "word": "আঙুনি",
+    "pos": "-",
+    "definition": "আঙুনি Anuni - V. আঙুলি।"
+  },
+  {
+    "word": "Anuni",
+    "pos": "-",
+    "definition": "আঙুনি Anuni - V. আঙুলি।"
+  },
+  {
+    "word": "আঙুলি",
+    "pos": "noun",
+    "definition": "আঙুলি Anuli - Finger, toe (N.) সং. *অঙ্গুলিক।"
+  },
+  {
+    "word": "Anuli",
+    "pos": "noun",
+    "definition": "আঙুলি Anuli - Finger, toe (N.) সং. *অঙ্গুলিক।"
+  },
+  {
+    "word": "আঙেই",
+    "pos": "noun",
+    "definition": "আঙেই Anei - Shirt (N.) সং. অঙ্গিকা।"
+  },
+  {
+    "word": "Anei",
+    "pos": "noun",
+    "definition": "আঙেই Anei - Shirt (N.) সং. অঙ্গিকা।"
+  },
+  {
+    "word": "আঙোম",
+    "pos": "noun",
+    "definition": "আঙোম Anom - Name of a Manipuri clan (N.) মে. আঙোম।"
+  },
+  {
+    "word": "Anom",
+    "pos": "noun",
+    "definition": "আঙোম Anom - Name of a Manipuri clan (N.) মে. আঙোম।"
+  },
+  {
+    "word": "আঙৌ",
+    "pos": "adjective",
+    "definition": "আঙৌ Anau - White (Adj.) মে. অভৌপা।"
+  },
+  {
+    "word": "Anau",
+    "pos": "adjective",
+    "definition": "আঙৌ Anau - White (Adj.) মে.অভৌপা।"
+  },
+  {
+    "word": "আঙৌপা",
+    "pos": "-",
+    "definition": "আঙৌপা Āñaupā - V. above."
+  },
+  {
+    "word": "Āñaupā",
+    "pos": "-",
+    "definition": "আঙৌপা Āñaupā - V. above."
+  },
+  {
+    "word": "আঙ্কট",
+    "pos": "noun",
+    "definition": "আঙ্কট Ankat - A kind of plant, Sun-plant (N.) সং. আকন্দ।"
+  },
+  {
+    "word": "Ankat",
+    "pos": "noun",
+    "definition": "আঙ্কট Ankat - A kind of plant, Sun-plant (N.) সং. আকন্দ।"
+  },
+  {
+    "word": "আঙ্গর",
+    "pos": "noun",
+    "definition": "আঙ্গর Angar - Shirt (N.) সং. অঙ্গরক্ষক।"
+  },
+  {
+    "word": "Angar",
+    "pos": "noun",
+    "definition": "আঙ্গর Angar - Shirt (N.) সং. অঙ্গরক্ষক।"
+  },
+  {
+    "word": "আঙ্গুর",
+    "pos": "noun",
+    "definition": "আঙ্গুর Angur - Grape (N.) পা. আঙ্গুর।"
+  },
+  {
+    "word": "Angur",
+    "pos": "noun",
+    "definition": "আঙ্গুর Angur - Grape (N.) পা. আঙ্গুর।"
+  },
+  {
+    "word": "আ'ঙচিল",
+    "pos": "noun",
+    "definition": "আ'ঙচিল A'ncil - Return, backward, turn (N.) মে. হঞ্জিনপা। বিধা = a method of sewing।"
+  },
+  {
+    "word": "A'ncil",
+    "pos": "noun",
+    "definition": "আ'ঙচিল A'ncil - Return, backward, turn (N.) মে. হঞ্জিনপa। বিধা = a method of sewing।"
+  },
+  {
+    "word": "আঙঠি",
+    "pos": "noun",
+    "definition": "আঙঠি Anthi - Ring (N.) পা. আঙ্গুষ্ঠিকা।"
+  },
+  {
+    "word": "Anthi",
+    "pos": "noun",
+    "definition": "আঙঠি Anthi - Ring (N.) পা.  আঙ্গুষ্ঠিকা।"
+  },
+  {
+    "word": "আঙঠিয়া",
+    "pos": "adjective",
+    "definition": "আঙঠিয়া Anthiya - Curved like a ring (Adj.) আঙঠি + -ইয়া।"
+  },
+  {
+    "word": "Anthiya",
+    "pos": "adjective",
+    "definition": "আঙঠিয়া Anthiya - Curved like a ring (Adj.) আঙঠি + -ইয়া।"
+  },
+  {
+    "word": "আঙসিনা",
+    "pos": "adverb",
+    "definition": "আঙসিনা Ansină - Persistently, unceasingly (Adv.) মে. অকনপা + থীনপা।"
+  },
+  {
+    "word": "Ansină",
+    "pos": "adverb",
+    "definition": "আঙসিনা Ansină - Persistently, unceasingly (Adv.) মে. অকনপা + থীনপা।"
+  },
+  {
+    "word": "আচইপা",
+    "pos": "noun",
+    "definition": "আচইপা Acaipa - Small coins, change (N.) মে. অচোইপা।"
+  },
+  {
+    "word": "Acaipa",
+    "pos": "noun",
+    "definition": "আচইপা Acaipa - Small coins, change (N.) মে. অচোইপা।"
+  },
+  {
+    "word": "আচইপী",
+    "pos": "noun",
+    "definition": "আচইপী Acaipi - A measure of drum-music played as an interlude (N.) মে. অচোইপী।"
+  },
+  {
+    "word": "Acaipi",
+    "pos": "noun",
+    "definition": "আচইপী Acaipi - A measure of drum-music played as an interlude (N.) মে. অচোইপী।"
+  },
+  {
+    "word": "আচপ্পা",
+    "pos": "adjective",
+    "definition": "আচপ্পা Acappā - Obscene, shameful (Adj.) মে. অচোপ্সা।"
+  },
+  {
+    "word": "Acappā",
+    "pos": "adjective",
+    "definition": "আচপ্পা Acappā - Obscene, shameful (Adj.) মে. অচোপ্সা।"
+  },
+  {
+    "word": "আচরণ",
+    "pos": "noun",
+    "definition": "আচরণ Acaran - Behaviour (N.) সং.।"
+  },
+  {
+    "word": "Acaran",
+    "pos": "noun",
+    "definition": "আচরণ Acaran - Behaviour (N.) সং.।"
+  },
+  {
+    "word": "আচল",
+    "pos": "noun",
+    "definition": "আচল Acal - An ornamental border of women's dress (N.) সং. অঞ্চল।"
+  },
+  {
+    "word": "Acal",
+    "pos": "noun",
+    "definition": "আচল Acal - An ornamental border of women's dress (N.) সং. অঞ্চল।"
+  },
+  {
+    "word": "আচা-আদা(ক)",
+    "pos": "noun",
+    "definition": "আচা-আদা(ক) Ācā-ādā(k) - Food and drink (N.) মে. অচাপা+অথকপা।"
+  },
+  {
+    "word": "Ācā-ādā(k)",
+    "pos": "noun",
+    "definition": "আচা-আদা(ক) Ācā-ādā(k) - Food and drink (N.) মে. অচাপা+অথকপা।"
+  },
+  {
+    "word": "আ'চাঙাচাক",
+    "pos": "noun",
+    "definition": "আ'চাঙাচাক a'cānācāk - A medicinal plant growing in watery places (N.) মে. হচাঙচাক।"
+  },
+  {
+    "word": "a'cānācāk",
+    "pos": "noun",
+    "definition": "আ'চাঙাচাক a'cānācāk - A medicinal plant growing in watery places (N.) মে. হচাঙচাক।"
+  },
+  {
+    "word": "আচাঙপা",
+    "pos": "adjective",
+    "definition": "আচাঙপা Acâñpă - Ordinary, vile (Adj.) মে. অচঙপা।"
+  },
+  {
+    "word": "Acâñpă",
+    "pos": "adjective",
+    "definition": "আচাঙপা Acâñpă - Ordinary, vile (Adj.) মে.  অচঙপা।"
+  },
+  {
+    "word": "আচানক",
+    "pos": "adjective",
+    "definition": "আচানক Acānak - 1. Astonished; 2. Astonishment (Adj./N.) সং. আশ্চর্য্যজনক।"
+  },
+  {
+    "word": "Acānak",
+    "pos": "adjective",
+    "definition": "আচানক Acānak - 1. Astonished; 2. Astonishment (Adj./N.) সং. আশ্চর্য্যজনক।"
+  },
+  {
+    "word": "আচালা",
+    "pos": "noun",
+    "definition": "আচালা Acālā - A wrapper (N.) সং. *অঞ্চলক।"
+  },
+  {
+    "word": "Acālā",
+    "pos": "noun",
+    "definition": "আচালা Acālā - A wrapper (N.) সং. *অঞ্চলক।"
+  },
+  {
+    "word": "আচিকপা",
+    "pos": "adjective",
+    "definition": "আচিকপা Acikpā - 1. Lonely, peaceful, 2. Secret (Adj.) মে. অচিকপা।"
+  },
+  {
+    "word": "Acikpā",
+    "pos": "adjective",
+    "definition": "আচিকপা Acikpā - 1. Lonely, peaceful, 2. Secret (Adj.) মে. অচিকপা।"
+  },
+  {
+    "word": "আচুম্পা",
+    "pos": "adjective",
+    "definition": "আচুম্পা Acumpā - True, exact (Adj.) মে. অচুম্পা।"
+  },
+  {
+    "word": "Acumpā",
+    "pos": "adjective",
+    "definition": "আচুম্পা Acumpā - True, exact (Adj.) মে. অচুম্পা।"
+  },
+  {
+    "word": "আচুর",
+    "pos": "verb",
+    "definition": "আচুর Acur - 1. To comb; 2. To scratch (V.) সং. *অঞ্চট (fr. অঞ্চ = to adorn), denom."
+  },
+  {
+    "word": "Acur",
+    "pos": "verb",
+    "definition": "আচুর Acur - 1. To comb; 2. To scratch (V.) সং. *অঞ্চট (fr. অঞ্চ = to adorn), denom."
+  },
+  {
+    "word": "আচুরা",
+    "pos": "verb",
+    "definition": "আচুরা Acurā - 1. To comb; 2. To scratch (V.) V. above."
+  },
+  {
+    "word": "Acurā",
+    "pos": "verb",
+    "definition": "আচুরা Acurā - 1. To comb; 2. To scratch (V.) V. above."
+  },
+  {
+    "word": "আচুরা",
+    "pos": "noun",
+    "definition": "আচুরা Acurā - Scratch (N.) সং. *অঞ্চটক।"
+  },
+  {
+    "word": "Acurā",
+    "pos": "noun",
+    "definition": "আচুরা Acurā - Scratch (N.) সং. *অঞ্চটক।"
+  },
+  {
+    "word": "আচুরি",
+    "pos": "noun",
+    "definition": "আচুরি Acuri - Mutual scratching (N.)"
+  },
+  {
+    "word": "Acuri",
+    "pos": "noun",
+    "definition": "আচুরি Acuri - Mutual scratching (N.)"
+  },
+  {
+    "word": "আচুরানি",
+    "pos": "noun",
+    "definition": "আচুরানি Acurāni - Scratching, combing (N.) আচুর-/আচুরা + -আনি।"
+  },
+  {
+    "word": "Acurāni",
+    "pos": "noun",
+    "definition": "আচুরানি Acurāni - Scratching, combing (N.) আচুর-/আচুরা + -আনি।"
+  },
+  {
+    "word": "আচুল",
+    "pos": "verb",
+    "definition": "আচুল Acul - 1. To pull, to attract; 2. To breath hard (V.) সং. *আ-চোরয়- or আচালয়-।"
+  },
+  {
+    "word": "Acul",
+    "pos": "verb",
+    "definition": "আচুল Acul - 1. To pull, to attract; 2. To breath hard (V.) সং. *আ-চোরয়- or আচালয়-।"
+  },
+  {
+    "word": "আচুল",
+    "pos": "noun",
+    "definition": "আচুল Acul - 1. Pull, 2. Scarcity, decrease (N.) আচুল + -অ। -ঠেলা = Pulling and pushing, up and down."
+  },
+  {
+    "word": "Acul",
+    "pos": "noun",
+    "definition": "আচুল Acul - 1. Pull, 2. Scarcity, decrease (N.) আচুল + -অ। -ঠেলা = Pulling and pushing, up and down."
+  },
+  {
+    "word": "আচুলা",
+    "pos": "noun",
+    "definition": "আচুলা Aculā - Asthma (N.) আচুল + -আ।"
+  },
+  {
+    "word": "Aculā",
+    "pos": "noun",
+    "definition": "আচুলা Aculā - Asthma (N.) আচুল + -আ।"
+  },
+  {
+    "word": "আচুলা-আচুলi",
+    "pos": "noun",
+    "definition": "আচুলা-আচুলি Aculá-āculi - Mutual pulling (N.) Recipr. fr: আচুল-।"
+  },
+  {
+    "word": "Aculá-āculi",
+    "pos": "noun",
+    "definition": "আচুলা-আচুলি Aculá-āculi - Mutual pulling (N.) Recipr. fr: আচুল-।"
+  },
+  {
+    "word": "আচুলানি",
+    "pos": "noun",
+    "definition": "আচুলানি Aculâni - 1. Pulling; 2. Breathing hard (N.) আচুল- + -আনি।"
+  },
+  {
+    "word": "Aculâni",
+    "pos": "noun",
+    "definition": "আচুলানি Aculâni - 1. Pulling; 2. Breathing hard (N.) আচুল- + -আনি।"
+  },
+  {
+    "word": "আচুলা-পিচুলা",
+    "pos": "noun",
+    "definition": "আচুলা-পিচুলা Aculá-piculā - Pulling hither and thither (N.) আচুলা + echo-word."
+  },
+  {
+    "word": "Aculá-piculā",
+    "pos": "noun",
+    "definition": "আচুলা-পিচুলা Aculá-piculā - Pulling hither and thither (N.) আচুলা + echo-word."
+  },
+  {
+    "word": "আচুলা-পিচুলি",
+    "pos": "noun",
+    "definition": "আচুলা-পিচুলি Āculā-piculi - Pulling hither and thither (N.) V. above; phonetic change."
+  },
+  {
+    "word": "Āculā-piculi",
+    "pos": "noun",
+    "definition": "আচুলা-পিচুলি Āculā-piculi - Pulling hither and thither (N.) V. above; phonetic change."
+  },
+  {
+    "word": "আচেৎপা",
+    "pos": "adjective",
+    "definition": "আচেৎপা Acetpà - Confidential, reserved (Adj.) মে. অচোৎপা।"
+  },
+  {
+    "word": "Acetpà",
+    "pos": "adjective",
+    "definition": "আচেৎপা Acetpà - Confidential, reserved (Adj.) মে. অচোৎপা।"
+  },
+  {
+    "word": "আচ্চা",
+    "pos": "-",
+    "definition": "আচ্চা Accā - Fie (Int.) মে. অচ্চা।"
+  },
+  {
+    "word": "Accā",
+    "pos": "-",
+    "definition": "আচ্চা Accā - Fie (Int.) মে. অচ্চা।"
+  },
+  {
+    "word": "আচ্চুলে",
+    "pos": "adverb",
+    "definition": "আচ্চুলে Accule - Loudly (Adv.) আচুল- + -ইয়া।"
+  },
+  {
+    "word": "Accule",
+    "pos": "adverb",
+    "definition": "আচ্চুলে Accule - Loudly (Adv.) আচুল- + -ইয়া।"
+  },
+  {
+    "word": "আচ্ছা",
+    "pos": "-",
+    "definition": "আচ্ছা Acchä - Well, yes (Int.) MIA. অচ্ছ।"
+  },
+  {
+    "word": "Acchä",
+    "pos": "-",
+    "definition": "আচ্ছা Acchä - Well, yes (Int.) MIA. অচ্ছ।"
+  },
+  {
+    "word": "আছ",
+    "pos": "noun",
+    "definition": "আছ Ach - Fibre (N.) সং, অংশু।"
+  },
+  {
+    "word": "Ach",
+    "pos": "noun",
+    "definition": "আছ Ach - Fibre (N.) সং, অংশু।"
+  },
+  {
+    "word": "আছ",
+    "pos": "verb",
+    "definition": "আছ Ach - To remain, to be (V.) MIA. অচ্ছ-।"
+  },
+  {
+    "word": "Ach",
+    "pos": "verb",
+    "definition": "আছ Ach - To remain, to be (V.) MIA. অচ্ছ-।"
+  },
+  {
+    "word": "আছ",
+    "pos": "verb",
+    "definition": "আছ Ach - To scratch, to peel (V.) Denom. fr. আছ-।"
+  },
+  {
+    "word": "Ach",
+    "pos": "verb",
+    "definition": "আছ Ach - To scratch, to peel (V.) Denom. fr. আছ-।"
+  },
+  {
+    "word": "আছানি",
+    "pos": "noun",
+    "definition": "আছানি Achâni - Existing (N.) আছ- + -আনি।"
+  },
+  {
+    "word": "Achâni",
+    "pos": "noun",
+    "definition": "আছানি Achâni - Existing (N.) আছ- + -আনি।"
+  },
+  {
+    "word": "আছানি",
+    "pos": "noun",
+    "definition": "আছানি Achāni - Scratching, Peeling (N.) 2. আছ + -আনি।"
+  },
+  {
+    "word": "Achāni",
+    "pos": "noun",
+    "definition": "আছানি Achāni - Scratching, Peeling (N.) 2. আছ + -আনি।"
+  },
+  {
+    "word": "আছাড়",
+    "pos": "noun",
+    "definition": "আছাড় Achăr - Slip, fall, toppling down (N.) সং, অচ্ছাপত or আচ্ছর্দ।"
+  },
+  {
+    "word": "Achăr",
+    "pos": "noun",
+    "definition": "আছাড় Achăr - Slip, fall, toppling down (N.) সং, অচ্ছাপত or আচ্ছর্দ।"
+  },
+  {
+    "word": "আছাড়া",
+    "pos": "verb",
+    "definition": "আছাড়া Achārā - To pull down, to dash against (V.) Denom. fr. above."
+  },
+  {
+    "word": "Achārā",
+    "pos": "verb",
+    "definition": "আছাড়া Achārā - To pull down, to dash against (V.) Denom. fr. above."
+  },
+  {
+    "word": "আছাড়ানি",
+    "pos": "noun",
+    "definition": "আছাড়ানি Acharāni - Pulling down, dashing against (N.) আছাড়া + আনি।"
+  },
+  {
+    "word": "Acharāni",
+    "pos": "noun",
+    "definition": "আছাড়ানি Acharāni - Pulling down, dashing against (N.) আছাড়া + আনি।"
+  },
+  {
+    "word": "আছুৱা",
+    "pos": "verb",
+    "definition": "আছুৱা Achuwā - Caus. fr. আছ-।"
+  },
+  {
+    "word": "Achuwā",
+    "pos": "verb",
+    "definition": "আছুৱা Achuwā - Caus. fr. আছ-।"
+  },
+  {
+    "word": "আজ",
+    "pos": "verb",
+    "definition": "আজ Aj - To happen (V.) সং. আপদ্য- Or আজায়-।"
+  },
+  {
+    "word": "Aj",
+    "pos": "verb",
+    "definition": "আজ Aj - To happen (V.) সং. আপদ্য- Or আজায়-।"
+  },
+  {
+    "word": "আজকতা",
+    "pos": "noun",
+    "definition": "আজকতা Ājaktā - Mishap, Carelessness (N.) সং. *অযুক্তক।"
+  },
+  {
+    "word": "Ājaktā",
+    "pos": "noun",
+    "definition": "আজকতা Ājaktā - Mishap, Carelessness (N.) সং. *অযুক্তক।"
+  },
+  {
+    "word": "আজন্ম",
+    "pos": "adverb",
+    "definition": "আজন্ম Ajanma - Beginning from birth (Adv.) সং.।"
+  },
+  {
+    "word": "Ajanma",
+    "pos": "adverb",
+    "definition": "আজন্ম Ajanma - Beginning from birth (Adv.) সং.।"
+  },
+  {
+    "word": "আজন্ম",
+    "pos": "noun",
+    "definition": "আজন্ম Ajanma - Other or previous birth (N.) আর-জন্ম।"
+  },
+  {
+    "word": "Ajanma",
+    "pos": "noun",
+    "definition": "আজন্ম Ajanma - Other or previous birth (N.) আর-জন্ম।"
+  },
+  {
+    "word": "আজা",
+    "pos": "noun",
+    "definition": "আজা Ajā - Grand father (N.) সং. *আর্য্যক।"
+  },
+  {
+    "word": "Ajā",
+    "pos": "noun",
+    "definition": "আজা Ajā - Grand father (N.) সং. *আর্য্যক।"
+  },
+  {
+    "word": "আজা",
+    "pos": "verb",
+    "definition": "আজা Ajā - To cause to happen, to over burden (V.) caus. fr. আজ-।"
+  },
+  {
+    "word": "Ajā",
+    "pos": "verb",
+    "definition": "আজা Ajā - To cause to happen, to over burden (V.) caus. fr. আজ-।"
+  },
+  {
+    "word": "আজান",
+    "pos": "noun",
+    "definition": "আজান Ajän - Call to prayer (of Mohamedans) (N.) আ. অজান।"
+  },
+  {
+    "word": "Ajän",
+    "pos": "noun",
+    "definition": "আজান Ajän - Call to prayer (of Mohamedans) (N.) আ. অজান।"
+  },
+  {
+    "word": "আজানি",
+    "pos": "noun",
+    "definition": "আজানি Ajāni - 1. Happening; 2. Causing to happen (N.) আজ- + -আনি, আজা- + -আনি।"
+  },
+  {
+    "word": "Ajāni",
+    "pos": "noun",
+    "definition": "আজানি Ajāni - 1. Happening; 2. Causing to happen (N.) আজ- + -আনি, আজা- + -আনি।"
+  },
+  {
+    "word": "আজাব",
+    "pos": "adjective",
+    "definition": "আজাব ājāb - Conjested, overcrowded (Adj.) পা. অজাব।"
+  },
+  {
+    "word": "ājāb",
+    "pos": "adjective",
+    "definition": "আজাব ājāb - Conjested, overcrowded (Adj.) পা. অজাব।"
+  },
+  {
+    "word": "আজালা",
+    "pos": "adjective",
+    "definition": "আজালা Ajalā - Having less growth (Adj.) সং *অজলক, Syl. Beng. আজলা। -বিজালা = having less growth."
+  },
+  {
+    "word": "Ajalā",
+    "pos": "adjective",
+    "definition": "আজালা Ajalā - Having less growth (Adj.) সং *অজলক, Syl. Beng. আজলা। -বিজালা = having less growth."
+  },
+  {
+    "word": "আজালি",
+    "pos": "noun",
+    "definition": "আজালি Ajāli - A kind of louse growing on animal's skin (N.)"
+  },
+  {
+    "word": "Ajāli",
+    "pos": "noun",
+    "definition": "আজালি Ajāli - A kind of louse growing on animal's skin (N.)"
   }
 ]
